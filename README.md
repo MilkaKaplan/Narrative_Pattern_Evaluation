@@ -100,7 +100,7 @@ ParameterValueDescriptionThreshold≥ 3Minimum score for positive genre labelTop
 Citation
 bibtex@inproceedings{authorname2026narrative,
   title     = {Evaluating Narrative Genre Patterns in Award-Winning Novellas},
-  author    = {[AMilka Kaplan, Armin Shmilovici, Mark Last]},
+  author    = {[Milka Kaplan, Armin Shmilovici, Mark Last]},
   booktitle = {Proceedings of the Text2Story 2026 Workshop},
   year      = {2026}
 }
