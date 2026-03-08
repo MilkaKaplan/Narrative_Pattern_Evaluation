@@ -1,1 +1,36 @@
-
+genre,filename,year,author,word_count,avg_rating,goodreads_score
+tragedy,002_mice-and-men.txt,1937,John Steinbeck,29673,3.89,31023
+tragedy,302_the_great_gatsby.txt,1925,F. Scott Fitzgerald,48447,3.93,168
+tragedy,000_the_old_man_and_the_sea.txt,1952,Ernest Hemingway,26269,3.81,26163
+tragedy,001_animal-farm.txt,1945,George Orwell,29908,3.99,51254
+tragedy,051_the_picture_of_dorian_gray.txt,1891,Oscar Wilde,54348,4.13,2753
+tragedy,028_Lord_of_the_flies.txt,1954,William Golding,59725,3.70,4283
+tragedy,093_to_kill_a_mocking_bird.txt,1960,Harper Lee,99235,4.26,1034
+satire,067_the_catcher_in_the_rye.txt,1951,J.D. Salinger,74190,3.80,1684
+satire,102_Miss_Lonelyhearts.txt,1933,Nathanael West,23203,3.75,941
+satire,109_being_there.txt,1970,Jerzy Kosinski,25149,3.86,842
+satire,156_the_13_clocks.txt,1950,James Thurber,11750,4.00,457
+satire,258_farmer_giles_of_ham.txt,1949,J.R.R. Tolkien,16840,3.88,209
+satire,317_the_wonderful_o.txt,1957,James Thurber,10757,3.87,152
+satire,407_the_restaurant_at_the_end.txt,1980,Douglas Adams,52256,4.20,100
+romance,055_giovannis_room.txt,1956,James Baldwin,54693,4.33,2647
+romance,151_on_chesil_beach.txt,2007,Ian McEwan,36743,3.61,475
+romance,270_the_governess_affair.txt,2012,Courtney Milan,32960,3.85,195
+romance,377_greater_than_rubies.txt,2012,Hallee Bridgeman,56920,4.04,100
+romance,418_breathless.txt,2012,Sophie Jordan,25116,3.80,99
+romance,489_skin_deep.txt,2012,Pamela Clare,52170,4.12,94
+romance,560_how_to_marry_a_werewolf.txt,2018,Gail Carriger,47391,4.19,81
+mystery,054_doyle-hound-383.txt,1902,Arthur Conan Doyle,59321,4.13,2678
+mystery,135_the_maltese_falcon.txt,1930,Dashiell Hammett,66479,3.87,553
+mystery,036_the_turn_of_the_screw.txt,1898,Henry James,39471,3.39,3488
+mystery,191_every_heart_a_doorway.txt,2016,Seanan McGuire,38579,3.72,367
+mystery,337_the_library_window.txt,1896,Mrs. Oliphant,18403,3.71,137
+mystery,345_lyras_oxford.txt,2003,Philip Pullman,7354,3.62,132
+mystery,495_hammers_on_bone.txt,2016,Cassandra Khaw,17662,3.62,93
+comedy,043_the_prime_of_miss_jean_brodie.txt,1961,Muriel Spark,39498,3.70,3121
+comedy,079_shopgirl.txt,2000,Steve Martin,36583,3.42,1316
+comedy,316_the_canterville_ghost.txt,1887,Oscar Wilde,11373,3.88,154
+comedy,046_cannery_row.txt,1945,John Steinbeck,49837,4.06,2958
+comedy,268_under_the_greenwood_tree.txt,1872,Thomas Hardy,56707,3.65,196
+comedy,452_the_perilous_life_of_jade.txt,2012,Zen Cho,24874,3.79,97
+comedy,201_the_tiny_wife.txt,2010,Andrew Kaufman,14313,3.61,343
