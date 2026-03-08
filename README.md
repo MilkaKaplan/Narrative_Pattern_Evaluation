@@ -4,7 +4,7 @@ Evaluating Narrative Genre Patterns in Award-Winning Novellas using LLMs
 This repository contains the data, code, and results for the paper:
 
 > *"Evaluating Narrative Genre Patterns in Award-Winning Novellas"*  
-> [Author names], Text2Story 2026 Workshop  
+> [Milka Kaplan, Armin Shmilovici, Mark Last], Text2Story 2026 Workshop  
 > [Link to paper when available]
 
 ---
@@ -142,7 +142,7 @@ python analysis/multitask_lasso.py \
 ```bibtex
 @inproceedings{authorname2026narrative,
   title     = {Evaluating Narrative Genre Patterns in Award-Winning Novellas},
-  author    = {[Author names]},
+  author    = {[Milka Kaplan, Armin Shmilovici, Mark Last]},
   booktitle = {Proceedings of the Text2Story 2026 Workshop},
   year      = {2026}
 }
