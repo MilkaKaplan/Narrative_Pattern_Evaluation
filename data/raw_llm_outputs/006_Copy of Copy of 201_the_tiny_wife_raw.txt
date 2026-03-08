@@ -1,0 +1,28 @@
+FILE: Copy of Copy of 201_the_tiny_wife.txt
+PROCESSED: 2026-01-15 09:38:10
+WORDS: 14,560
+================================================================================
+
+Let's analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 11/20
+Coverage: 0.55
+Score: 2
+Justification: The story follows a metaphorical heroic journey centered on Stacey's transformation, with the thief as a transformative agent who initiates a profound personal and existential quest for the bank robbery participants.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Explicit - The bank robbery fundamentally disrupts everyone's lives)
+2. Meeting with the Mentor: 2 (The thief acts as a metaphorical mentor, challenging participants' understanding of soul and existence)
+3. Departure: 2 (Characters leave their ordinary world through bizarre transformations)
+4. Trials and Challenges: 2 (Each character faces unique, surreal challenges post-robbery)
+5. Approach to Inmost Cave: 1 (Partial - Support group meetings represent a collective confrontation)
+6. Ordeal: 2 (Characters face metaphorical deaths/transformations)
+7. Reward: 1 (Partial - Characters gain strange insights)
+8. Return: 2 (Characters attempt to reintegrate into normal life)
+9. Resurrection: 1 (Partial - Some characters experience renewal)
+10. Return with Elixir: 1 (Subtle transformative knowledge gained)
+
+The story brilliantly subverts the traditional heroic quest by making the journey psychological and existential rather than physical.

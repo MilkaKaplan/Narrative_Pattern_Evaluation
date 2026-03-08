@@ -1,0 +1,25 @@
+FILE: Copy of Copy of 109_being_there.txt
+PROCESSED: 2026-01-14 11:28:10
+WORDS: 25,723
+================================================================================
+
+Let me analyze this text using the Comedy genre narrative pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 2
+Justification: The text demonstrates most comedy stages, with strong elements of social disruption, misunderstandings, and character transformations, though not all stages are fully developed.
+
+Stage Breakdown:
+1. Set Up (2/2): Chance's isolated life in the garden and his limited understanding of the world
+2. Catalyst (2/2): Chance leaving the garden after the Old Man's death
+3. Rising Action (2/2): Chance's unexpected interactions with EE, Rand, and public figures
+4. Climax (1/2): TV appearance and public misinterpretation of Chance's simple statements
+5. Falling Action (1/2): Growing public and political fascination with Chance
+6. Resolution (1/2): Potential political candidacy emerges
+7. Denouement (1/2): Hints of future transformations and societal impact
+
+The story follows a comedic structure where a naive protagonist (Chance) becomes unexpectedly influential through misunderstandings and social projections, creating humor through irony and social commentary.

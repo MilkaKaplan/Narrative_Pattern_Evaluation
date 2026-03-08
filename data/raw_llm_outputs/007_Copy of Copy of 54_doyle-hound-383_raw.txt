@@ -1,0 +1,27 @@
+FILE: Copy of Copy of 54_doyle-hound-383.txt
+PROCESSED: 2026-02-11 09:37:18
+WORDS: 60,645
+================================================================================
+
+I'll analyze this text using the Mystery genre pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Genre
+StageTotal: 14/18
+Coverage: 0.78
+Score: 3
+Justification: The text comprehensively covers nearly all mystery stages, including a complex investigation, multiple suspects, red herrings, confrontation of suspects, a dramatic revelation, and a final resolution explaining the entire mystery.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Holmes, Watson, Baskerville introduced early)
+2. Presentation of Mystery: 2 (Sir Charles's mysterious death)
+3. Initial Investigation: 2 (Holmes and Watson begin investigating)
+4. Uncovering Secrets and Clues: 2 (Progressive revelation of Stapleton's plot)
+5. Confrontation of Suspects: 2 (Multiple interrogations and confrontations)
+6. Red Herrings and False Leads: 2 (Multiple misdirections like convict Selden)
+7. Realization or Insight: 2 (Holmes gradually uncovers the truth)
+8. Final Confrontation: 2 (Dramatic chase and defeat of Stapleton)
+9. Resolution and Aftermath: 2 (Detailed explanation of entire mystery)
+
+The text is a quintessential mystery narrative with intricate plot development and a systematic unraveling of a complex criminal scheme.

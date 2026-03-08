@@ -1,0 +1,30 @@
+FILE: Copy of Copy of 67_the_catcher_in_the_rye.txt
+PROCESSED: 2026-02-12 08:05:45
+WORDS: 75,465
+================================================================================
+
+I'll analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - Holden introduces a dystopian world of teenage alienation at Pencey Prep, revealing a society of phoniness, superficiality, and institutional hypocrisy.
+
+Stage 2 (Revelation): [2] - Holden becomes acutely aware of the oppressive social systems around him, particularly the phoniness of schools, adults, and societal expectations.
+
+Stage 3 (Awakening): [2] - Holden undergoes a profound personal awakening, recognizing the systemic dishonesty and superficiality of his environment, rejecting conventional social norms.
+
+Stage 4 (Resistance): [2] - He actively resists the system through rejection of school, social conventions, and adult expectations, choosing isolation and non-conformity.
+
+Stage 5 (Crisis): [2] - Holden experiences extreme psychological struggle, facing mental breakdown, alienation, and existential crisis while confronting societal pressures.
+
+Stage 6 (Consequence): [2] - He suffers significant personal consequences: potential institutionalization, social isolation, and psychological trauma.
+
+Stage 7 (Final Revelation): [2] - The narrative reveals the deeply entrenched nature of societal phoniness and the near-impossibility of genuine human connection.
+
+Stage 8 (Closure): [2] - The story concludes with a somber reflection on human alienation, with Holden's final advice being "Don't ever tell anybody anything."
+
+StageTotal: 16/16
+Coverage: 1.0 (100%)
+Score: 4
+
+Justification: The text represents a comprehensive satirical deconstruction of mid-20th century American social institutions, exposing their inherent phoniness through Holden's deeply personal and psychological critique. The narrative systematically dismantles educational, social, and cultural systems, revealing their fundamental dishonesty and emotional bankruptcy.

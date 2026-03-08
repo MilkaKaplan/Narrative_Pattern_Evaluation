@@ -1,0 +1,25 @@
+FILE: Copy of Copy of 1_animal-farm.txt
+PROCESSED: 2026-01-14 12:03:26
+WORDS: 30,050
+================================================================================
+
+I'll analyze this text using the Tragedy pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Tragedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text perfectly follows the tragic arc of a revolution betrayed, where the protagonist (the animal collective) experiences a complete moral and social downfall from their initial idealistic hopes.
+
+Stage Breakdown:
+1. Normalcy (2/2): Animals live under Jones's oppressive farm regime
+2. Catalyst (2/2): Old Major's revolutionary speech inspires rebellion
+3. Awakening (2/2): Animals overthrow Jones and establish Animal Farm
+4. Confrontation (2/2): Internal conflicts between Snowball and Napoleon emerge
+5. Crisis (2/2): Napoleon consolidates power through manipulation and violence
+6. Downfall (1/2): Animals gradually lose their revolutionary principles
+7. Final Act (1/2): Pigs become indistinguishable from humans, completing the tragic transformation
+
+The text demonstrates a comprehensive tragic structure where the initial noble ideals are systematically corrupted, leading to a complete betrayal of the original revolutionary vision. The animals' dream of equality is ultimately destroyed by the very leaders who promised liberation.
