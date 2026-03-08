@@ -140,9 +140,9 @@ python analysis/multitask_lasso.py \
 ## Citation
 
 ```bibtex
-@inproceedings{authorname2026narrative,
+@inproceedings{kaplan2026narrative,
   title     = {Evaluating Narrative Genre Patterns in Award-Winning Novellas},
-  author    = {[Milka Kaplan, Armin Shmilovici, Mark Last]},
+  author    = {Kaplan, Milka and Shmilovici, Armin and Last, Mark},
   booktitle = {Proceedings of the Text2Story 2026 Workshop},
   year      = {2026}
 }
