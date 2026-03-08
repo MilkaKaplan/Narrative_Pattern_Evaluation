@@ -29,7 +29,7 @@ narrative-pattern-evaluation/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   ├── corpus_35_metadata.csv          # Title, author, year, genre, word count
+│   ├── corpus_35_metadata.csv          # Title, author, year, word count, avg. raiting (GoodReads), score
 │   ├── texts/                       # Cleaned texts (public domain only)
 │   │   ├── 001_animal-farm.txt
 │   │   ├── 054_doyle-hound-383.txt
