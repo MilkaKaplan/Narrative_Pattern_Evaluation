@@ -43,7 +43,12 @@ narrative-pattern-evaluation/
 │   └── raw_llm_outputs/
 │       └── animal_farm_tragedy.txt  # Example raw LLM output
 ├── prompts/
-│   ├── prompt_template.txt          # Base prompt template
+├── prompt_tragedy.txt
+├── prompt_comedy.txt
+├── prompt_romance.txt
+├── prompt_mystery.txt
+├── prompt_satire.txt
+└── run_annotation.py 
 │   └── run_annotation.py            # API call script
 ├── analysis/
 │   ├── binomial_test.xlsx           # Binomial test (H0/H1)
@@ -89,7 +94,12 @@ Scores are on a 0–4 scale:
 
 The LLM annotation used a bottom-up aggregation approach: each structural element was scored first (0/1/2), then aggregated into a genre coverage score.
 
-See `prompts/prompt_template.txt` for the exact prompt used with all three LLMs.
+Each genre has a dedicated prompt reflecting its specific structural elements as defined in PatternTeller and used with all three LLMs:
+- `prompts/prompt_tragedy.txt` — 7 elements (Normalcy, Catalyst, ...)
+- `prompts/prompt_comedy.txt` — 7 elements
+- `prompts/prompt_romance.txt` — 10 elements
+- `prompts/prompt_mystery.txt` — 9 elements
+- `prompts/prompt_satire.txt` — 8 elements
 
 ---
 
