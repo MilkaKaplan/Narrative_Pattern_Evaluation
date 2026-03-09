@@ -68,7 +68,8 @@ narrative-pattern-evaluation/
 ## Data
 
 ### Corpus
-35 award-winning English novellas (7,500–102,810 words) from 5 genres (7 per genre): Comedy, Mystery, Romance, Satire, Tragedy. Selected from the [Goodreads Best Novellas list](https://www.goodreads.com/list/show/22695).
+35 award-winning English novellas (7,500–102,810 words) from 5 genres (7 per genre): Comedy, Mystery, Romance, Satire, Tragedy. Selected from the [Goodreads Best Novellas list](https://www.goodreads.com/list/show/1236.World_s_Greatest_Novellas).
+
 
 Full metadata available in `data/corpus_metadata.csv`.
 
