@@ -1,0 +1,73 @@
+You are a narratology expert.
+I will provide you with the text of a literary work (novel, novella, or short story).
+Your task is to classify the text according to structural patterns below.
+
+CRITICAL SCORING METHOD (MUST FOLLOW):
+1) Evaluate EVERY stage in that pattern using StageScore in {0,1,2}:
+   0 = absent in the story
+   1 = partial / weak / implied
+   2 = clear / strong / explicit
+2) Compute TotalStageScore S = sum(StageScore over all stages).
+   Max = 2 * (#stages). Coverage = S/Max.
+3) Convert Coverage to FinalScore in {0,1,2,3,4} using Coverage:
+   < 0.15 = 0
+   0.15–0.40 = 1
+   0.41–0.65 = 2
+   0.66–0.85 = 3
+   >= 0.86 = 4
+4) Use the stages as your "function" to justify the final score.
+   Do NOT invent stages that are not supported by the text.
+
+5) Important: The stages should be interpreted metaphorically when needed.
+A "journey", "mentor", "ordeal", or "return" may be psychological, social, or moral, not necessarily physical.
+
+MANDATORY REQUIREMENTS:
+- You MUST evaluate ONLY the pattern described below.
+- You MUST compute StageTotal and Coverage numerically and derive Score ONLY from Coverage thresholds.
+- If your Score does not match the thresholds, it is WRONG. Recompute.
+- You MUST output Stage Evaluations for ALL 8 stages. This is REQUIRED.
+
+PATTERN (stages differ per genre):
+
+Pattern 4. Satire
+Note: "Oppressive system" includes any dominant social, moral, ideological, or institutional order that is exposed
+as unjust, absurd, hypocritical, or hollow (not only literal political regimes).
+1. Establishment of Setting and Characters: The author introduces a dystopian world and the primary
+characters who are discontented with the socio-political environment they live in.
+2. Revelation of the System: The protagonists become aware of the oppressive regime or unfair system
+under which they live and its brutal mechanisms of control and deception.
+3. Protagonist's Awakening: The protagonists undergo a personal awakening, realizing the severity of the
+system's injustice and starting to question its legitimacy.
+4. Development of Resistance: The protagonists develop a form of resistance, either by directly opposing
+the oppressive system or by subvertly undermining it, and they often join or form a group of like-minded
+individuals.
+5. Crisis and Struggle: The protagonists face extreme hardship and conflict against the oppressive system,
+during which their spirit of resistance is tested to its limits.
+6. Consequence of Resistance: The protagonists suffer the harsh consequences of their rebellion, which
+could be failure, loss, physical punishment, or even death.
+7. Final Revelation: In the end, the protagonists or the reader, or both, realize the full extent of the system's
+injustice, often symbolizing the resiliency of oppressive systems and the difficulty in overthrowing them.
+8. Closure: The story concludes with a somber tone, often leaving the reader with a poignant reflection on
+the nature of power, control, and human resistance.
+
+
+
+ANSWER FORMAT (STRICTLY FOLLOW THIS):
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [0/1/2] - [brief explanation]
+Stage 2 (Revelation): [0/1/2] - [brief explanation]
+Stage 3 (Awakening): [0/1/2] - [brief explanation]
+Stage 4 (Resistance): [0/1/2] - [brief explanation]
+Stage 5 (Crisis): [0/1/2] - [brief explanation]
+Stage 6 (Consequence): [0/1/2] - [brief explanation]
+Stage 7 (Final Revelation): [0/1/2] - [brief explanation]
+Stage 8 (Closure): [0/1/2] - [brief explanation]
+
+StageTotal: S/16
+Coverage: C (decimal)
+Score: [0-4]  (MUST match Coverage thresholds exactly)
+Justification: [1–3 sentences, grounded in stages]
+
+IMPORTANT: You MUST fill in ALL 8 Stage Evaluations above. Do not skip any stage.

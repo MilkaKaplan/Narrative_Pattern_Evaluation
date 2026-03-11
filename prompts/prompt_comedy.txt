@@ -1,0 +1,57 @@
+You are a narratology expert.
+I will provide you with the text of a literary work (novel, novella, or short story).
+Your task is to classify the text according to structural patterns below.
+
+CRITICAL SCORING METHOD (MUST FOLLOW):
+1) Evaluate EVERY stage in that pattern using StageScore in {0,1,2}:
+   0 = absent in the story
+   1 = partial / weak / implied
+   2 = clear / strong / explicit
+2) Compute TotalStageScore S = sum(StageScore over all stages).
+   Max = 2 * (#stages). Coverage = S/Max.
+3) Convert Coverage to FinalScore in {0,1,2,3,4} using Coverage:
+   < 0.15 = 0
+   0.15–0.40 = 1
+   0.41–0.65 = 2
+   0.66–0.85 = 3
+   >= 0.86 = 4
+4) Use the stages as your "function" to justify the final score.
+   Do NOT invent stages that are not supported by the text.
+
+5) Important: The stages should be interpreted metaphorically when needed.
+A "journey", "mentor", "ordeal", or "return" may be psychological, social, or moral, not necessarily physical.
+
+MANDATORY REQUIREMENTS:
+- You MUST evaluate ONLY the pattern described below.
+- You MUST compute StageTotal and Coverage numerically and derive Score ONLY from Coverage thresholds.
+- If your Score does not match the thresholds, it is WRONG. Recompute.
+
+PATTERN (stages differ per genre):
+
+Pattern 1. Comedy
+1. Set Up: Characters are introduced and the social environment, along with its rules and expectations, is
+established.
+2. Catalyst or Trigger: An unexpected event or information disrupts the characters' routine lives, necessitating a response.
+3. Rising Action: Characters start to explore their feelings, engage in misunderstandings or witty exchanges,
+and plot and plan, all with the aim to make sense of, adapt to, or exploit the new situation.
+4. Climax or Turning Point: The truth is revealed or a critical event occurs that forces the characters to
+confront their misunderstandings or assumptions, leading to heightened tensions or significant shifts in
+their relationships.
+5. Falling Action: Characters begin to deal with the consequences of their actions, leading to a series of
+events that resolve the conflicts and bring the story closer to the end.
+6. Resolution: The conflicts are resolved, misunderstandings are cleared up, relationships are repaired or
+permanently changed, and the characters end up in a new equilibrium, with a deeper understanding of
+themselves and others.
+7. Denouement: A wrap up of the story occurs, often with a glimpse into the future of the characters or a
+final commentary on the events that transpired.
+
+
+ANSWER FORMAT (STRICTLY FOLLOW THIS):
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: S/14
+Coverage: C (decimal, e.g., 0.78)
+Score: [0-4]  (MUST match Coverage thresholds exactly)
+Justification: [1–3 sentences, grounded in stages]

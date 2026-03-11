@@ -1,0 +1,56 @@
+You are a narratology expert.
+I will provide you with the text of a literary work (novel, novella, or short story).
+Your task is to classify the text according to structural patterns below.
+
+CRITICAL SCORING METHOD (MUST FOLLOW):
+1) Evaluate EVERY stage in that pattern using StageScore in {0,1,2}:
+   0 = absent in the story
+   1 = partial / weak / implied
+   2 = clear / strong / explicit
+2) Compute TotalStageScore S = sum(StageScore over all stages).
+   Max = 2 * (#stages). Coverage = S/Max.
+3) Convert Coverage to FinalScore in {0,1,2,3,4} using Coverage:
+   < 0.15 = 0
+   0.15–0.40 = 1
+   0.41–0.65 = 2
+   0.66–0.85 = 3
+   >= 0.86 = 4
+4) Use the stages as your "function" to justify the final score.
+   Do NOT invent stages that are not supported by the text.
+
+5) Important: The stages should be interpreted metaphorically when needed.
+A "journey", "mentor", "ordeal", or "return" may be psychological, social, or moral, not necessarily physical.
+
+MANDATORY REQUIREMENTS:
+- You MUST evaluate ONLY the pattern described below.
+- You MUST compute StageTotal and Coverage numerically and derive Score ONLY from Coverage thresholds.
+- If your Score does not match the thresholds, it is WRONG. Recompute.
+
+PATTERN (stages differ per genre):
+
+Pattern 3. Tragedy
+1. The Stage of Normalcy: The protagonist lives an ordinary life, unaware of the challenges they will soon
+face.
+2. The Catalyst: The protagonist experiences a disruptive event or piece of information which catalyzes a
+change in their status quo.
+3. The Awakening: The protagonist begins to question their life and values, leading to a shift in perspective
+and the beginning of the quest.
+4. The Confrontation: The protagonist faces internal or external conflicts, often in relation to their ambition
+or their inner struggles, challenging their moral compass.
+5. The Crisis: The protagonist reaches a turning point where they must make a pivotal decision that could
+alter the course of their journey significantly.
+6. The Downfall: The protagonist suffers a deep loss or realization, often as a result of their earlier
+decisions or confrontations, leading to their fall from grace.
+7. The Final Act: The protagonist faces the consequences of their actions, resulting in a resolution that
+often results in their demise or a profound change in their character.
+
+
+ANSWER FORMAT (STRICTLY FOLLOW THIS):
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Tragedy
+StageTotal: S/14
+Coverage: C (decimal, e.g., 0.78)
+Score: [0-4]  (MUST match Coverage thresholds exactly)
+Justification: [1–3 sentences, grounded in stages]

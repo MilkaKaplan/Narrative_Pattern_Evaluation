@@ -1,0 +1,63 @@
+You are a narratology expert.
+I will provide you with the text of a literary work (novel, novella, or short story).
+Your task is to classify the text according to structural patterns below.
+
+CRITICAL SCORING METHOD (MUST FOLLOW):
+1) Evaluate EVERY stage in that pattern using StageScore in {0,1,2}:
+   0 = absent in the story
+   1 = partial / weak / implied
+   2 = clear / strong / explicit
+2) Compute TotalStageScore S = sum(StageScore over all stages).
+   Max = 2 * (#stages). Coverage = S/Max.
+3) Convert Coverage to FinalScore in {0,1,2,3,4} using Coverage:
+   < 0.15 = 0
+   0.15–0.40 = 1
+   0.41–0.65 = 2
+   0.66–0.85 = 3
+   >= 0.86 = 4
+4) Use the stages as your "function" to justify the final score.
+   Do NOT invent stages that are not supported by the text.
+
+5) Important: The stages should be interpreted metaphorically when needed.
+A "journey", "mentor", "ordeal", or "return" may be psychological, social, or moral, not necessarily physical.
+
+MANDATORY REQUIREMENTS:
+- You MUST evaluate ONLY the pattern described below.
+- You MUST compute StageTotal and Coverage numerically and derive Score ONLY from Coverage thresholds.
+- If your Score does not match the thresholds, it is WRONG. Recompute.
+
+PATTERN (stages differ per genre):
+
+Pattern 5. Mystery
+Note: The "detective or investigator" can be any character or narrative voice whose primary function is to
+reconstruct past hidden events (not necessarily a professional detective).
+1. Introduction of Characters and Setting: The protagonist, who is a detective or investigator, is introduced
+in their normal environment, along with other significant characters and setting details.
+2. Presentation of Mystery: A mysterious event, often a crime, is presented that stumps the authorities,
+leading to the involvement of the main protagonist.
+3. Initial Investigation: The protagonist begins their investigation, gathering information and initial clues
+about the mysterious event.
+4. Uncovering Secrets and Clues: The protagonist, through their investigation, uncovers hidden secrets and
+new information that contribute to the complexity of the mystery.
+5. Confrontation of Suspects: The protagonist confronts various suspects or witnesses, gathers their
+accounts, and tests their honesty.
+6. Red Herrings and False Leads: The investigation hits a roadblock, with red herrings and false leads
+diverting the path of the protagonist.
+7. Realization or Insight: The protagonist has a sudden realization or insight, uncovering the truth hidden
+in the complex circumstances.
+8. Final Confrontation: The protagonist confronts the true perpetrator, revealing their identity and the
+motives behind their actions.
+9. Resolution and Aftermath: The mystery is completely unraveled, with the protagonist explaining their
+deductions and the consequences following for the perpetrator. The protagonist then returns to their
+normal life.
+
+
+ANSWER FORMAT (STRICTLY FOLLOW THIS):
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Mystery
+StageTotal: S/18
+Coverage: C (decimal, e.g., 0.78)
+Score: [0-4]  (MUST match Coverage thresholds exactly)
+Justification: [1–3 sentences, grounded in stages]

@@ -1,0 +1,62 @@
+You are a narratology expert.
+I will provide you with the text of a literary work (novel, novella).
+Your task is to classify the text according to structural patterns below.
+
+CRITICAL SCORING METHOD (MUST FOLLOW):
+1) Evaluate EVERY stage in that pattern using StageScore in {0,1,2}:
+   0 = absent in the story
+   1 = partial / weak / implied
+   2 = clear / strong / explicit
+2) Compute TotalStageScore S = sum(StageScore over all stages).
+   Max = 2 * (#stages). Coverage = S/Max.
+3) Convert Coverage to FinalScore in {0,1,2,3,4} using Coverage:
+   < 0.15 = 0
+   0.16–0.40 = 1
+   0.41–0.65 = 2
+   0.66–0.85 = 3
+   >= 0.86 = 4
+4) Use the stages as your "function" to justify the final score.
+   Do NOT invent stages that are not supported by the text.
+
+5) Important: The stages should be interpreted metaphorically when needed.
+A "journey", "mentor", "ordeal", or "return" may be psychological, social, or moral, not necessarily physical.
+
+MANDATORY REQUIREMENTS:
+- You MUST evaluate ONLY the pattern described below.
+- You MUST compute StageTotal and Coverage numerically and derive Score ONLY from Coverage thresholds.
+- If your Score does not match the thresholds, it is WRONG. Recompute.
+
+PATTERN (stages differ per genre):
+
+Pattern 2. Romance (Frye/Ryan meaning: Epic / Heroic Quest, NOT modern love story)
+1. The Call to Adventure: The hero becomes aware of a world beyond their familiar surroundings and feels
+compelled to embark on an epic journey.
+2. The Meeting with the Mentor: The hero meets a seasoned traveler of the worlds who gives them training,
+equipment, or advice that aids them later in their journey.
+3. The Departure: The hero leaves their ordinary world for the first time and crosses the threshold into an
+unknown, dangerous realm where the rules and values are unknown.
+4. The Trials and Challenges: The hero faces tests, meets allies, confronts enemies, and learn the rules of
+the new world. The hero needs to find out who can be trusted.
+5. The Approach to the Inmost Cave: The hero comes at the center point of the journey where they face
+their most difficult challenge related not only to physical survival, but also to personal identity and
+self-realization.
+6. The Ordeal: The hero confronts death or faces their greatest fear, experiencing a metaphorical death. As
+a result, they are reborn and achieve a new state of understanding or skill.
+7. The Reward: Having faced their worst fear and surviving, the hero seizes the reward they have earned.
+8. The Return: The hero must finally recommit to completing their journey and accept the road back to the
+ordinary world.
+9. The Resurrection: At the climax, the hero is severely tested once more on the threshold of home where
+they are purified and reborn again.
+10. The Return With the Elixir: The hero returns home or continues the journey, bearing some element of
+the treasure that has the power to transform the world as the hero has been transformed.
+
+
+ANSWER FORMAT (STRICTLY FOLLOW THIS):
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Romance
+StageTotal: S/20
+Coverage: C (decimal)
+Score: [0-4]  (MUST match Coverage thresholds exactly)
+Justification: [1–3 sentences, grounded in stages]
