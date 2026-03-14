@@ -1,0 +1,619 @@
+filename,primary_narrative_model,primary_score,models_evaluated,word_count,text_length,cost,cache_created,cache_read,input_tokens,output_tokens,raw_response,Genre Comedy
+Copy of Copy of 0_the_old_man_and_the_sea.txt,Romance/Heroic Quest,3,1,26698,129846,0.0266392,0,0,31619,336,"Let's analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 14/20
+Coverage: 0.70
+Score: 3
+Justification: The text strongly represents most stages of the heroic quest, with Santiago embodying the archetypal hero who undertakes an epic journey of endurance, struggle, and self-discovery.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Santiago's lifelong commitment to fishing)
+2. Meeting with Mentor: 1 (Implied through his relationship with the boy)
+3. Departure: 2 (Sailing far out into the Gulf Stream)
+4. Trials and Challenges: 2 (Battling the massive marlin and subsequent sharks)
+5. Approach to Inmost Cave: 2 (Confronting the fish and his own limitations)
+6. Ordeal: 2 (Intense physical and psychological struggle with the fish)
+7. Reward: 2 (Catching the enormous marlin)
+8. Return: 2 (Sailing back to shore)
+9. Resurrection: 2 (Surviving despite being beaten, maintaining dignity)
+10. Return with Elixir: 1 (Partial - he returns transformed but physically diminished)
+
+The narrative powerfully illustrates a heroic journey of endurance, pride, and human resilience against overwhelming natural forces.",0
+Copy of Copy of 109_being_there.txt,Romance/Heroic Quest,2,1,25723,139839,0.0286464,0,0,34263,309,"Let me analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 9/20
+Coverage: 0.45
+Score: 2
+Justification: The text follows a modified psychological/social journey pattern with several key stages present, though not all fully developed.
+
+Stage Breakdown:
+1. Call to Adventure: {2} - Chance's initial departure from the garden represents a clear call to adventure
+2. Meeting with Mentor: {1} - The Old Man provides limited guidance
+3. Departure: {2} - Chance leaves his familiar garden environment
+4. Trials/Challenges: {1} - Encounters with various social situations test Chance
+5. Inmost Cave: {1} - TV appearances represent a psychological transformation point
+6. Ordeal: {1} - Confronting unfamiliar social interactions
+7. Reward: {1} - Gaining social recognition and status
+8. Return: {0} - No clear return to original state
+9. Resurrection: {0} - No definitive rebirth/transformation
+10. Elixir: {0} - No clear transformative element brought back
+
+The story represents a non-traditional, metaphorical hero's journey where Chance's ""adventure"" is through social/media landscapes rather than physical terrain.",0
+Copy of Copy of 156_the_13_clocks.txt,Romance (Heroic Quest),4,1,12343,62780,0.0155656,0,0,17752,341,"=== MODEL EVALUATIONS ===
+
+Model: Romance (Heroic Quest)
+StageTotal: 18/20
+Coverage: 0.90
+Score: 4
+Justification: The text perfectly follows the Romance/Heroic Quest pattern, with Zorn of Zorna embodying a classic hero's journey through challenges, magical encounters, and ultimate transformation.
+
+Stage-by-Stage Evaluation:
+1. Call to Adventure (2/2): Prince leaves familiar realm to rescue Saralinda
+2. Meeting with Mentor (2/2): The Golux guides and assists the Prince
+3. Departure (2/2): Leaves his original world to enter the Duke's strange castle
+4. Trials and Challenges (2/2): Faces multiple impossible tasks and obstacles
+5. Approach to Inmost Cave (2/2): Journey to Hagga's hill and confronting jewel challenge
+6. Ordeal (2/2): Risking death against the Duke's schemes
+7. Reward (2/2): Obtaining the jewels and winning Saralinda
+8. Return (2/2): Leaving the castle for Yarrow
+9. Resurrection (2/2): Overcoming final challenges and transforming the Duke's world
+10. Return with Elixir (2/2): Bringing hope, love, and freedom back to the kingdom
+
+The narrative comprehensively and metaphorically covers every stage of the heroic quest, making it a quintessential example of the genre.",0
+Copy of Copy of 191_every_heart_a_doorway.txt,Romance/Heroic Quest,3,1,39493,211786,0.0428472,0,0,51814,349,"I'll analyze this text using the Romance/Heroic Quest pattern you specified. Here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 14/20
+Coverage: 0.70
+Score: 3
+
+Justification: Nancy's journey follows most classic heroic quest stages, with strong metaphorical interpretations. She experiences a call to adventure (discovering the portal), meets mentors (Eleanor, Kade), departs her ordinary world, faces trials at the school, approaches her inner challenge, experiences an ordeal (confronting Jill), receives a reward (understanding her identity), returns to her world, and ultimately resurrects and returns with her ""elixir"" (self-determination and agency).
+
+Stage Breakdown:
+1. Call to Adventure: 2 (discovering Underworld portal)
+2. Meeting Mentor: 2 (Eleanor, Kade)
+3. Departure: 2 (leaving her parents' world)
+4. Trials/Challenges: 2 (school dynamics, murders)
+5. Approach to Inmost Cave: 2 (confronting school's mysteries)
+6. Ordeal: 2 (facing Jill's plot)
+7. Reward: 1 (partial self-understanding)
+8. Return: 2 (going home, then back to Underworld)
+9. Resurrection: 2 (final transformation)
+10. Return with Elixir: 1 (partial self-realization)",0
+Copy of Copy of 1_animal-farm.txt,Romance/Heroic Quest,3,1,30050,165909,0.0320712,0,0,38389,340,"I'll analyze this text using the Romance/Heroic Quest pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 14/20
+Coverage: 0.70
+Score: 3
+Justification: The text strongly follows most stages of the heroic quest, with a clear call to adventure (Old Major's speech), departure from the old world (rebellion), trials and challenges (building the windmill), and a complex ""resurrection"" and return that ultimately reveals the corruption of the original ideals.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Old Major's revolutionary speech)
+2. Meeting with Mentor: 2 (Old Major as inspirational leader)
+3. Departure: 2 (Overthrowing Jones, establishing Animal Farm)
+4. Trials and Challenges: 2 (Rebuilding windmill, facing human attacks)
+5. Approach to Inmost Cave: 1 (Increasing complexity of farm's politics)
+6. Ordeal: 2 (Boxer's betrayal and death)
+7. Reward: 1 (Temporary farm success)
+8. Return: 1 (Pigs becoming like humans)
+9. Resurrection: 1 (Transformation of principles)
+10. Return with Elixir: 0 (Principles are ultimately corrupted)
+
+The narrative follows the heroic quest structure but subverts it by showing the ultimate betrayal of revolutionary ideals.",0
+Copy of Copy of 201_the_tiny_wife.txt,Romance/Heroic Quest,2,1,14560,77383,0.0168616,0,0,19257,364,"Let's analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 11/20
+Coverage: 0.55
+Score: 2
+Justification: The story follows a metaphorical heroic journey centered on Stacey's transformation, with the thief as a transformative agent who initiates a profound personal and existential quest for the bank robbery participants.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Explicit - The bank robbery fundamentally disrupts everyone's lives)
+2. Meeting with the Mentor: 2 (The thief acts as a metaphorical mentor, challenging participants' understanding of soul and existence)
+3. Departure: 2 (Characters leave their ordinary world through bizarre transformations)
+4. Trials and Challenges: 2 (Each character faces unique, surreal challenges post-robbery)
+5. Approach to Inmost Cave: 1 (Partial - Support group meetings represent a collective confrontation)
+6. Ordeal: 2 (Characters face metaphorical deaths/transformations)
+7. Reward: 1 (Partial - Characters gain strange insights)
+8. Return: 2 (Characters attempt to reintegrate into normal life)
+9. Resurrection: 1 (Partial - Some characters experience renewal)
+10. Return with Elixir: 1 (Subtle transformative knowledge gained)
+
+The story brilliantly subverts the traditional heroic quest by making the journey psychological and existential rather than physical.",0
+Copy of Copy of 258_farmer_giles_of_ham.txt,Romance/Heroic Quest,3,1,16707,86991,0.0192896,0,0,22367,349,"Let's analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 16/20
+Coverage: 0.80
+Score: 3
+Justification: The story follows a classic heroic quest pattern with Farmer Giles transforming from an ordinary farmer to a legendary hero through encounters with a giant and dragon, acquiring magical assistance (Tailbiter sword), overcoming challenges, and ultimately becoming a king.
+
+Stage Evaluations:
+1. Call to Adventure: 2 (Giant's invasion of his farm)
+2. Meeting with Mentor: 1 (Parson provides sword knowledge)
+3. Departure: 2 (Leaves familiar farm to hunt dragon)
+4. Trials and Challenges: 2 (Encounters with giant and dragon)
+5. Approach to Inmost Cave: 2 (Confronting dragon in mountain lair)
+6. Ordeal: 2 (Facing dragon, risking death)
+7. Reward: 2 (Acquiring dragon's treasure)
+8. Return: 2 (Returning home triumphant)
+9. Resurrection: 2 (Challenging the King, establishing new power)
+10. Return with Elixir: 2 (Transforming local society, becoming a ruler)
+
+The text perfectly embodies the heroic quest structure, with Giles' transformation from a simple farmer to a legendary king through courage, wit, and magical assistance.",0
+Copy of Copy of 268_under_the_greenwood_tree.txt,Romance (Heroic Quest),2,1,58346,316252,0.066372,0,0,81115,370,"Let me analyze this text using the Romance (Heroic Quest) pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance (Heroic Quest)
+StageTotal: 10/20
+Coverage: 0.50
+Score: 2
+Justification: The story follows several key quest stages, though not completely linearly:
+
+1. Call to Adventure (Stage Score: 2)
+- Dick is called to pursue love with Fancy Day
+- Involves leaving his familiar world of being a single tranter's son
+
+2. Meeting with Mentor (Stage Score: 1)
+- Partial mentorship from his father Reuben and grandfather William
+- Provide advice and guidance about courtship
+
+3. Departure (Stage Score: 2)
+- Dick leaves his familiar social world to court Fancy
+- Crosses social boundaries by pursuing a woman considered ""above"" his station
+
+4. Trials and Challenges (Stage Score: 2)
+- Faces obstacles like Fancy's father's disapproval
+- Must navigate complex social expectations
+- Competes with Mr. Shiner for Fancy's affections
+
+5. Approach to Inmost Cave (Stage Score: 1)
+- Confronts deeper questions of identity and social mobility
+- Challenges his own sense of self-worth
+
+6. Ordeal (Stage Score: 1)
+- Emotional challenges in courtship
+- Moments of uncertainty about Fancy's feelings
+
+7. Reward (Stage Score: 1)
+- Marries Fancy
+- Achieves his goal of love and social advancement
+
+The remaining stages are less developed, resulting in a moderate quest narrative.",0
+Copy of Copy of 270_the_governess_affair.txt,Romance (Heroic Quest),3,1,33790,179483,0.0371096,0,0,44607,356,"Based on the text, here's an analysis of the Romance (Heroic Quest) narrative pattern for ""The Governess Affair"":
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance (Heroic Quest)
+StageTotal: 14/20
+Coverage: 0.70
+Score: 3
+Justification: The story follows a compelling heroic journey with Serena and Hugo transforming from adversaries to partners, overcoming personal and social obstacles through mutual support and love.
+
+Stage Evaluations:
+1. Call to Adventure: 2 (Serena's decision to confront Clermont and seek justice)
+2. Meeting with the Mentor: 1 (Hugo partially serves this role, guiding Serena)
+3. Departure: 2 (Serena leaves her previous life to pursue her goals)
+4. Trials and Challenges: 2 (Confrontations with Clermont, Hugo's initial resistance)
+5. Approach to Inmost Cave: 2 (Emotional vulnerability during their intimate scenes)
+6. Ordeal: 2 (Confronting past traumas, Hugo's childhood memories)
+7. Reward: 2 (Marriage, farm, mutual understanding)
+8. Return: 2 (Hugo returning to Serena, accepting love)
+9. Resurrection: 2 (Personal transformation, overcoming past limitations)
+10. Elixir: 2 (Mutual healing, future possibilities)
+
+The narrative strongly embodies the heroic quest pattern, with personal growth and transformation at its core.",0
+Copy of Copy of 28_Lord_of_the_flies.txt,Romance/Heroic Quest Pattern,3,1,61247,326635,0.0666272,0,0,81304,396,"I'll analyze the text using the Romance/Heroic Quest pattern you specified. Here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest Pattern
+StageTotal: 14/20
+Coverage: 0.70
+Score: 3
+Justification: The novel follows most stages of the heroic quest pattern, with Ralph embodying the hero's journey through a complex transformation from civilized schoolboy to survivor. The stages of departure, trials, approach to the inmost cave, ordeal, and return are particularly well-represented, though some stages are more implied than explicit.
+
+Detailed Stage Breakdown:
+1. Call to Adventure (2/2): Crash landing on the island immediately sets up the adventure
+2. Meeting with Mentor (1/2): Piggy provides some guidance, but not fully developed
+3. Departure (2/2): Clear departure from civilization into unknown island world
+4. Trials and Challenges (2/2): Extensive challenges of survival and group dynamics
+5. Approach to Inmost Cave (2/2): Climbing the mountain and confronting the ""beast""
+6. Ordeal (2/2): Psychological and physical breakdown, especially Simon and Piggy's deaths
+7. Reward (1/2): Partial self-understanding, but not a clear positive reward
+8. Return (2/2): Rescue and return to civilization, but traumatized
+9. Resurrection (1/2): Partial moral awakening, but deeply scarred
+10. Return with Elixir (1/2): Partial wisdom about human nature, but mostly tragic insight
+
+The score reflects a complex, nuanced implementation of the heroic quest pattern that ultimately subverts traditional expectations by showing the darkness within human nature.",0
+Copy of Copy of 316_the_canterville_ghost.txt,Romance/Heroic Quest,2,1,11497,63055,0.0142744,0,0,16128,343,"Let's analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 12/20
+Coverage: 0.60
+Score: 2
+Justification: The story follows most stages of the heroic quest, with Virginia as the hero who transforms the Canterville Ghost through compassion and spiritual understanding.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Virginia encounters the ghost in the Tapestry Chamber)
+2. Meeting with the Mentor: 1 (Indirect mentorship through the ghost's story)
+3. Departure: 2 (Virginia leaves the ordinary world when she follows the ghost)
+4. Trials and Challenges: 2 (Navigating the ghost's supernatural realm)
+5. Approach to Inmost Cave: 2 (Entering the secret room with the skeleton)
+6. Ordeal: 2 (Confronting death and spiritual transformation)
+7. Reward: 2 (Receiving the jewels and spiritual insight)
+8. Return: 2 (Coming back to her family)
+9. Resurrection: 1 (Partial spiritual rebirth of both Virginia and the ghost)
+10. Return with Elixir: 1 (Wisdom about love and death, but not fully transformative)
+
+The story uniquely subverts traditional quest narratives by having a young girl as the spiritual hero who redeems a ghost through compassion.",0
+Copy of Copy of 317_the_wonderful_o.txt,Romance/Heroic Quest,3,1,11214,60317,0.0151296,0,0,17142,354,"Let me analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 14/20
+Coverage: 0.70
+Score: 3
+Justification: The story follows a complex heroic quest pattern with Black and Littlejack's journey, featuring multiple quest stages like Call to Adventure (seeking jewels), Departure (leaving for the island), Trials (searching everywhere), Ordeal (confronting magical/literary forces), and a metaphorical Resurrection/Return where they are ultimately defeated.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Clear quest for jewels)
+2. Meeting Mentor: 1 (Hyde serves a quasi-mentor role)
+3. Departure: 2 (Leaving on ship to mysterious island)
+4. Trials/Challenges: 2 (Extensive searching, systematic destruction)
+5. Approach to Inmost Cave: 2 (Finding the stricken oak, map)
+6. Ordeal: 2 (Confronting literary/mythical phantoms)
+7. Reward: 1 (Expectation of jewels, but ultimately frustrated)
+8. Return: 2 (Forced back to shore)
+9. Resurrection: 2 (Metaphorical defeat by collective imagination)
+10. Return with Elixir: 1 (Community regains ""freedom"")
+
+The story brilliantly subverts traditional quest narrative through linguistic and metafictional strategies.",0
+Copy of Copy of 337_the_library_window.txt,Romance/Heroic Quest,2,1,18552,92938,0.020048,0,0,23505,311,"I'll analyze this text using the Romance/Heroic Quest pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 10/20
+Coverage: 0.50
+Score: 2
+Justification: The story contains several quest stages, though metaphorically interpreted. The protagonist experiences a mysterious, transformative encounter with an unseen scholar, representing a psychological and emotional journey of discovery.
+
+Stage Breakdown:
+1. Call to Adventure: {2} - The mysterious window and the unknown scholar
+2. Mentor: {1} - Aunt Mary provides cryptic guidance
+3. Departure: {1} - Psychological departure from childhood understanding
+4. Trials: {2} - Emotional and perceptual challenges of understanding the window
+5. Inmost Cave: {2} - The moment of seeing the scholar and feeling connected
+6. Ordeal: {1} - Confronting the incomprehensible reality
+7. Reward: {1} - Momentary connection with the scholar
+8. Return: {0} - Literal return home, but metaphorical return is incomplete
+9. Resurrection: {0} - No clear rebirth or transformation
+10. Elixir: {0} - No clear transformative knowledge gained
+
+The story is more a psychological mystery than a traditional quest narrative, which limits its full quest pattern coverage.",0
+Copy of Copy of 345_lyras_oxford.txt,Romance (Heroic Quest),3,1,7554,39862,0.010148,0,0,11125,312,"=== MODEL EVALUATIONS ===
+
+Model: Romance (Heroic Quest)
+StageTotal: 14/20
+Coverage: 0.70
+Score: 3
+Justification: The text follows a classic heroic quest structure with Lyra as the protagonist navigating a complex urban adventure involving mystery, protection, and potential transformation.
+
+Stage Breakdown:
+1. Call to Adventure: [2] Explicit when the witch's dæmon arrives seeking help
+2. Meeting with Mentor: [1] Partially implied through interactions with Makepeace
+3. Departure: [2] Clear when Lyra leaves her school to help the dæmon
+4. Trials and Challenges: [2] Confrontation with the witch and navigating urban dangers
+5. Approach to Inmost Cave: [1] Metaphorical exploration of Makepeace's alchemical basement
+6. Ordeal: [2] Confrontation with the witch and near-death experience
+7. Reward: [1] Gaining knowledge about the city's mysterious protectiveness
+8. Return: [2] Returning to school after the adventure
+9. Resurrection: [1] Symbolic rebirth through understanding city's meanings
+10. Return with Elixir: [0] Not clearly present
+
+The narrative demonstrates a metaphorical quest structure with urban and psychological dimensions, emphasizing discovery and protection.",0
+Copy of Copy of 36_the_turn_of_the_screw.txt,Romance/Heroic Quest Pattern,2,1,40309,210774,0.0434432,0,0,52474,366,"I'll analyze Henry James' novella ""The Turn of the Screw"" using the Romance/Heroic Quest narrative pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest Pattern
+StageTotal: 10/20
+Coverage: 0.50
+Score: 2
+
+Justification: The novella partially maps to the Heroic Quest pattern, with some stages strongly represented and others minimally present:
+
+1. Call to Adventure (1/2): The governess accepts the position at Bly, feeling compelled to care for the children.
+
+2. Meeting the Mentor (1/2): Mrs. Grose provides partial guidance and support, but is limited in understanding.
+
+3. Departure (2/2): Clear transition from the governess's ordinary world to Bly's mysterious environment.
+
+4. Trials and Challenges (2/2): Confronting the supernatural presence of Quint and Miss Jessel.
+
+5. Approach to Inmost Cave (1/2): Psychological struggle with the children's potential corruption.
+
+6. Ordeal (2/2): Intense confrontation with supernatural forces, particularly in the final scene with Miles.
+
+7. Reward (1/2): Partial psychological transformation of the governess.
+
+8. Return (0/2): No clear return to original world.
+
+9. Resurrection (0/2): No definitive spiritual or personal rebirth.
+
+10. Elixir (0/2): No clear transformative wisdom gained.
+
+The narrative is more a psychological horror than a traditional quest, which limits its full alignment with the heroic journey pattern.",0
+Copy of Copy of 377_greater_than_rubies.txt,Romance/Heroic Quest,4,1,58033,305777,0.060252,0,0,73585,346,"Based on the Romance/Heroic Quest pattern, here's the analysis:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 18/20
+Coverage: 0.90
+Score: 4
+Justification: Robin's journey follows the classic heroic quest pattern, transforming from a survivor of childhood trauma to a confident, empowered woman through her relationship with Tony. Her journey includes overcoming personal fears, receiving mentorship, confronting past traumas, and ultimately achieving personal transformation.
+
+Detailed Stage Scoring:
+1. Call to Adventure: 2 (Meeting Tony, being challenged to grow beyond her past)
+2. Meeting the Mentor: 2 (Tony and church community guiding her)
+3. Departure: 2 (Leaving her old life/survival mindset)
+4. Trials and Challenges: 2 (Confronting her past, media scrutiny, wedding preparations)
+5. Approach to Inmost Cave: 2 (Facing her deepest fears about intimacy)
+6. Ordeal: 2 (Confronting sexual trauma, nearly canceling wedding)
+7. Reward: 2 (Marrying Tony, finding love and acceptance)
+8. The Return: 2 (Integrating into new social world)
+9. Resurrection: 2 (Overcoming childhood trauma, becoming Mrs. Viscolli)
+10. Return with Elixir: 2 (Transformative love, personal growth)",0
+Copy of Copy of 407_the_restaurant_at_the_end.txt,Romance/Heroic Quest,2,1,53589,292469,0.0603664,0,0,73828,326,"I'll analyze this text using the Romance (Heroic Quest) pattern you specified:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 12/20
+Coverage: 0.60
+Score: 2
+Justification: The text follows a modified heroic quest structure with Zaphod Beeblebrox as the protagonist, featuring several key quest stages like the Call to Adventure (seeking the man who rules the Universe), Trials and Challenges (Total Perspective Vortex), and a metaphorical Return, though not in a traditional linear progression.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Zaphod's mission to find the Universe's ruler)
+2. Meeting Mentor: 1 (Brief interaction with his great-grandfather's ghost)
+3. Departure: 2 (Leaving the Restaurant at the End of the Universe)
+4. Trials/Challenges: 2 (Surviving the Total Perspective Vortex)
+5. Inmost Cave: 2 (Confronting the seemingly insignificant ruler)
+6. Ordeal: 1 (Psychological challenge of confronting his past)
+7. Reward: 1 (Discovering the ruler's perspective)
+8. Return: 1 (Metaphorical return to his mission)
+
+The narrative deliberately subverts traditional quest structures with comedy and absurdism.",0
+Copy of Copy of 418_breathless.txt,Romance/Heroic Quest,3,1,25274,130105,0.0282224,0,0,33048,446,"I'll analyze this text using the Romance/Heroic Quest pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 14/20
+Coverage: 0.70
+Score: 3
+Justification: The text strongly follows most stages of the Romance/Heroic Quest pattern, with a protagonist (Az/Jacinda) experiencing a transformative journey of self-discovery and crossing boundaries between her familiar draki world and the human world.
+
+Stage Breakdown:
+1. Call to Adventure: StageScore 2 
+- Az feels compelled to explore beyond her pride's boundaries
+- Desires to experience the human world and ocean
+
+2. Meeting with Mentor: StageScore 1
+- Parents provide limited guidance about interacting with humans
+- Subtle mentorship through their supportive approach
+
+3. Departure: StageScore 2
+- Az leaves familiar draki territory
+- Crosses threshold into human world during vacation
+
+4. Trials/Challenges: StageScore 2
+- Navigating human social interactions
+- Managing her draki identity while developing relationship with Tate
+
+5. Approach to Inmost Cave: StageScore 2
+- Confronting her fear of revealing true self
+- Psychological struggle between desire and self-preservation
+
+6. Ordeal: StageScore 2
+- Metaphorical death/rebirth through romantic relationship
+- Facing potential exposure of her draki nature
+
+7. Reward: StageScore 1
+- Emotional growth and self-understanding
+- Experiencing first deep romantic connection
+
+8. Return: StageScore 2
+- Initially plans to return to pride
+- Ultimately chooses to stay and explore relationship
+
+9. Resurrection: StageScore 1
+- Transformation of identity
+- Choosing personal desire over pride's restrictions
+
+10. Return with Elixir: StageScore 1
+- Gains confidence and expanded worldview
+- Prepares for future tour/independence",0
+Copy of Copy of 452_the_perilous_life_of_jade.txt,Romance/Heroic Quest,1,1,25318,129412,0.0281664,0,0,33488,344,"Let me analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 8/20
+Coverage: 0.40
+Score: 1
+Justification: While the story contains some quest-like elements, it doesn't fully map to the traditional heroic journey. Jade's ""journey"" is more psychological and social than physical, with limited correspondence to classic quest stages.
+
+Detailed Stage Evaluation:
+1. Call to Adventure: 1 (Jade's desire for ""excitement"" and leaving home)
+2. Meeting Mentor: 1 (Ravi provides guidance and support)
+3. Departure: 2 (Leaving Malaya for London, breaking family expectations)
+4. Trials/Challenges: 2 (Navigating cultural differences, literary world, romantic relationships)
+5. Inmost Cave: 1 (Confronting her own desires and identity)
+6. Ordeal: 1 (Pregnancy, social judgment, emotional challenges)
+7. Reward: 1 (Personal growth, finding love with Ravi)
+8. Return: 1 (Reconciliation with self and potential return to family)
+9. Resurrection: 0 (Limited transformative climax)
+10. Elixir: 1 (Newfound understanding of self)
+
+The narrative is more a bildungsroman and romantic comedy than a traditional heroic quest, which explains the moderate score.",0
+Copy of Copy of 46_cannery_row.txt,Romance/Heroic Quest,2,1,50288,261112,0.0527064,0,0,64093,358,"I'll analyze the text using the Romance/Heroic Quest pattern as requested. Here's the analysis:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 10/20
+Coverage: 0.50
+Score: 2
+Justification: The text follows several stages of the heroic quest pattern, though not comprehensively. Mack and the boys' journey to give Doc a party represents a metaphorical quest with elements of adventure, challenges, and transformation.
+
+Detailed Stage Breakdown:
+1. Call to Adventure: 2 (Mack and boys decide to give Doc a party)
+2. Meeting the Mentor: 1 (Doc provides guidance and wisdom throughout)
+3. Departure: 1 (Leaving the Palace Flophouse to plan the party)
+4. Trials and Challenges: 2 (Navigating party preparations, collecting frogs, managing logistics)
+5. Approach to Inmost Cave: 1 (Preparing for the actual party)
+6. Ordeal: 1 (The chaotic party and fight)
+7. Reward: 2 (Successfully throwing the party for Doc)
+8. Return: 1 (Returning to their normal life after the party)
+9. Resurrection: 1 (Symbolic renewal through the party's aftermath)
+10. Return with Elixir: 1 (Bringing community joy and connection)
+
+The story represents a metaphorical quest where community and friendship are the true heroic elements, transforming individual lives through collective action.",0
+Copy of Copy of 489_skin_deep.txt,Romance (Heroic Quest),3,1,52616,279313,0.05810560000000001,0,0,70802,366,"Based on the text, here's an analysis of the Romance (Heroic Quest) narrative pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance (Heroic Quest)
+StageTotal: 16/20
+Coverage: 0.80
+Score: 3
+Justification: The story strongly follows the heroic quest pattern, with Megan's journey from trauma to healing and Nate's role as a transformative mentor/protector. The narrative includes clear progression through key stages like departure, trials, ordeal, and resurrection.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Megan's encounter with Donny and need to escape)
+2. Meeting with the Mentor: 2 (Nate's supportive and healing presence)
+3. Departure: 2 (Leaving her old life behind)
+4. Trials and Challenges: 2 (Confronting past trauma, Donny's threats)
+5. Approach to Inmost Cave: 2 (Emotional vulnerability with Nate)
+6. Ordeal: 2 (Confrontation with Donny, potential threat to Emily)
+7. Reward: 2 (Healing, love, safety)
+8. Return: 2 (Integrating into Nate's family, finding a new home)
+9. Resurrection: 2 (Overcoming past trauma, rebuilding life)
+10. Return with Elixir: 2 (Transformative love, personal growth)
+
+The narrative powerfully demonstrates a psychological and emotional heroic journey of healing and transformation.",0
+Copy of Copy of 495_hammers_on_bone.txt,Romance/Heroic Quest,2,1,17751,95618,0.021572,0,0,25430,307,"I'll analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 12/20
+Coverage: 0.60
+Score: 2
+Justification: The text follows a noir detective narrative that metaphorically maps to the heroic quest, with John Persons as the protagonist undertaking a transformative journey involving supernatural challenges.
+
+Stage Breakdown:
+1. Call to Adventure: [2] Strong - Abel's request to kill his stepfather
+2. Meeting Mentor: [1] Weak - Sasha provides cryptic guidance
+3. Departure: [2] Strong - Persons leaves familiar territory to investigate
+4. Trials/Challenges: [2] Strong - Encounters with McKinsey, supernatural entities
+5. Inmost Cave: [2] Strong - Confrontation in the attic
+6. Ordeal: [2] Strong - Physical/metaphysical battle with McKinsey
+7. Reward: [1] Partial - Survival and understanding
+8. Return: [0] Absent - No clear return to ""ordinary world""
+9. Resurrection: [0] Absent
+10. Elixir: [0] Absent
+
+The narrative strongly follows quest structure metaphorically, with supernatural and psychological transformations replacing traditional physical journey elements.",0
+Copy of Copy of 51_the_picture_of_dorian_gray.txt,Romance/Heroic Quest,1,1,55410,291404,0.059467200000000005,0,0,72774,312,"Let me analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 8/20
+Coverage: 0.40
+Score: 1
+Justification: The text partially follows the heroic quest structure, with Dorian Gray experiencing a transformative journey involving mentorship (Lord Henry), departure from innocence, trials of character, and a metaphorical ""death"" and rebirth. However, many stages are weakly represented or absent.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Lord Henry introduces Dorian to new philosophical perspectives)
+2. Meeting with Mentor: 2 (Lord Henry serves as philosophical guide)
+3. Departure: 1 (Dorian leaves moral innocence)
+4. Trials and Challenges: 2 (Moral tests and temptations)
+5. Approach to Inmost Cave: 1 (Confrontation with his portrait)
+6. Ordeal: 2 (Metaphorical death of innocence)
+7. Reward: 0 (No clear positive transformation)
+8. Return: 0 
+9. Resurrection: 0
+10. Return with Elixir: 0
+
+The narrative is more a psychological descent than a traditional heroic quest, which explains the low coverage.",0
+Copy of Copy of 560_how_to_marry_a_werewolf.txt,Romance (Heroic Quest),3,1,47875,262351,0.0522464,0,0,63993,263,"Based on the Romance (Heroic Quest) pattern, here's the analysis:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance (Heroic Quest)
+StageTotal: 14/20
+Coverage: 0.70
+Score: 3
+
+Justification: The text strongly follows the Romance/Heroic Quest pattern with Faith's journey from a disgraced American girl to becoming a werewolf's wife. Her adventure includes:
+
+1. Call to Adventure: Being sent to London to marry a werewolf
+2. Meeting the Mentor: Biffy and the Iftercast family
+3. Departure: Leaving Boston for London
+4. Trials: Navigating supernatural society, confronting her past
+5. Inmost Cave: Revealing her traumatic history to Channing
+6. Ordeal: Facing her mother's public humiliation
+7. Reward: Finding love and acceptance with Channing
+8. Return: Integrating into the London Pack
+9. Resurrection: Overcoming past traumas together
+10. Elixir: Mutual healing and transformation
+
+The narrative demonstrates a complete heroic journey with emotional and social transformation.",0
+Copy of Copy of 93_to_kill_a_mocking_bird.txt,Romance/Heroic Quest,2,1,102179,538278,0.11512800000000001,0,0,142430,296,"Based on the text, here's an analysis of the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 8/20
+Coverage: 0.40
+Score: 2
+
+Justification:
+The story partially follows the heroic quest pattern with the following stages:
+
+1. Call to Adventure (Stage 1): Scout and Jem become curious about Boo Radley, initiating their ""quest""
+2. Meeting with the Mentor (Stage 2): Atticus serves as a moral guide throughout the story
+3. Departure (Stage 3): The children's adventures exploring the neighborhood and challenging social norms
+4. Trials and Challenges (Stage 4): Confronting racism during Tom Robinson's trial
+5. Approach to Inmost Cave (Stage 5): The Halloween night confrontation
+6. Ordeal (Stage 6): The attack by Bob Ewell and Boo Radley's intervention
+7. Reward (Stage 7): Understanding of human complexity and compassion
+8. Return (Stage 8): Scout's newfound perspective and maturity
+
+The story lacks full explicit development of stages like the Resurrection and Return with the Elixir, resulting in a moderate coverage of the heroic quest pattern.",0
