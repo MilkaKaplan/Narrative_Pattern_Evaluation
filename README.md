@@ -40,6 +40,7 @@ narrative-pattern-evaluation/
 │   │   ├── llm_claude_comedy.csv           # Claude PatternTeller scores comedy
 │   │   ├── llm_claude_mystery.csv          # Claude PatternTeller scores mystery
 │   │   ├── ...
+
 │   │   ├── llm_gemini.csv           # Gemini PatternTeller scores
 │   │   └── llm_deepseek.csv         # DeepSeek PatternTeller scores
 │   └── raw_llm_outputs/
