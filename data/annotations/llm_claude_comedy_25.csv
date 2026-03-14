@@ -1,0 +1,582 @@
+filename,primary_narrative_model,primary_score,models_evaluated,word_count,text_length,cost,cache_created,cache_read,input_tokens,output_tokens,raw_response,Genre Comedy
+Copy of Copy of 0_the_old_man_and_the_sea.txt,Genre Comedy,3,1,26698,129846,0.0264216,0,0,31497,306,"Let's analyze this text using the Comedy Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The text follows most comedy stages with nuanced psychological and existential transformations. The story establishes a social environment (fishing village), introduces a catalyst (the old man's fishing quest), explores rising action through his struggle, reaches a climactic confrontation with the fish and sharks, experiences falling action during his return, and concludes with a resolution of understanding between the old man and the boy.
+
+Stage Breakdown:
+1. Set Up: [2/2] Detailed introduction of Santiago, his fishing context, and social relationships
+2. Catalyst: [2/2] Decision to go far out and catch a significant fish
+3. Rising Action: [2/2] Detailed psychological and physical struggle with the fish
+4. Climax: [1/2] Killing of the fish (somewhat muted, more existential than dramatic)
+5. Falling Action: [1/2] Return journey, battling sharks
+6. Resolution: [1/2] Reconciliation with the boy, acceptance of experience
+7. Denouement: [1/2] Reflection on the journey, future plans
+
+The nuanced scoring reflects the text's philosophical depth beyond traditional comedy structures.",3
+Copy of Copy of 109_being_there.txt,Genre Comedy,2,1,25723,139839,0.0284648,0,0,34141,288,"Let me analyze this text using the Comedy genre narrative pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 2
+Justification: The text demonstrates most comedy stages, with strong elements of social disruption, misunderstandings, and character transformations, though not all stages are fully developed.
+
+Stage Breakdown:
+1. Set Up (2/2): Chance's isolated life in the garden and his limited understanding of the world
+2. Catalyst (2/2): Chance leaving the garden after the Old Man's death
+3. Rising Action (2/2): Chance's unexpected interactions with EE, Rand, and public figures
+4. Climax (1/2): TV appearance and public misinterpretation of Chance's simple statements
+5. Falling Action (1/2): Growing public and political fascination with Chance
+6. Resolution (1/2): Potential political candidacy emerges
+7. Denouement (1/2): Hints of future transformations and societal impact
+
+The story follows a comedic structure where a naive protagonist (Chance) becomes unexpectedly influential through misunderstandings and social projections, creating humor through irony and social commentary.",2
+Copy of Copy of 156_the_13_clocks.txt,Genre Comedy,4,1,12343,62780,0.015288,0,0,17630,296,"=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text exhibits a strong comedic structure with a clear Set Up (introducing the Duke, Saralinda, and the castle's peculiar environment), a Catalyst (the arrival of the minstrel/prince), Rising Action (the quest for jewels), Climax (confronting the Duke and completing the impossible task), Falling Action (revealing the truth about Saralinda's origins), and Resolution (the couple's escape and potential future). The story's witty language, playful narrative style, and ultimate triumph of love and wit over cold calculation perfectly embody the comedic genre.
+
+Breakdown of Stages:
+1. Set Up: 2 (Detailed introduction of characters and setting)
+2. Catalyst: 2 (Prince's arrival and challenge)
+3. Rising Action: 2 (Elaborate quest with Golux)
+4. Climax: 2 (Jewel collection and confrontation)
+5. Falling Action: 2 (Revelations about characters)
+6. Resolution: 2 (Escape and potential happy ending)
+7. Denouement: 2 (Hints at future and philosophical reflection)",4
+Copy of Copy of 191_every_heart_a_doorway.txt,Genre Comedy,3,1,39493,211786,0.0429336,0,0,51692,395,"I'll analyze this text using the Comedy genre pattern you specified. Here's the detailed evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The text demonstrates strong comedic structural elements, particularly in its setup of characters, unexpected events, and resolution of misunderstandings. While not a traditional comedy, it follows the pattern of introducing characters in an unusual environment, creating narrative tension through mysterious events, and ultimately resolving conflicts through character growth and understanding.
+
+Stage Breakdown:
+1. Set Up (StageScore: 2) 
+- Introduces Eleanor West's school for children who've traveled to magical worlds
+- Establishes unique characters with distinct backstories
+
+2. Catalyst (StageScore: 2)
+- Nancy's arrival disrupts the school's routine
+- Mysterious deaths of Sumi and Loriel create narrative tension
+
+3. Rising Action (StageScore: 2)
+- Characters investigate deaths
+- Relationships and tensions develop between students
+
+4. Climax (StageScore: 2)
+- Revelation of Jill's murders and motivations
+- Confrontation in the attic
+
+5. Falling Action (StageScore: 1)
+- Aftermath of Jill's departure
+- Students processing events
+
+6. Resolution (StageScore: 2)
+- Nancy finds her path and accepts her new environment
+- School continues with potential leadership transition
+
+7. Denouement (StageScore: 1)
+- Brief glimpse of future possibilities
+- Nancy's return to the Underworld
+
+The analysis reveals a nuanced interpretation of comedy that goes beyond traditional lighthearted humor, focusing on character transformation and narrative resolution.",3
+Copy of Copy of 1_animal-farm.txt,Genre Comedy,4,1,30050,165909,0.0317096,0,0,38267,274,"I'll analyze this text using the Comedy genre pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text exhibits a near-complete comedic structure, with a clear satirical progression from the initial farm setup, through the rebellion and idealistic transformation, to the ultimate ironic reversal where the pigs become indistinguishable from humans.
+
+Stage Breakdown:
+1. Set Up: [2] Explicit establishment of Manor Farm's initial social environment
+2. Catalyst: [2] Old Major's revolutionary speech triggers the rebellion
+3. Rising Action: [2] Animals organize, implement new social order
+4. Climax: [2] Snowball's expulsion and Napoleon's power consolidation
+5. Falling Action: [2] Gradual corruption of original principles
+6. Resolution: [1] Pigs become essentially human, betraying revolution
+7. Denouement: [1] Final scene where pigs and humans are indistinguishable
+
+The text perfectly embodies a comedic structure through its satirical deconstruction of revolutionary idealism, using animal characters to critique political power dynamics.",4
+Copy of Copy of 201_the_tiny_wife.txt,Genre Comedy,2,1,14560,77383,0.016532,0,0,19135,306,"=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 2
+Justification: The text follows a comedic structure with a unique, surreal premise of a bank robbery that metaphorically ""steals souls"". The story has clear stages of setup (introducing characters in the bank), catalyst (the unusual robbery), rising action (individual characters' strange transformations), climax (support group meetings), falling action (characters dealing with consequences), and resolution (characters adapting to their new realities).
+
+Stage Breakdown:
+1. Set Up: 2 (Clear introduction of bank environment and characters)
+2. Catalyst: 2 (Thief's unconventional robbery disrupts normal life)
+3. Rising Action: 2 (Characters explore bizarre transformations)
+4. Climax: 2 (Support group meetings reveal interconnected experiences)
+5. Falling Action: 1 (Characters attempt to understand and manage changes)
+6. Resolution: 1 (Partial resolution with some characters finding equilibrium)
+7. Denouement: 0 (Lacks a clear wrap-up or future glimpse)
+
+The story's absurdist approach to comedy, with metaphysical soul-stealing and surreal transformations, makes it a unique exploration of the comedic genre's structural patterns.",2
+Copy of Copy of 258_farmer_giles_of_ham.txt,Genre Comedy,4,1,16707,86991,0.0189879999999999,0,0,22245,298,"=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text perfectly follows the comedy genre structure, with a clear setup of Farmer Giles' character, a catalyst (giant's invasion), rising action through humorous interactions, a climactic dragon confrontation, falling action of negotiation and treasure acquisition, and a resolution where Giles becomes a local hero and eventually a king.
+
+Detailed Stage Breakdown:
+1. Set Up: 2 (Detailed introduction of Aegidius, his dog Garm, and village life)
+2. Catalyst: 2 (Giant's unexpected invasion of Giles' farm)
+3. Rising Action: 2 (Humorous preparations, village reactions, dragon hunt)
+4. Climax: 2 (Confrontations with dragon and king)
+5. Falling Action: 2 (Negotiating treasure, establishing new social order)
+6. Resolution: 2 (Giles becomes a local and eventually regional leader)
+7. Denouement: 2 (Epilogue describing Giles' later life and legacy)
+
+The story exhibits classic comedic progression with witty dialogue, social transformation, and a protagonist rising through luck and cunning.",4
+Copy of Copy of 268_under_the_greenwood_tree.txt,Genre Comedy,4,1,58346,316252,0.0664704,0,0,80993,419,"Based on the provided text, here's an analysis of the Comedy genre narrative structure:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 14/14
+Coverage: 1.0 (100%)
+Score: 4
+Justification: The text perfectly follows the comedy genre structure, with each stage clearly represented: the social environment is established, a catalyst disrupts routine, characters engage in witty exchanges and misunderstandings, a climax reveals tensions, conflicts are resolved, relationships are transformed, and a final denouement provides closure.
+
+Stage Breakdown:
+1. Set Up (Stage Score: 2)
+- Introduces Mellstock parish characters
+- Establishes social environment and expectations
+- Introduces Dick Dewy and Fancy Day
+
+2. Catalyst (Stage Score: 2)
+- Choir being potentially replaced
+- Dick and Fancy's emerging romantic relationship
+- Vicar Maybold's interest in Fancy
+
+3. Rising Action (Stage Score: 2)
+- Romantic pursuit and courtship
+- Misunderstandings between Dick and Fancy
+- Social interactions and preparations
+
+4. Climax (Stage Score: 2)
+- Maybold's marriage proposal to Fancy
+- Revelation of Dick and Fancy's engagement
+- Tension between characters' expectations
+
+5. Falling Action (Stage Score: 2)
+- Resolution of romantic complications
+- Wedding preparations
+- Reconciliation of different social perspectives
+
+6. Resolution (Stage Score: 2)
+- Dick and Fancy's marriage
+- Social harmony restored
+- Characters find new understanding
+
+7. Denouement (Stage Score: 2)
+- Wedding celebration
+- Future hints and reflections
+- Characters' perspectives on marriage
+
+The narrative comprehensively and humorously explores social dynamics, romantic pursuits, and personal growth through a comedic lens.",4
+Copy of Copy of 270_the_governess_affair.txt,Genre Comedy,4,1,33790,179483,0.037288,0,0,44485,425,"This is a detailed analysis of the text using the Comedy genre narrative pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text strongly exhibits all stages of the Comedy pattern, with a clear social setup, unexpected catalyst (Serena's pregnancy), rising action through witty exchanges between Hugo and Serena, a climactic confrontation with Clermont, falling action resolving conflicts, and a resolution where characters gain deeper understanding of themselves and each other.
+
+Stage Breakdown:
+1. Set Up (Stage Score: 2)
+- Characters introduced: Hugo Marshall, Serena Barton, Duke of Clermont
+- Social environment of Victorian England established
+- Power dynamics and social expectations clearly defined
+
+2. Catalyst (Stage Score: 2)
+- Serena's pregnancy and confrontation with Clermont disrupts existing social order
+- Hugo becomes involved in resolving the situation
+
+3. Rising Action (Stage Score: 2)
+- Witty exchanges between Hugo and Serena
+- Increasing tension and strategic maneuvering
+- Exploration of characters' feelings and motivations
+
+4. Climax (Stage Score: 2)
+- Confrontation with Clermont
+- Hugo forces Clermont to admit his wrongdoing
+- Critical turning point in relationships
+
+5. Falling Action (Stage Score: 2)
+- Hugo and Serena marry
+- Resolution of immediate conflicts
+- Characters begin addressing deeper personal issues
+
+6. Resolution (Stage Score: 2)
+- Characters gain deeper understanding of themselves
+- Hugo overcomes childhood trauma
+- Serena achieves her goals and finds love
+
+7. Denouement (Stage Score: 2)
+- Epilogue showing their son at Eton
+- Glimpse into future of characters
+- Commentary on generational impacts",4
+Copy of Copy of 28_Lord_of_the_flies.txt,Genre Comedy,4,1,61247,326635,0.0661496,0,0,81182,301,"I'll analyze the text using the Comedy genre pattern and evaluate each stage according to the specified scoring method.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+Stages:
+1. Set Up: 2 (Clear establishment of social environment with boys stranded on island, initial group dynamics)
+2. Catalyst/Trigger: 2 (Plane crash, boys finding themselves on uninhabited island)
+3. Rising Action: 2 (Exploration, establishing leadership, creating rules, hunting attempts)
+4. Climax/Turning Point: 2 (Simon's death, breakdown of social order, Jack's rebellion)
+5. Falling Action: 2 (Increasing violence, tribal split, hunting of Ralph)
+6. Resolution: 2 (Naval officer's arrival, rescue, but with profound loss of innocence)
+7. Denouement: 2 (Emotional breakdown, reflection on human nature)
+
+StageTotal: 14/14
+Coverage: 1.0 (100%)
+Score: 4
+
+Justification: Golding's novel perfectly maps onto the comedy genre structure, but subverts expectations by revealing a dark, tragic core beneath the initial adventure narrative. The stages are explicitly and powerfully realized, showing a complete deconstruction of social order and human civilization through the lens of stranded children.",4
+Copy of Copy of 316_the_canterville_ghost.txt,Genre Comedy,4,1,11497,63055,0.0139968,0,0,16006,298,"=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text perfectly follows the comedy pattern with a clear set-up of the Otis family's arrival at Canterville Chase, a catalyst of the haunting, rising action through the ghost's repeated failed attempts to frighten the family, a climax involving Virginia's interaction with the ghost, falling action resolving the supernatural conflict, and a resolution showing the ghost's redemption and Virginia's marriage.
+
+Stage Breakdown:
+1. Set Up: 2 (Clear introduction of Otis family and Canterville Chase environment)
+2. Catalyst: 2 (Ghost's presence and initial haunting attempts)
+3. Rising Action: 2 (Comedic interactions between ghost and family)
+4. Climax: 2 (Virginia's profound encounter with the ghost)
+5. Falling Action: 2 (Resolution of ghost's spiritual conflict)
+6. Resolution: 2 (Ghost finds peace, Virginia marries)
+7. Denouement: 2 (Epilogue describing Virginia and Duke's future)
+
+The story exhibits a perfect comedic structure, blending supernatural elements with witty social commentary and ultimately resolving in a harmonious, transformative conclusion.",4
+Copy of Copy of 317_the_wonderful_o.txt,Genre Comedy,4,1,11214,60317,0.014888,0,0,17020,318,"Let me analyze this text using the Comedy Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: This text exhibits a strong comedic structure with clear progression through all comedy stages. The story of Black and Littlejack's absurd quest to eliminate the letter ""O"" provides a satirical social commentary with witty exchanges, escalating complications, and a resolution that restores social harmony.
+
+Stage Breakdown:
+1. Set Up (2/2): Introduces characters and social environment of the island
+2. Catalyst (2/2): Black and Littlejack's bizarre mission to remove ""O"" disrupts normal life
+3. Rising Action (2/2): Characters explore the consequences of removing ""O"", with increasing complexity and humor
+4. Climax (2/2): Confrontation in the enchanted castle with phantoms and magical resolution
+5. Falling Action (2/2): Vandals are expelled, island begins restoration
+6. Resolution (1/2): Social order is partially restored, with some lingering whimsy
+7. Denouement (1/2): Reflective epilogue with children hearing about the ""famous victory""
+
+The text perfectly embodies comedy's structural pattern, using linguistic absurdity and social satire to create a complex, humorous narrative about language, power, and freedom.",4
+Copy of Copy of 337_the_library_window.txt,Genre Comedy,3,1,18552,92938,0.0199024,0,0,23383,299,"=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The text exhibits strong comedic elements through its social interactions, misunderstandings, and gradual revelation of an unusual situation. The story develops through classic comedy stages: social setup (Aunt Mary's drawing room), catalyst (mysterious window), rising action (protagonist's growing fascination), climax (library scene), and resolution (protagonist's departure), with humorous interactions between characters like Mr. Pitmilly and Lady Carnbee providing comedic texture.
+
+Stage Breakdown:
+1. Set Up: 2 (Clear establishment of social environment and characters)
+2. Catalyst: 2 (Mysterious window triggers narrative)
+3. Rising Action: 2 (Protagonist's growing obsession and social interactions)
+4. Climax: 2 (Revelation scene in library)
+5. Falling Action: 1 (Gradual dispersion of mystery)
+6. Resolution: 1 (Protagonist leaves, mystery partially unresolved)
+7. Denouement: 0 (Minimal wrap-up, more open-ended)
+
+The text's comedic structure is strong but with a supernatural twist, making it a unique variation on the traditional comedy pattern.",3
+Copy of Copy of 345_lyras_oxford.txt,Genre Comedy,3,1,7554,39862,0.0100584,0,0,11003,314,"=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The text exhibits strong comedic structural elements, particularly in its witty character interactions, unexpected plot twists, and social observations. While not a traditional comedy, it demonstrates key stages like catalyst (the mysterious dæmon's arrival), rising action (Lyra's investigation), and climax (confrontation with the witch), with a resolution that maintains the narrative's playful, adventurous tone.
+
+Stage Breakdown:
+1. Set Up: 2 (Lyra's established world of Oxford, her relationships, and social environment)
+2. Catalyst: 2 (Arrival of the witch's dæmon seeking help)
+3. Rising Action: 2 (Lyra's investigation and journey through Oxford)
+4. Climax: 2 (Confrontation with the witch and unexpected swan intervention)
+5. Falling Action: 1 (Escape and explanation with Makepeace)
+6. Resolution: 1 (Understanding of the city's mysterious protection)
+7. Denouement: 0 (Minimal wrap-up, more open-ended)
+
+The text's comedic elements are subtle, focusing more on intellectual adventure and character wit than traditional comedic tropes, which explains the slightly lower but still substantial score.",3
+Copy of Copy of 36_the_turn_of_the_screw.txt,Genre Comedy,3,1,40309,210774,0.0430336,0,0,52352,288,"I'll analyze this text using the Comedy Pattern for Narratology.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The text exhibits strong elements of comedy's structural pattern, particularly in its exploration of social expectations, misunderstandings, and character transformations, though with a darker psychological twist.
+
+Stage Breakdown:
+1. Set Up (2/2): Establishes governess's role, Bly house, and initial social dynamics
+2. Catalyst (2/2): Mysterious letter about Miles's school dismissal triggers narrative tension
+3. Rising Action (2/2): Governess investigates strange occurrences, growing suspicions
+4. Climax (1/2): Confrontations with Miles and spectral figures, but somewhat ambiguous
+5. Falling Action (1/2): Gradual unraveling of relationships, but with psychological complexity
+6. Resolution (1/2): Partial resolution with Miles's confession, but tragic ending
+7. Denouement (1/2): Minimal traditional wrap-up, more psychological dissolution
+
+The analysis recognizes the text's complex subversion of comedy's traditional structure, maintaining the fundamental pattern while introducing psychological horror elements.",3
+Copy of Copy of 377_greater_than_rubies.txt,Genre Comedy,4,1,58033,305777,0.0599424,0,0,73463,293,"Based on the analysis of the text using the Comedy genre pattern, here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text strongly demonstrates all stages of the Comedy genre pattern, including a clear social environment setup, a catalyst that disrupts routine, rising action with witty exchanges, a climax revealing misunderstandings, falling action resolving conflicts, and a final resolution where characters gain deeper understanding.
+
+Stage Breakdown:
+1. Set Up: 2/2 (Establishing Robin and Tony's social environments)
+2. Catalyst: 2/2 (Robin's fears about marriage)
+3. Rising Action: 2/2 (Wedding planning, social interactions)
+4. Climax: 2/2 (Confrontation about past traumas)
+5. Falling Action: 2/2 (Reconciliation and wedding preparations)
+6. Resolution: 2/2 (Wedding ceremony and mutual understanding)
+7. Denouement: 2/2 (Honeymoon and future plans)
+
+The high score reflects the comprehensive narrative arc that follows classic comedy genre structures, focusing on social integration, misunderstandings, and ultimate harmonious resolution.",4
+Copy of Copy of 407_the_restaurant_at_the_end.txt,Genre Comedy,4,1,53589,292469,0.0600488,0,0,73706,271,"I'll analyze this text using the Comedy genre pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text follows the comedy pattern with a clear progression through setup, catalyst, rising action, climax, falling action, resolution, and denouement. The narrative explores absurd situations and social satire while maintaining a humorous tone throughout.
+
+Stage Breakdown:
+1. Set Up (2/2): Introduces characters and the bizarre universe with its social structures
+2. Catalyst (2/2): Unexpected events like the destruction of Earth and random space travel
+3. Rising Action (2/2): Characters explore strange situations and encounter bizarre societies
+4. Climax (2/2): Revelations about the Ultimate Question and the nature of existence
+5. Falling Action (2/2): Characters process their discoveries and adapt
+6. Resolution (1/2): Partial resolution with hints of ongoing mystery
+7. Denouement (1/2): Glimpses of potential future developments
+
+The high score reflects the text's comprehensive exploration of comedic narrative structures and its consistent use of humor and absurdity.",4
+Copy of Copy of 418_breathless.txt,Genre Comedy,2,1,25274,130105,0.0277408,0,0,32926,350,"I'll analyze this text using the Comedy Pattern narrative structure.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 2
+Justification: The text follows most comedy stages with strong character development, unexpected events, and relationship tensions that resolve through personal growth and emotional connection.
+
+Stage Breakdown:
+1. Set Up (2/2): 
+- Characters (Az and Tate) introduced
+- Social environment established (draki world, human interactions)
+
+2. Catalyst (2/2): 
+- Az meets Tate at the lake
+- Unexpected romantic encounter disrupts her planned vacation
+
+3. Rising Action (2/2):
+- Increasing romantic tension
+- Misunderstandings about Az's background
+- Exploration of feelings between Az and Tate
+
+4. Climax (1/2):
+- Emotional confrontation about Az leaving
+- Tension around her secret draki identity
+- Slightly incomplete resolution of core conflict
+
+5. Falling Action (1/2):
+- Decision to stay together for the month
+- Partial resolution of initial conflicts
+- Some lingering uncertainty remains
+
+6. Resolution (1/2):
+- Relationship established
+- Mutual understanding develops
+- Some secrets still unresolved
+
+7. Denouement (1/2):
+- Epilogue hints at future possibilities
+- Suggests continued relationship
+- Not fully conclusive
+
+The narrative strongly follows comedy structure with romantic development, misunderstandings, and eventual connection between protagonists.",2
+Copy of Copy of 452_the_perilous_life_of_jade.txt,Genre Comedy,3,1,25318,129412,0.0279648,0,0,33366,318,"Based on the text, here's the analysis for the Comedy genre narrative pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The novella follows most comedy stages, with a strong setup of social expectations, a catalyst in Jade's literary review and subsequent interactions, rising action through witty exchanges and social navigation, a climax involving her affair with Hardie, falling action as she deals with pregnancy consequences, and a resolution where she finds love with Ravi.
+
+Stage Breakdown:
+1. Set Up: 2 (Clear introduction of Jade's social environment and cultural expectations)
+2. Catalyst: 2 (Mimnaugh book review and subsequent party invitation)
+3. Rising Action: 2 (Witty interactions, social maneuvering, affair with Hardie)
+4. Climax: 2 (Pregnancy revelation and confrontation with Hardie/Diana)
+5. Falling Action: 1 (Dealing with pregnancy, moving to nursing home)
+6. Resolution: 2 (Marriage to Ravi, acceptance of pregnancy)
+7. Denouement: 1 (Brief glimpse into future plans)
+
+The narrative strongly adheres to comedy's structural patterns, particularly in its playful tone, social critique, and ultimate restoration of social harmony through marriage.",3
+Copy of Copy of 46_cannery_row.txt,Genre Comedy,4,1,50288,261112,0.0523608,0,0,63971,296,"I'll analyze the text using the Comedy genre pattern and scoring method.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text follows the comedy pattern with a clear progression through setup, catalyst, rising action, climax, falling action, resolution, and denouement. The story of Mack and the boys planning a party for Doc, with its humorous misadventures and ultimate redemption, exemplifies the comedic structure.
+
+Stage Breakdown:
+1. Set Up (2/2): Introduces characters of Cannery Row, their social environment and relationships
+2. Catalyst (2/2): The boys' desire to give Doc a party disrupts their routine
+3. Rising Action (2/2): Planning the party, gathering resources, building anticipation
+4. Climax (2/2): The actual party with its chaotic energy and fights
+5. Falling Action (2/2): Aftermath of the party, social consequences
+6. Resolution (1/2): Partial reconciliation and understanding
+7. Denouement (1/2): Reflective moments after the party
+
+The high score reflects the text's rich, nuanced exploration of community, friendship, and collective joy through a comedic lens.",4
+Copy of Copy of 489_skin_deep.txt,Genre Comedy,4,1,52616,279313,0.057755999999999995,0,0,70680,303,"This text is a romance novel that follows the Comedy genre pattern. Let me analyze it using the prescribed method:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 14/14
+Coverage: 1.0 (100%)
+Score: 4
+Justification: The story perfectly follows the Comedy genre stages, with a clear progression from initial setup through relationship development to ultimate resolution and marriage. The narrative demonstrates strong character growth, overcoming social and personal obstacles, and ending in a new, transformed social equilibrium.
+
+Stage Breakdown:
+1. Set Up (2/2): Introduces Megan and Nate, their backgrounds, and social environments
+2. Catalyst (2/2): Donny's attack disrupts Megan's life, bringing Nate into her world
+3. Rising Action (2/2): Characters explore feelings, navigate trauma, build trust
+4. Climax (2/2): Confrontation with Donny, resolution of immediate threat
+5. Falling Action (2/2): Processing trauma, building relationship
+6. Resolution (2/2): Marriage, integration into new family structure
+7. Denouement (2/2): Epilogue showing their future together
+
+The novel demonstrates exceptional adherence to the Comedy genre pattern, showing how characters overcome personal and social challenges to achieve a transformative, positive outcome.",4
+Copy of Copy of 495_hammers_on_bone.txt,Genre Comedy,3,1,17751,95618,0.021454400000000002,0,0,25308,302,"I'll analyze this text using the Comedy genre pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: While this noir detective story doesn't perfectly align with traditional comedy, it contains comedic elements like witty dialogue, unexpected plot twists, and dark humor. The narrative follows a somewhat comedic structure with social disruption, misunderstandings, and ultimate resolution.
+
+Stage Breakdown:
+1. Set Up (2/2): Introduces John Persons, detective protagonist, and the social environment of Croydon
+2. Catalyst (2/2): Abel's request to kill his stepfather disrupts the routine
+3. Rising Action (2/2): Investigation and interactions reveal complex dynamics
+4. Climax (1/2): Confrontation with McKinsey has comedic and horrific elements
+5. Falling Action (1/2): Resolution of the case, but with dark undertones
+6. Resolution (1/2): Conflicts resolved, but with moral ambiguity
+7. Denouement (1/2): Final conversation with Sasha provides closure and hints at future complications
+
+The text subverts comedy conventions by introducing supernatural and horror elements, but maintains a comedic narrative structure through dialogue, character interactions, and unexpected plot developments.",3
+Copy of Copy of 51_the_picture_of_dorian_gray.txt,Genre Comedy,2,1,55410,291404,0.059309600000000004,0,0,72652,297,"Let me analyze this text using the Comedy genre pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 2
+Justification: The text follows most comedy stages, with a strong setup of social environment, a catalyst disrupting routine (Dorian's portrait), rising action through character interactions, a climax of revelation about the portrait, and a resolution that transforms characters' understanding, though with darker undertones than traditional comedy.
+
+Stage Breakdown:
+1. Set Up (2/2): Detailed introduction of Dorian, Basil, and Lord Henry's social world
+2. Catalyst (2/2): The magical portrait that changes with Dorian's moral degradation
+3. Rising Action (2/2): Characters explore feelings, misunderstandings, and social dynamics
+4. Climax (1/2): Revelation of portrait's transformation is partial
+5. Falling Action (1/2): Consequences of actions are explored but not fully resolved
+6. Resolution (1/2): Partial transformation of characters' understanding
+7. Denouement (1/2): Tragic ending instead of traditional comedic closure
+
+The score reflects a strong but not complete adherence to the comedy pattern, with significant dramatic and gothic elements modifying the traditional structure.",2
+Copy of Copy of 560_how_to_marry_a_werewolf.txt,Genre Comedy,4,1,47875,262351,0.05229280000000001,0,0,63871,299,"Based on the provided text, here's the analysis of the Comedy genre pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text follows the comedy pattern with strong development of setup, catalyst, rising action, climax, falling action, resolution, and denouement. The story of Faith and Channing's courtship and marriage includes humorous social interactions, misunderstandings, and ultimately a resolution that brings the characters together in a new understanding.
+
+Stage Breakdown:
+1. Set Up (2/2): Introduces Faith's background, social environment, and expectations
+2. Catalyst (2/2): Faith's exile to London and mission to marry a werewolf
+3. Rising Action (2/2): Social interactions, witty exchanges, and courtship dynamics
+4. Climax (2/2): Confrontation at the National Gallery with her mother
+5. Falling Action (2/2): Resolution of family conflict and personal histories
+6. Resolution (1/2): Marriage and mutual understanding, though slightly weak
+7. Denouement (1/2): Wedding report and intimate aftermath, somewhat implied
+
+The high score reflects the text's comprehensive exploration of comedy's structural elements, particularly in its social satire and romantic resolution.",4
+Copy of Copy of 93_to_kill_a_mocking_bird.txt,Genre Comedy,3,1,102179,538278,0.11510640000000001,0,0,142308,315,"Based on the text, here's an analysis of the story using the Comedy genre narrative pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71 (71%)
+Score: 3
+Justification: The story follows most stages of the comedy pattern, with strong development of social expectations, disruption of those expectations, and ultimate resolution. Key stages like the catalyst (Tom Robinson trial), rising action (community tensions), climax (Halloween attack), and resolution (Bob Ewell's death and community restoration) are well-represented. The narrative ultimately restores social equilibrium while revealing deeper truths about human nature and compassion.
+
+Stage Breakdown:
+1. Set Up (2/2): Establishes Maycomb's social environment and character dynamics
+2. Catalyst (2/2): Tom Robinson trial disrupts community's racial status quo
+3. Rising Action (2/2): Growing tensions and community reactions
+4. Climax (1/2): Halloween attack has dramatic tension but lacks full comedic resolution
+5. Falling Action (1/2): Partial resolution with Bob Ewell's death
+6. Resolution (2/2): Community returns to balance, deeper understanding achieved
+7. Denouement (0/2): Limited reflection on broader implications
+
+The narrative successfully uses comedy's structural pattern to explore serious social themes while maintaining an ultimately hopeful perspective.",3
