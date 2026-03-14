@@ -1,0 +1,649 @@
+filename,primary_narrative_model,primary_score,models_evaluated,word_count,text_length,cost,cache_created,cache_read,input_tokens,output_tokens,raw_response,Genre Comedy
+Copy of Copy of 0_the_old_man_and_the_sea.txt,Mystery/Adventure,2,1,26698,129846,0.0268936,0,0,31562,411,"Let's analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery/Adventure
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: While the text follows some mystery pattern elements, it's more of an adventure narrative about an old fisherman's epic struggle with a giant marlin and subsequent shark attacks.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: [2/2]
+- Clear introduction of Santiago (protagonist) and his fishing environment
+- Detailed description of his context and relationship with the boy
+
+2. Presentation of Mystery: [1/2]
+- Implicit mystery of Santiago's fishing quest
+- Not a traditional crime mystery, but a challenge/struggle mystery
+
+3. Initial Investigation: [1/2]
+- Santiago's preparation and decision to go far out to sea
+- Methodical approach to fishing
+
+4. Uncovering Secrets and Clues: [1/2]
+- Discovering the massive marlin
+- Learning about the fish's behavior and strength
+
+5. Confrontation of Suspects: [0/2]
+- No traditional suspects
+- Conflict is with the fish and later sharks
+
+6. Red Herrings and False Leads: [0/2]
+- No clear false leads or misdirections
+
+7. Realization or Insight: [1/2]
+- Santiago's insights about the fish, survival, and his own limitations
+
+8. Final Confrontation: [2/2]
+- Epic battle with the marlin and subsequent shark attacks
+
+9. Resolution and Aftermath: [1/2]
+- Return to shore, recognition of the struggle
+- Partial resolution with the boy's support
+
+The text is more an existential adventure than a traditional mystery, which limits its strict adherence to the mystery pattern.",0
+Copy of Copy of 109_being_there.txt,Mystery Pattern,2,1,25723,139839,0.0284728,0,0,34206,277,"Let me analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text partially follows mystery pattern stages, but with significant deviations.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: [2] Strong - Chance is introduced in detail in garden setting
+2. Presentation of Mystery: [1] Weak - Chance's background is mysterious
+3. Initial Investigation: [1] Partial - Various parties (government, Soviets) try to investigate Chance
+4. Uncovering Secrets and Clues: [1] Weak - No clear secrets revealed
+5. Confrontation of Suspects: [0] Absent
+6. Red Herrings and False Leads: [2] Strong - Multiple agencies produce conflicting interpretations
+7. Realization or Insight: [0] Absent
+8. Final Confrontation: [0] Absent
+9. Resolution and Aftermath: [0] Absent
+
+The text is more a satirical exploration of identity and media representation than a traditional mystery. While investigation elements exist, the narrative lacks classic mystery resolution.",0
+Copy of Copy of 156_the_13_clocks.txt,Mystery Genre,3,1,12343,62780,0.015524,0,0,17695,342,"=== MODEL EVALUATIONS ===
+
+Model: Mystery Genre
+StageTotal: 14/18
+Coverage: 0.78
+Score: 3
+Justification: The text follows the Mystery pattern with a strong narrative arc involving investigation, uncovering secrets, confronting suspects, and final resolution. The Golux and Zorn act as investigators solving the mystery of the frozen clocks and the Princess's true identity.
+
+Stage Evaluations:
+1. Introduction of Characters and Setting: 2 (Strong introduction of Duke, Saralinda, Zorn, and the mysterious castle)
+2. Presentation of Mystery: 2 (Clear mystery of frozen clocks and Princess's origins)
+3. Initial Investigation: 2 (Zorn and Golux begin investigating the challenge)
+4. Uncovering Secrets and Clues: 2 (Discovering Hagga's jewel-weeping, the Duke's theft of Saralinda)
+5. Confrontation of Suspects: 2 (Confronting the Duke and his spy Hark)
+6. Red Herrings and False Leads: 2 (Multiple misdirections like the Duke's tasks)
+7. Realization or Insight: 2 (Golux's clever solution with Hagga's jewels)
+8. Final Confrontation: 2 (Confrontation with the Duke in the black oak room)
+9. Resolution and Aftermath: 2 (Complete resolution of the mystery and escape)",0
+Copy of Copy of 191_every_heart_a_doorway.txt,Mystery Genre,2,1,39493,211786,0.0429176,0,0,51757,378,"I'll analyze this text using the Mystery Pattern scoring method:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Genre
+StageTotal: 9/18
+Coverage: 0.50 (9/18)
+Score: 2
+Justification: The text contains strong elements of a mystery, including a series of murders (Sumi, Loriel, Lundy), an investigation by students, red herrings, and a final revelation about the killer (Jill). While not a traditional detective story, the narrative follows a mystery structure with students attempting to uncover the truth behind the murders.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Clear introduction of Eleanor West's school and its unique students)
+2. Presentation of Mystery: 2 (Multiple murders create a complex mystery)
+3. Initial Investigation: 2 (Students begin investigating the deaths)
+4. Uncovering Secrets and Clues: 2 (Gradual revelation of connections between victims)
+5. Confrontation of Suspects: 1 (Suspicion falls on various characters)
+6. Red Herrings and False Leads: 2 (Suspicion initially on Nancy, Jack)
+7. Realization or Insight: 2 (Jack realizes Jill is the killer)
+8. Final Confrontation: 2 (Confrontation with Jill in the attic)
+9. Resolution and Aftermath: 1 (Partial resolution, with Jill escaping)
+
+The text subverts traditional mystery tropes by being set in a school for children who have traveled to magical worlds, but maintains core mystery structure and investigative elements.",0
+Copy of Copy of 1_animal-farm.txt,Mystery Pattern,2,1,30050,165909,0.0320696,0,0,38332,351,"I'll analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text exhibits most mystery pattern stages, though not all are fully developed. The investigation centers on uncovering the truth about the gradual corruption of the animal revolution.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: (2/2) 
+- Clear introduction of Animal Farm and its initial inhabitants
+
+2. Presentation of Mystery: (2/2)
+- The mystery of how the animal revolution will evolve
+
+3. Initial Investigation: (2/2)
+- Animals begin examining their new society's principles
+
+4. Uncovering Secrets and Clues: (1/2)
+- Gradual revelations about pig leadership's manipulation
+
+5. Confrontation of Suspects: (1/2)
+- Limited direct confrontations, mostly internal dynamics
+
+6. Red Herrings and False Leads: (1/2)
+- Squealer's propaganda creates multiple misdirections
+
+7. Realization or Insight: (2/2)
+- Animals gradually understand the betrayal of their ideals
+
+8. Final Confrontation: (1/2)
+- Minimal direct confrontation, more observational
+
+9. Resolution and Aftermath: (1/2)
+- Ambiguous ending with pigs becoming indistinguishable from humans
+
+The analysis reveals a metaphorical mystery about political corruption and betrayal of revolutionary ideals.",0
+Copy of Copy of 201_the_tiny_wife.txt,Mystery,3,1,14560,77383,0.01668,0,0,19200,330,"Let's analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 14/18
+Coverage: 0.78
+Score: 3
+Justification: The text presents a complex mystery surrounding a bank robbery where a thief steals emotionally significant objects, triggering bizarre transformations in the victims' lives. The narrative follows a clear investigative arc with multiple characters uncovering strange consequences.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Clear introduction of bank setting, multiple characters)
+2. Presentation of Mystery: 2 (Mysterious robbery with unconventional theft)
+3. Initial Investigation: 2 (Detective Phillips begins tracking cases)
+4. Uncovering Secrets and Clues: 2 (Gradual revelation of strange manifestations)
+5. Confrontation of Suspects: 1 (Limited direct confrontation)
+6. Red Herrings and False Leads: 1 (Some misdirection in manifestations)
+7. Realization or Insight: 2 (Characters gradually understand the thief's purpose)
+8. Final Confrontation: 1 (Indirect confrontation through manifestations)
+9. Resolution and Aftermath: 2 (Exploration of consequences, potential growth)
+
+The text subverts traditional mystery structures by focusing on metaphysical transformations rather than a straightforward crime investigation, but maintains strong mystery narrative elements.",0
+Copy of Copy of 258_farmer_giles_of_ham.txt,Mystery Pattern,2,1,16707,86991,0.019152,0,0,22310,326,"=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text follows a mystery-like narrative structure with a protagonist (Farmer Giles) investigating and resolving a series of mysterious events involving a giant and a dragon. While not a traditional detective story, it contains several key mystery pattern stages like initial investigation, uncovering secrets, confronting suspects (dragon), and final resolution.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Strong, detailed introduction of Giles, Ham village, and initial context)
+2. Presentation of Mystery: 2 (Giant's invasion and later dragon's appearance)
+3. Initial Investigation: 1 (Giles reluctantly investigates dragon threat)
+4. Uncovering Secrets and Clues: 1 (Learns about dragon's background, treasure)
+5. Confrontation of Suspects: 2 (Direct confrontations with giant and dragon)
+6. Red Herrings and False Leads: 1 (Knights' ineffective attempts)
+7. Realization or Insight: 1 (Giles realizes he can negotiate with dragon)
+8. Final Confrontation: 2 (Dramatic bridge confrontation with dragon and king)
+9. Resolution and Aftermath: 2 (Comprehensive epilogue showing Giles' rise to power)",0
+Copy of Copy of 268_under_the_greenwood_tree.txt,Mystery Pattern,2,1,58346,316252,0.0664544,0,0,81058,402,"Let me analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text partially fulfills mystery pattern stages, with a focus on uncovering hidden events and relationships, though not in a traditional detective narrative.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: (2/2)
+- Clear introduction of Mellstock village characters
+- Detailed setting of rural English countryside
+
+2. Presentation of Mystery: (1/2)
+- Subtle mystery around Fancy Day's relationships
+- Less explicit criminal mystery
+
+3. Initial Investigation: (1/2)
+- Dick Dewy investigates Fancy's feelings and potential relationships
+- Lacks traditional investigative techniques
+
+4. Uncovering Secrets and Clues: (2/2)
+- Revelations about Fancy's interactions with Shiner
+- Secrets about potential marriages emerge
+
+5. Confrontation of Suspects: (1/2)
+- Conversations with Geoffrey Day
+- Limited direct confrontational scenes
+
+6. Red Herrings and False Leads: (1/2)
+- Hints about Shiner's and Maybold's intentions
+- Some misdirection in romantic pursuits
+
+7. Realization or Insight: (1/2)
+- Partial insights into characters' motivations
+- Not a complete revelatory moment
+
+8. Final Confrontation: (0/2)
+- No clear confrontation with a ""perpetrator""
+
+9. Resolution and Aftermath: (1/2)
+- Marriage resolves some narrative tensions
+- Not a complete resolution of all mysteries
+
+The text is more a romantic novel with mystery elements than a traditional mystery story.",0
+Copy of Copy of 270_the_governess_affair.txt,Mystery,2,1,33790,179483,0.037056,0,0,44550,354,"Based on the text, here's an analysis of the Mystery pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The story follows most mystery pattern stages, but with a unique twist. Hugo Marshall investigates the mysterious circumstances surrounding Serena Barton and the Duke of Clermont's actions. The stages of initial investigation, uncovering secrets, confronting suspects, and final revelation are present, though not in a traditional detective narrative.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Strong introduction of Hugo and setting)
+2. Presentation of Mystery: 2 (Serena's situation with the Duke)
+3. Initial Investigation: 2 (Hugo begins investigating Serena's claims)
+4. Uncovering Secrets and Clues: 2 (Discovering details about the Duke's actions)
+5. Confrontation of Suspects: 2 (Directly confronting the Duke)
+6. Red Herrings and False Leads: 1 (Some misdirection in initial interactions)
+7. Realization or Insight: 2 (Hugo understands the Duke's true nature)
+8. Final Confrontation: 2 (Confronting the Duke and extracting a confession)
+9. Resolution and Aftermath: 1 (Partial resolution through marriage and exposure)
+
+The narrative transforms the traditional mystery structure into a personal investigation of moral wrongdoing, making it an innovative take on the mystery genre.",0
+Copy of Copy of 28_Lord_of_the_flies.txt,Mystery Pattern,3,1,61247,326635,0.0664176,0,0,81247,355,"I'll analyze the text using the Mystery Pattern narrative structure. Here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 12/18
+Coverage: 0.67
+Score: 3
+Justification: The text exhibits strong elements of mystery investigation, with Ralph and Piggy attempting to uncover the truth about events on the island, confronting suspects (Jack's tribe), and gradually revealing hidden secrets about human nature and the descent into savagery.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Very clear introduction of boys on island)
+2. Presentation of Mystery: 2 (The ""beast"" and breakdown of social order)
+3. Initial Investigation: 2 (Ralph and Piggy try to understand what's happening)
+4. Uncovering Secrets and Clues: 2 (Gradual revelation of tribe's brutality)
+5. Confrontation of Suspects: 2 (Confrontations with Jack's tribe)
+6. Red Herrings and False Leads: 1 (The ""beast"" serves as a partial red herring)
+7. Realization or Insight: 2 (Simon and Ralph's insights about human nature)
+8. Final Confrontation: 1 (Somewhat implicit in final chase and naval rescue)
+9. Resolution and Aftermath: 1 (Rescue provides partial resolution)
+
+The analysis shows a strong narrative structure with most mystery pattern stages represented, though the traditional detective framework is transformed into a psychological and sociological investigation of human behavior.",0
+Copy of Copy of 316_the_canterville_ghost.txt,Mystery (Gothic/Supernatural Mystery),3,1,11497,63055,0.0141648,0,0,16071,327,"Let's analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery (Gothic/Supernatural Mystery)
+StageTotal: 12/18
+Coverage: 0.67
+Score: 3
+Justification: The text strongly demonstrates most mystery pattern stages, with a supernatural twist. The ghost serves as the ""mystery"" to be investigated, with Virginia ultimately uncovering his tragic backstory and helping him find peace.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Detailed introduction of Otis family and Canterville Chase)
+2. Presentation of Mystery: 2 (The haunted house and persistent ghost)
+3. Initial Investigation: 2 (Family's attempts to understand/interact with ghost)
+4. Uncovering Secrets and Clues: 2 (Gradual revelation of ghost's history)
+5. Confrontation of Suspects: 1 (Limited direct confrontations)
+6. Red Herrings and False Leads: 1 (Ghost's various failed haunting attempts)
+7. Realization or Insight: 2 (Virginia's compassionate understanding of ghost)
+8. Final Confrontation: 2 (Virginia's spiritual interaction with ghost)
+9. Resolution and Aftermath: 2 (Ghost's redemption and peaceful death)
+
+The narrative follows a mystery structure while subverting traditional ghost story expectations, making it a unique supernatural mystery.",0
+Copy of Copy of 317_the_wonderful_o.txt,Mystery Genre,2,1,11214,60317,0.015384,0,0,17085,429,"Let me analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Genre
+StageTotal: 11/18
+Coverage: 0.61
+Score: 2
+Justification: The text presents a complex mystery narrative involving Black and Littlejack's search for hidden jewels, with multiple investigative stages and gradual revelation of secrets.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: (2/2)
+- Clear introduction of Black, Littlejack, and the island setting
+- Detailed character descriptions and initial mysterious context
+
+2. Presentation of Mystery: (2/2)
+- The quest for hidden jewels is explicitly presented
+- Mysterious map and treasure become central narrative driver
+
+3. Initial Investigation: (2/2)
+- Black and Littlejack begin systematic search for jewels
+- Multiple investigative strategies employed
+
+4. Uncovering Secrets and Clues: (2/2)
+- Gradual revelation of island's history
+- Complex layers of mystery surrounding the jewels
+
+5. Confrontation of Suspects: (1/2)
+- Limited direct confrontations
+- More metaphorical confrontations with island inhabitants
+
+6. Red Herrings and False Leads: (1/2)
+- Multiple misdirections in the search
+- Partial implementation of false investigative paths
+
+7. Realization or Insight: (1/2)
+- Partial insights, especially around the letter ""O""
+- Not a complete sudden revelation
+
+8. Final Confrontation: (0/2)
+- No direct confrontation with a singular perpetrator
+- More of a collective resolution
+
+9. Resolution and Aftermath: (2/2)
+- Clear resolution with Black and Littlejack's departure
+- Comprehensive explanation of events
+
+The narrative is a highly stylized, allegorical mystery that plays with linguistic and conceptual boundaries of investigation.",0
+Copy of Copy of 337_the_library_window.txt,Mystery,2,1,18552,92938,0.0200784,0,0,23448,330,"I'll analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text contains most mystery stages, but with a supernatural/gothic twist. The protagonist investigates a mysterious window and a spectral figure, uncovering layers of family history and an unexplained phenomenon.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: {2} - Detailed introduction of narrator, Aunt Mary, and St. Rule's setting
+2. Presentation of Mystery: {2} - The ambiguous library window becomes the central mystery
+3. Initial Investigation: {2} - Narrator begins observing the window closely
+4. Uncovering Secrets and Clues: {2} - Gradual revelations about the window's nature
+5. Confrontation of Suspects: {1} - Discussions with Mr. Pitmilly and Aunt Mary
+6. Red Herrings and False Leads: {2} - Multiple interpretations of the window's existence
+7. Realization or Insight: {2} - Narrator's understanding of the spectral figure
+8. Final Confrontation: {1} - Metaphorical confrontation with the mysterious figure
+9. Resolution and Aftermath: {1} - Partial resolution with family history hints
+
+The text transcends traditional mystery by introducing supernatural elements, making it a hybrid gothic mystery narrative.",0
+Copy of Copy of 345_lyras_oxford.txt,Mystery Pattern,4,1,7554,39862,0.0101744,0,0,11068,330,"=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 16/18
+Coverage: 0.89
+Score: 4
+Justification: The text exhibits a strong mystery structure with a clear investigative journey. Lyra acts as the detective, uncovering a complex plot involving a witch's revenge, an alchemist's hidden past, and mysterious bird behaviors. The narrative systematically reveals secrets, confronts suspects, and resolves the central mystery.
+
+Stage-by-Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Lyra and Oxford setting clearly established)
+2. Presentation of Mystery: 2 (Witch's dæmon seeking help, underlying tension)
+3. Initial Investigation: 2 (Lyra begins tracking Sebastian Makepeace)
+4. Uncovering Secrets and Clues: 2 (Revelations about witch's motivations)
+5. Confrontation of Suspects: 2 (Interaction with dæmon and witch)
+6. Red Herrings and False Leads: 2 (Misleading information about medicine)
+7. Realization or Insight: 2 (Understanding bird behaviors as protective)
+8. Final Confrontation: 1 (Indirect confrontation with witch)
+9. Resolution and Aftermath: 1 (Partial resolution, open-ended)
+
+The high coverage and comprehensive mystery structure justify the maximum score of 4.",0
+Copy of Copy of 36_the_turn_of_the_screw.txt,Mystery,2,1,40309,210774,0.0433136,0,0,52417,345,"I'll analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 11/18
+Coverage: 0.61
+Score: 2
+Justification: The text strongly exhibits most mystery pattern stages, with a governess investigating supernatural occurrences involving children and spectral figures. The investigation, confrontation of suspects, red herrings, and final revelations are particularly well-developed.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Detailed introduction of governess, children, Bly house)
+2. Presentation of Mystery: 2 (Mysterious circumstances around Miles' school expulsion)
+3. Initial Investigation: 2 (Governess begins investigating strange occurrences)
+4. Uncovering Secrets and Clues: 2 (Gradual revelations about Quint and Miss Jessel)
+5. Confrontation of Suspects: 2 (Confrontations with Miles and Flora)
+6. Red Herrings and False Leads: 1 (Some misdirection, but not extensively developed)
+7. Realization or Insight: 1 (Governess gradually understands supernatural situation)
+8. Final Confrontation: 2 (Climactic scene with Miles and spectral figures)
+9. Resolution and Aftermath: 1 (Ambiguous ending with Miles' death)
+
+The text is Henry James' ""The Turn of the Screw"", a classic psychological mystery with supernatural elements.",0
+Copy of Copy of 377_greater_than_rubies.txt,Mystery Pattern,3,1,58033,305777,0.0598864,0,0,73528,266,"Based on the text, here's the Mystery Pattern analysis:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 14/18
+Coverage: 0.78
+Score: 3
+Justification: The text follows a strong mystery narrative structure with Robin and Tony investigating various personal and interpersonal mysteries, including Robin's past trauma, Tony's mentorship of Derrick, and their own relationship dynamics. The stages of investigation, uncovering secrets, confronting suspects, and final resolution are metaphorically but clearly present.
+
+Detailed Stage Scoring:
+1. Introduction of Characters and Setting: 2
+2. Presentation of Mystery: 2
+3. Initial Investigation: 2
+4. Uncovering Secrets and Clues: 2
+5. Confrontation of Suspects: 1
+6. Red Herrings and False Leads: 1
+7. Realization or Insight: 2
+8. Final Confrontation: 2
+9. Resolution and Aftermath: 2
+
+The mystery here is psychological and relational, centered on Robin's past trauma and her journey to trust and intimacy with Tony, rather than a traditional crime investigation.",0
+Copy of Copy of 407_the_restaurant_at_the_end.txt,Mystery,2,1,53589,292469,0.0603608,0,0,73771,336,"Based on the text, here's the Mystery Pattern analysis:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text contains most mystery stages, though not all are fully developed. The protagonist (Ford/Arthur) investigates multiple mysteries: the nature of the Golgafrinchans, the origin of Earth, and the Ultimate Question. While not a traditional detective narrative, it follows investigative patterns of uncovering hidden truths.
+
+Detailed Stage Evaluation:
+1. Introduction of Characters and Setting: 2 (Clear introduction of Ford, Arthur, Golgafrinchans)
+2. Presentation of Mystery: 2 (Multiple mysteries about Earth's origin)
+3. Initial Investigation: 2 (Exploring the planet, observing natives)
+4. Uncovering Secrets and Clues: 2 (Discovering Slartibartfast's signature, native's ""42"" message)
+5. Confrontation of Suspects: 1 (Limited direct confrontation)
+6. Red Herrings and False Leads: 1 (Some misdirections about Earth's history)
+7. Realization or Insight: 2 (Understanding Earth's true origin)
+8. Final Confrontation: 1 (No direct confrontation with antagonists)
+9. Resolution and Aftermath: 1 (Partial resolution, many questions remain)",0
+Copy of Copy of 418_breathless.txt,Mystery Pattern,2,1,25274,130105,0.0277128,0,0,32991,330,"I'll analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text contains several key mystery pattern elements, though not fully developed. There's an initial mysterious event (Anna nearly drowning), an investigation by the protagonist (Az), uncovering secrets, confronting suspects (interactions with Tate and others), and some resolution.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: {2} - Clear introduction of Az and her environment
+2. Presentation of Mystery: {1} - Implied mystery around Az's true nature
+3. Initial Investigation: {2} - Az's interactions and careful navigation of human interactions
+4. Uncovering Secrets and Clues: {1} - Gradual revelation of her draki identity
+5. Confrontation of Suspects: {1} - Interactions with Tate, Brett, Hailey
+6. Red Herrings and False Leads: {1} - Moments of misdirection about her identity
+7. Realization or Insight: {1} - Az's growing understanding of her feelings
+8. Final Confrontation: {0} - No clear confrontation about her true nature
+9. Resolution and Aftermath: {1} - Partial resolution with her decision to stay
+
+The text is more a paranormal romance with mystery elements than a pure mystery narrative.",0
+Copy of Copy of 452_the_perilous_life_of_jade.txt,Mystery,2,1,25318,129412,0.0280408,0,0,33431,324,"Based on the text, here's the analysis for the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 8/18
+Coverage: 0.44
+Score: 2
+Justification: While the text contains some mystery elements, it does not fully develop a traditional mystery narrative. The story follows Jade Yeo's personal journey and relationships, with only subtle investigative or revelatory moments.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Strong introduction of Jade as protagonist)
+2. Presentation of Mystery: 1 (Subtle mystery around Jade's personal choices and relationships)
+3. Initial Investigation: 1 (Jade's self-reflection and exploration of her experiences)
+4. Uncovering Secrets and Clues: 1 (Gradual revelations about her relationships)
+5. Confrontation of Suspects: 0 (No direct confrontations)
+6. Red Herrings and False Leads: 0 (No misdirections)
+7. Realization or Insight: 2 (Strong personal insights about love and self)
+8. Final Confrontation: 1 (Confrontation with self and personal choices)
+9. Resolution and Aftermath: 0 (Open-ended personal resolution)
+
+The text is more of a character study and personal narrative than a traditional mystery, which explains the moderate coverage and score.",0
+Copy of Copy of 46_cannery_row.txt,Mystery,2,1,50288,261112,0.0524448,0,0,64036,304,"I'll analyze the text according to the Mystery Pattern narrative structure. Here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: While the text contains elements of mystery, it does not strictly follow a traditional mystery narrative structure. The story of Cannery Row is more of an ensemble narrative about a community, with Doc as a central figure. The investigation and resolution stages are minimal or absent.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Strong, detailed introduction of Cannery Row and its inhabitants)
+2. Presentation of Mystery: 1 (Weak - no clear central mystery)
+3. Initial Investigation: 0 (No systematic investigation)
+4. Uncovering Secrets and Clues: 1 (Minimal revelations about characters)
+5. Confrontation of Suspects: 0 (No suspect confrontation)
+6. Red Herrings and False Leads: 0 
+7. Realization or Insight: 1 (Some character insights)
+8. Final Confrontation: 0
+9. Resolution and Aftermath: 1 (Loose resolution of community dynamics)
+
+The narrative is more a slice-of-life story about community relationships than a traditional mystery.",0
+Copy of Copy of 489_skin_deep.txt,Mystery,3,1,52616,279313,0.057756,0,0,70745,290,"This text appears to be a romantic suspense novel that follows the Mystery genre pattern. Let me analyze it using the Mystery pattern scoring method:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 14/18
+Coverage: 0.78
+Score: 3
+Justification: The story follows a strong mystery pattern with a protagonist (Megan) and a detective-like figure (Nate) investigating and resolving a dangerous situation involving her past and a threatening ex-partner (Donny). The stages of investigation, uncovering secrets, confronting suspects, and final resolution are all strongly represented.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2
+2. Presentation of Mystery: 2
+3. Initial Investigation: 2
+4. Uncovering Secrets and Clues: 2
+5. Confrontation of Suspects: 2
+6. Red Herrings and False Leads: 1
+7. Realization or Insight: 2
+8. Final Confrontation: 2
+9. Resolution and Aftermath: 1
+
+The story provides a comprehensive exploration of the mystery genre, with strong character development, suspenseful plot progression, and a satisfying resolution that goes beyond a typical genre formula by incorporating deep emotional and romantic elements.",0
+Copy of Copy of 495_hammers_on_bone.txt,Mystery,4,1,17751,95618,0.0215984,0,0,25373,325,"=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 16/18
+Coverage: 0.89
+Score: 4
+Justification: The text exhibits a strong mystery narrative structure with clear progression through all nine mystery stages. The protagonist John Persons systematically investigates a complex case involving a family's dark secrets, uncovering layers of supernatural intrigue while following classic detective story progression.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Strong introduction of John Persons and initial context)
+2. Presentation of Mystery: 2 (Abel's request to kill his stepfather introduces central mystery)
+3. Initial Investigation: 2 (Persons investigates McKinsey and family dynamics)
+4. Uncovering Secrets and Clues: 2 (Discovers supernatural elements, family tensions)
+5. Confrontation of Suspects: 2 (Multiple confrontations with McKinsey, his wife)
+6. Red Herrings and False Leads: 2 (Multiple misdirections about motivations)
+7. Realization or Insight: 2 (Understanding Abel's true plan)
+8. Final Confrontation: 2 (Violent confrontation with McKinsey)
+9. Resolution and Aftermath: 2 (Epilogue with Sasha provides narrative closure)
+
+The text masterfully subverts traditional mystery tropes while maintaining a strong investigative narrative structure.",0
+Copy of Copy of 51_the_picture_of_dorian_gray.txt,Mystery Pattern,3,1,55410,291404,0.059353600000000006,0,0,72717,295,"I'll analyze the text according to the Mystery pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 14/18
+Coverage: 0.78
+Score: 3
+Justification: The text strongly exhibits most mystery pattern stages, with a complex narrative of investigation surrounding Dorian Gray's hidden secrets. The protagonist (Basil Hallward/Lord Henry) investigates Dorian's mysterious transformations, uncovering secrets through confrontations and revelations about the portrait. The final stages reveal the complete mystery through Dorian's ultimate destruction of the evidence and himself.
+
+Detailed Stage Evaluation:
+1. Introduction of Characters and Setting: 2/2
+2. Presentation of Mystery: 2/2
+3. Initial Investigation: 2/2
+4. Uncovering Secrets and Clues: 2/2
+5. Confrontation of Suspects: 2/2
+6. Red Herrings and False Leads: 1/2
+7. Realization or Insight: 2/2
+8. Final Confrontation: 2/2
+9. Resolution and Aftermath: 1/2
+
+The text provides a sophisticated psychological mystery that transcends traditional detective narratives, focusing on moral and existential revelations rather than a straightforward crime investigation.",0
+Copy of Copy of 560_how_to_marry_a_werewolf.txt,Mystery,2,1,47875,262351,0.0523928,0,0,63936,311,"Based on the text, here's the Mystery Pattern analysis:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The story follows most mystery pattern stages, with a detective (Major Channing) investigating Sundowner bullets and uncovering Faith's hidden past. The investigation involves gathering clues, confronting suspects, and ultimately revealing hidden truths about both Faith and Channing.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Strong introduction of Channing and Faith)
+2. Presentation of Mystery: 2 (Sundowner bullets and Faith's background)
+3. Initial Investigation: 2 (Channing's BUR investigation)
+4. Uncovering Secrets and Clues: 2 (Revelations about Faith's past and Channing's history)
+5. Confrontation of Suspects: 1 (Limited direct confrontations)
+6. Red Herrings and False Leads: 1 (Some misdirection about Faith's intentions)
+7. Realization or Insight: 2 (Mutual understanding of their pasts)
+8. Final Confrontation: 1 (Minimal direct confrontation)
+9. Resolution and Aftermath: 2 (Marriage and resolution of personal mysteries)",0
+Copy of Copy of 93_to_kill_a_mocking_bird.txt,Genre Mystery,2,1,102179,538278,0.11581440000000001,0,0,142373,479,"Based on the text, here's an analysis of the Mystery pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Mystery
+StageTotal: 9/18
+Coverage: 0.50 (50%)
+Score: 2
+Justification: The text follows most mystery pattern stages, though not all are fully developed. Key stages include:
+
+1. Introduction of Characters and Setting (Stage 1): Strong (2/2)
+- Introduces Scout, Jem, Atticus, and Maycomb's social context
+- Establishes detective figure (Atticus) and mystery environment
+
+2. Presentation of Mystery (Stage 2): Moderate (1/2)
+- Tom Robinson's alleged rape case presents the central mystery
+- Some ambiguity about what actually happened
+
+3. Initial Investigation (Stage 3): Strong (2/2)
+- Atticus investigates Tom Robinson's case
+- Interviews witnesses, examines evidence
+
+4. Uncovering Secrets and Clues (Stage 4): Strong (2/2)
+- Reveals inconsistencies in Mayella and Bob Ewell's testimonies
+- Exposes racial prejudices influencing the case
+
+5. Confrontation of Suspects (Stage 5): Strong (2/2)
+- Cross-examination of Mayella Ewell and Bob Ewell
+- Challenging their credibility
+
+6. Red Herrings and False Leads (Stage 6): Moderate (1/2)
+- Some misdirection about the case's true nature
+- Racial tensions complicate the investigation
+
+7. Realization or Insight (Stage 7): Weak (0/2)
+- Limited explicit revelation of complete truth
+
+8. Final Confrontation (Stage 8): Weak (0/2)
+- No direct confrontation with primary perpetrator
+
+9. Resolution and Aftermath (Stage 9): Moderate (1/2)
+- Tom Robinson's death
+- Partial resolution through Bob Ewell's death
+
+The mystery is more social and moral than a traditional detective narrative, focusing on systemic injustice rather than solving a specific crime.",0
