@@ -37,7 +37,7 @@ narrative-pattern-evaluation/
 │   ├── annotations/
 │   │   ├── human_general.csv        # Human scores (general genre knowledge)
 │   │   ├── human_patternteller.csv  # Human scores (PatternTeller framework)
-│   │   ├── llm_claude.csv           # Claude PatternTeller scores
+│   │   ├── llm_claude_tragedy.csv           # Claude PatternTeller scores
 │   │   ├── llm_gemini.csv           # Gemini PatternTeller scores
 │   │   └── llm_deepseek.csv         # DeepSeek PatternTeller scores
 │   └── raw_llm_outputs/
