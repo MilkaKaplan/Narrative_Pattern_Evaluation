@@ -1,0 +1,869 @@
+filename,primary_narrative_model,primary_score,models_evaluated,word_count,text_length,cost,cache_created,cache_read,input_tokens,output_tokens,raw_response,Genre Comedy
+Copy of Copy of 0_the_old_man_and_the_sea.txt,Satire,1,1,26698,129846,0.0266184,0,0,31603,334,"Let's analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 4/14
+Coverage: 0.29
+Score: 1
+Justification: While the text contains elements of struggle and resilience, it does not strongly represent a systematic critique of an oppressive system. The narrative is more of an existential exploration of human endurance and dignity.
+
+Stage-by-Stage Breakdown:
+1. Establishment of Setting and Characters: 1/2 
+- An old fisherman in a small Cuban village, struggling with bad luck
+
+2. Revelation of the System: 0/2
+- No clear oppressive system is revealed
+
+3. Protagonist's Awakening: 1/2
+- Santiago's awareness of his own limitations and mortality
+
+4. Development of Resistance: 1/2
+- His determination to catch the fish and survive represents a personal resistance
+
+5. Crisis and Struggle: 2/2
+- Intense physical and psychological struggle with the fish and sharks
+
+6. Consequence of Resistance: 1/2
+- Partial loss of the fish, physical exhaustion
+
+7. Final Revelation: 0/2
+- No systemic revelation about societal injustice
+
+8. Closure: 1/2
+- Somber but dignified ending, focusing on individual resilience
+
+The text is more of an existential parable about human struggle than a traditional satire targeting a specific oppressive system.",0
+Copy of Copy of 109_being_there.txt,Satire,3,1,25723,139839,0.0292896,0,0,34247,473,"Let me analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 11/14
+Coverage: 0.79
+Score: 3
+Justification: The novel ""Being There"" presents a powerful satirical critique of media, politics, and social perception through Chance's character, systematically exposing the hollowness of American institutions.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2/2]
+- Introduces Chance, an isolated gardener who knows only television and his garden
+- Reveals a dystopian social environment where media and appearances dominate reality
+
+2. Revelation of the System: [2/2]
+- Chance discovers how easily he can manipulate social perceptions through TV-learned behaviors
+- Exposes the superficiality of political, media, and social elites
+
+3. Protagonist's Awakening: [2/2]
+- Chance realizes he can navigate complex social spaces by mimicking TV behaviors
+- Understands that people project meaning onto his simplistic statements
+
+4. Development of Resistance: [2/2]
+- Chance passively ""resists"" by maintaining his authentic, limited understanding
+- His very simplicity becomes a form of subversive commentary
+
+5. Crisis and Struggle: [1/2]
+- Faces potential exposure of his true identity
+- Experiences moments of potential vulnerability (interactions with EE, lawyers)
+
+6. Consequence of Resistance: [1/2]
+- Narrowly avoids being discovered as fraudulent
+- Paradoxically gains more power and recognition
+
+7. Final Revelation: [1/2]
+- Reveals the profound emptiness of social/political discourse
+- Shows how easily meaningless statements can be interpreted as profound wisdom
+
+8. Closure: [0/2]
+- Lacks a clear somber conclusion about systemic injustice
+- Ending remains ambiguous about ultimate social critique
+
+The text brilliantly satirizes media manipulation, political discourse, and social perception, demonstrating how superficial understanding can be mistaken for profound insight.",0
+Copy of Copy of 156_the_13_clocks.txt,Satire,4,1,12343,62780,0.0159288,0,0,17736,435,"=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 14/16
+Coverage: 0.875
+Score: 4
+Justification: The text perfectly embodies a satirical narrative exposing the oppressive system of the cold Duke's tyrannical control, systematically revealing the mechanisms of power, resistance, and ultimate transformation.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2/2]
+- Introduces dystopian castle setting
+- Presents cold Duke and warm Princess Saralinda
+- Reveals oppressive social dynamics
+
+2. Revelation of the System: [2/2]
+- Exposes Duke's brutal control mechanisms
+- Shows manipulation of time and marriage rules
+- Reveals Duke's arbitrary and cruel governance
+
+3. Protagonist's Awakening: [2/2]
+- Prince Zorn recognizes system's injustice
+- Develops resistance strategy
+- Questions Duke's legitimacy
+
+4. Development of Resistance: [2/2]
+- Forms alliance with Golux
+- Develops strategic plan to defeat Duke
+- Joins resistance against oppressive system
+
+5. Crisis and Struggle: [2/2]
+- Faces extreme challenges (impossible jewel task)
+- Confronts Duke's complex obstacles
+- Tests spirit of resistance
+
+6. Consequence of Resistance: [2/2]
+- Risks potential death/punishment
+- Faces potential failure multiple times
+- Endures significant hardship
+
+7. Final Revelation: [2/2]
+- Exposes Duke's fundamental wickedness
+- Reveals systemic corruption
+- Shows resilience of human spirit against oppression
+
+8. Closure: [2/2]
+- Concludes with somber reflection on power
+- Suggests ongoing struggle against tyranny
+- Leaves open-ended possibility of future challenges
+
+The narrative brilliantly satirizes institutional power, personal freedom, and the complex mechanisms of resistance.",0
+Copy of Copy of 191_every_heart_a_doorway.txt,Satire,3,1,39493,211786,0.0428224,0,0,51798,346,"I'll analyze this text using the Satire pattern you specified. Here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 11/14
+Coverage: 0.79
+Score: 3
+Justification: The novel strongly critiques societal systems of control, marginalization, and normalization through its portrayal of Eleanor West's school and the students' experiences with alternate worlds. The text systematically deconstructs expectations about identity, belonging, and institutional ""healing"".
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: 2 
+(Eleanor West's school, diverse students from magical worlds)
+
+2. Revelation of the System: 2 
+(Exposing the school's true purpose of controlling/managing ""wayward"" children)
+
+3. Protagonist's Awakening: 2 
+(Nancy's growing understanding of the school's manipulative dynamics)
+
+4. Development of Resistance: 2 
+(Students forming alliances, challenging institutional narratives)
+
+5. Crisis and Struggle: 2 
+(Multiple murders, institutional breakdown)
+
+6. Consequence of Resistance: 1 
+(Deaths of students, institutional instability)
+
+7. Final Revelation: 2 
+(Systemic violence exposed through Jill's actions)
+
+8. Closure: 0 
+(Open-ended conclusion resists complete resolution)
+
+The text critiques systems of normalization, institutional control, and societal expectations about identity and belonging, making it a strong example of satirical narrative.",0
+Copy of Copy of 1_animal-farm.txt,Satire,4,1,30050,165909,0.0320024,0,0,38373,326,"I'll analyze this text using the Satire pattern you specified.
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 14/16
+Coverage: 0.875
+Score: 4
+Justification: George Orwell's ""Animal Farm"" is a powerful allegorical satire that comprehensively explores the stages of resistance against an oppressive system, systematically revealing the corruption of revolutionary ideals through the animals' gradual transformation.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2] Explicit introduction of Manor Farm and discontented animals
+2. Revelation of the System: [2] Clear exposition of human oppression through Major's speech
+3. Protagonist's Awakening: [2] Animals recognize their exploitation and potential for rebellion
+4. Development of Resistance: [2] Organized overthrow of Mr. Jones and establishment of Animal Farm
+5. Crisis and Struggle: [2] Ongoing conflicts with humans and internal power struggles
+6. Consequence of Resistance: [2] Increasing hardship and betrayal of original revolutionary principles
+7. Final Revelation: [2] Pigs become indistinguishable from humans, exposing systemic corruption
+8. Closure: [2] Bleak, ironic conclusion highlighting the cyclical nature of oppression
+
+The text meticulously traces how revolutionary idealism transforms into totalitarian control, making it a quintessential example of political satire.",0
+Copy of Copy of 201_the_tiny_wife.txt,Satire,4,1,14560,77383,0.0169008,0,0,19241,377,"=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 14/16
+Coverage: 0.875
+Score: 4
+Justification: The text presents a complex satirical narrative that systematically deconstructs social systems, personal relationships, and existential meaning through a metaphorical robbery that exposes the fragility of human connections and institutional structures.
+
+Detailed Stage Evaluation:
+
+1. Establishment of Setting and Characters: 
+- StageScore: 2
+- The story introduces a dystopian social landscape through the bank robbery and its diverse characters
+
+2. Revelation of the System:
+- StageScore: 2
+- The thief's actions reveal the hollowness of emotional attachments and societal mechanisms
+
+3. Protagonist's Awakening:
+- StageScore: 2
+- Characters like Stacey and Dawn undergo profound personal transformations
+
+4. Development of Resistance:
+- StageScore: 2
+- Characters resist their circumstances through various coping mechanisms and support group meetings
+
+5. Crisis and Struggle:
+- StageScore: 2
+- Characters face bizarre, surreal manifestations testing their resilience
+
+6. Consequence of Resistance:
+- StageScore: 2
+- Characters suffer strange transformations and psychological challenges
+
+7. Final Revelation:
+- StageScore: 2
+- The story exposes the arbitrary nature of human experience and emotional connections
+
+8. Closure:
+- StageScore: 2
+- The narrative concludes with a somber, ambiguous reflection on love, loss, and potential renewal
+
+The text masterfully uses absurdist elements to critique social systems, personal relationships, and existential meaning.",0
+Copy of Copy of 258_farmer_giles_of_ham.txt,Satire,4,1,16707,86991,0.0191527999999999,0,0,22351,318,"=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 14/16
+Coverage: 0.875
+Score: 4
+Justification: The text provides a comprehensive satirical critique of power structures, social hierarchies, and institutional incompetence through the humorous tale of Farmer Giles. The story systematically exposes the hollowness of royal authority, knightly pretensions, and bureaucratic systems.
+
+Detailed Stage Evaluation:
+1. Establishment of Setting: 2 (Clear dystopian rural setting with rigid social structures)
+2. Revelation of System: 2 (Exposes ineffectual royal governance and knight culture)
+3. Protagonist's Awakening: 2 (Giles progressively challenges existing power dynamics)
+4. Development of Resistance: 2 (Giles subverts royal expectations through cunning)
+5. Crisis and Struggle: 2 (Confrontations with dragon and king test his resistance)
+6. Consequence of Resistance: 2 (Giles faces potential punishment but ultimately triumphs)
+7. Final Revelation: 2 (Demonstrates systemic weakness of institutional power)
+8. Closure: 2 (Concludes with ironic commentary on social transformation)
+
+The text brilliantly uses humor and fantasy to deconstruct societal power mechanisms, making it an exemplary satirical narrative.",0
+Copy of Copy of 268_under_the_greenwood_tree.txt,Satire,2,1,58346,316252,0.0663311999999999,0,0,81099,363,"Based on the provided text, here's an analysis of the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 10/16
+Coverage: 0.625
+Score: 2
+Justification: The novel contains several satirical elements critiquing social structures and institutional norms, though not in a fully developed satirical mode.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: 2 
+- Detailed portrayal of rural Mellstock parish
+- Introduction of characters representing different social strata
+
+2. Revelation of the System: 1
+- Subtle critique of church hierarchy and social conventions
+- Hints at rigid social expectations around marriage and class
+
+3. Protagonist's Awakening: 1
+- Fancy and Dick become aware of social constraints
+- Recognize limitations imposed by social and economic circumstances
+
+4. Development of Resistance: 1
+- Subtle resistance through personal choices
+- Challenging social expectations about marriage and social mobility
+
+5. Crisis and Struggle: 1
+- Conflicts with social expectations
+- Tension between individual desires and societal norms
+
+6. Consequence of Resistance: 1
+- Negotiating marriage across social boundaries
+- Compromises and adaptations to social pressures
+
+7. Final Revelation: 2
+- Exposure of social hypocrisy and limitations
+- Critique of institutional structures like church and marriage
+
+8. Closure: 1
+- Somewhat ambiguous resolution
+- Hints at ongoing social constraints
+
+The text presents a nuanced, gentle satire of rural social structures rather than a biting critique.",0
+Copy of Copy of 270_the_governess_affair.txt,Satire,2,1,33790,179483,0.0374168,0,0,44591,436,"Based on the text, here's an analysis of the Satire pattern in ""The Governess Affair"":
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 11/16
+Coverage: 0.69
+Score: 2
+Justification: The story reveals systemic power imbalances through Hugo and Serena's struggle against the oppressive social and moral systems that disadvantage women and lower-class individuals, particularly through the Duke of Clermont's abusive behavior.
+
+Stage Breakdown:
+1. Setting/Characters (StageScore: 2)
+- Introduces dystopian social environment where women like Serena have little power
+- Hugo emerges as someone challenging systemic inequities
+
+2. Revelation of System (StageScore: 2)
+- Exposes Duke's sexual exploitation of vulnerable women
+- Reveals how social hierarchies protect powerful men's misconduct
+
+3. Protagonist's Awakening (StageScore: 2)
+- Serena refuses to be silenced about her experience
+- Hugo recognizes the systemic injustice and decides to act
+
+4. Development of Resistance (StageScore: 2)
+- Serena's persistent public protest against the Duke
+- Hugo's strategic undermining of Clermont's social standing
+
+5. Crisis/Struggle (StageScore: 1)
+- Partial representation of struggle through legal/social challenges
+- Hugo's confrontation with Clermont represents resistance peak
+
+6. Consequence of Resistance (StageScore: 1)
+- Partial consequences through social and legal maneuvering
+- Hugo risks professional relationship with Clermont
+
+7. Final Revelation (StageScore: 1)
+- Partial exposure of systemic hypocrisy
+- Duke forced to acknowledge his misconduct
+
+8. Closure (StageScore: 0)
+- Lacks broader systemic critique
+- Resolution feels more personal than societal",0
+Copy of Copy of 28_Lord_of_the_flies.txt,Satire Pattern,3,1,61247,326635,0.0668704,0,0,81288,460,"I'll analyze the text using the Satire pattern as requested. Here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire Pattern
+StageTotal: 12/16
+Coverage: 0.75
+Score: 3
+Justification: William Golding's ""Lord of the Flies"" powerfully demonstrates a satirical deconstruction of societal order, revealing how quickly civilization can collapse into barbarism.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2/2]
+- Introduces a group of British schoolboys stranded on an uninhabited island
+- Clear initial social structures with Ralph as democratically elected chief
+
+2. Revelation of the System: [2/2]
+- Boys gradually realize the fragility of their social order
+- Jack's emerging authoritarian tendencies expose systemic weaknesses
+
+3. Protagonist's Awakening: [2/2]
+- Ralph becomes increasingly aware of the deteriorating social dynamics
+- Recognizes the growing threat to civilization represented by Jack's tribe
+
+4. Development of Resistance: [2/2]
+- Ralph attempts to maintain rational governance and rescue priorities
+- Tries to counter Jack's descent into tribalism and violence
+
+5. Crisis and Struggle: [2/2]
+- Intense conflict between Ralph's democratic group and Jack's savage tribe
+- Escalating violence and breakdown of social norms
+
+6. Consequence of Resistance: [1/2]
+- Simon and Piggy are murdered
+- Ralph is hunted and nearly killed
+- Partial score due to incomplete total destruction
+
+7. Final Revelation: [1/2]
+- Implicit critique of human nature's potential for savagery
+- Partial score as the revelation is somewhat subtle
+
+8. Closure: [2/2]
+- Rescue arrives, revealing the stark contrast between civilized appearance and savage reality
+- Poignant reflection on lost innocence and inherent human darkness
+
+The analysis shows a strong satirical structure critiquing social institutions, human nature, and the thin veneer of civilization.",0
+Copy of Copy of 316_the_canterville_ghost.txt,Satire,3,1,11497,63055,0.0144896,0,0,16112,400,"Let's analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 11/16
+Coverage: 0.69
+Score: 3
+Justification: Oscar Wilde's ""The Canterville Ghost"" provides a satirical critique of cultural differences between American pragmatism and British aristocratic traditions, exposing the hollowness of supernatural beliefs and rigid social conventions.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2] 
+- Clear introduction of American Otis family contrasted with British aristocratic Lord Canterville
+- Detailed characterization highlighting cultural differences
+
+2. Revelation of the System: [2]
+- Exposes the absurdity of traditional British ghost mythology
+- Satirizes aristocratic superstitions and supernatural beliefs
+
+3. Protagonist's Awakening: [1] 
+- Virginia's gradual understanding of the ghost's humanity and suffering
+
+4. Development of Resistance: [2]
+- Otis family's practical, matter-of-fact approach to the haunting
+- Twins' playful subversion of ghost's traditional haunting methods
+
+5. Crisis and Struggle: [2]
+- Ghost's repeated failed attempts to frighten the family
+- Psychological struggle between supernatural tradition and modern rationalism
+
+6. Consequence of Resistance: [1]
+- Ghost's emotional and psychological breakdown
+- Loss of supernatural power and dignity
+
+7. Final Revelation: [1]
+- Demonstrates the ultimate powerlessness of traditional supernatural narratives
+- Shows transformation through compassion rather than confrontation
+
+8. Closure: [0]
+- Somewhat undermined by romantic resolution of Virginia's marriage
+
+The analysis reveals a nuanced satirical deconstruction of cultural myths and social expectations.",0
+Copy of Copy of 317_the_wonderful_o.txt,Satire,4,1,11214,60317,0.0155768,0,0,17126,469,"Let me analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 14/16
+Coverage: 0.875
+Score: 4
+Justification: This text is a brilliant satirical deconstruction of systemic oppression through a metaphorical war against the letter ""O"". The story systematically reveals how arbitrary linguistic and institutional control can destroy human freedom and expression.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2/2]
+- Introduces dystopian world where Black and Littlejack seek to eliminate the letter ""O""
+- Clear oppressive protagonists with a destructive mission
+
+2. Revelation of the System: [2/2]
+- Detailed exposition of how Black's edict progressively eliminates words, objects, and freedoms
+- Systematic dismantling of language, culture, and human expression
+
+3. Protagonist's Awakening: [2/2]
+- Andreus, Andrea, and the islanders gradually recognize the profound threat to their way of life
+- Develop critical consciousness about linguistic and cultural oppression
+
+4. Development of Resistance: [2/2]
+- Secret meetings, preservation of key words like ""hope"" and ""love""
+- Collective strategy to resist and ultimately defeat the oppressors
+
+5. Crisis and Struggle: [2/2]
+- Intense confrontation in the magical castle
+- Literal and metaphorical battle against systemic erasure
+
+6. Consequence of Resistance: [2/2]
+- Black and Littlejack are banished
+- Hyde is symbolically buried by his own legal loopholes
+
+7. Final Revelation: [2/2]
+- Restoration of language and freedom
+- Profound understanding that oppressive systems can be overcome
+
+8. Closure: [2/2]
+- Somber yet hopeful reflection on power, control, and human resilience
+- Symbolic monument representing the victory of freedom
+
+The text is a masterful allegorical satire about linguistic, cultural, and institutional oppression.",0
+Copy of Copy of 337_the_library_window.txt,Satire,2,1,18552,92938,0.0202112,0,0,23489,355,"=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 11/16
+Coverage: 0.69
+Score: 2
+Justification: The text explores a complex satirical narrative about social perceptions, generational blindness, and institutional opacity, revealing how established systems (represented by the library and social conventions) can obscure deeper truths.
+
+Stage-by-Stage Breakdown:
+1. Establishment of Setting and Characters: [2] Strong establishment of a rigid social environment with Aunt Mary's routine and the old ladies' social gatherings.
+
+2. Revelation of the System: [2] The mysterious window represents an institutional opacity, with characters debating its very existence.
+
+3. Protagonist's Awakening: [2] The young narrator develops a keen perception beyond the older generation's limited understanding.
+
+4. Development of Resistance: [1] The narrator's persistent observation and questioning of the window's nature represents a subtle form of resistance.
+
+5. Crisis and Struggle: [2] The narrator's emotional and psychological struggle to understand the window and be believed.
+
+6. Consequence of Resistance: [1] Subtle consequences include being treated as unstable and ultimately being removed from the environment.
+
+7. Final Revelation: [1] Hints at a deeper, unresolved mystery about generational secrets and perceptual limitations.
+
+8. Closure: [0] The ending remains ambiguous, typical of sophisticated satirical narratives that resist clear resolution.
+
+The text uses the window as a metaphorical device to critique social rigidity, generational misunderstandings, and institutional opacity.",0
+Copy of Copy of 345_lyras_oxford.txt,Satire,2,1,7554,39862,0.0103272,0,0,11109,360,"=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 11/16
+Coverage: 0.6875
+Score: 2
+Justification: The text exhibits strong satirical elements through its exploration of an oppressive system (academic and social structures in Oxford) and the protagonist's resistance to these norms. While not a traditional political satire, the narrative reveals systemic hypocrisy and institutional limitations through Lyra's subversive actions and interactions.
+
+Stage-by-Stage Breakdown:
+1. Establishment of Setting and Characters: [2] Clear introduction of Lyra in an Oxford academic environment with rigid social structures.
+2. Revelation of the System: [2] Subtle exposure of academic pretensions, alchemical delusions, and institutional constraints.
+3. Protagonist's Awakening: [2] Lyra's critical questioning of institutional knowledge and her independent spirit.
+4. Development of Resistance: [2] Her covert actions, secret investigations, and willingness to help the witch's dæmon.
+5. Crisis and Struggle: [1] Confrontation with the witch represents a partial manifestation of systemic conflict.
+6. Consequence of Resistance: [1] Potential risks to Lyra's standing in the academic community.
+7. Final Revelation: [1] Hints at deeper, unresolved systemic complexities.
+8. Closure: [0] Open-ended conclusion without definitive systemic critique.
+
+The narrative's satirical approach is nuanced, focusing on epistemological limitations and institutional self-deception rather than overt political critique.",0
+Copy of Copy of 36_the_turn_of_the_screw.txt,Satire,3,1,40309,210774,0.0434664,0,0,52458,375,"Let me analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 11/14
+Coverage: 0.79
+Score: 3
+Justification: Henry James's ""The Turn of the Screw"" exhibits a powerful satirical critique of Victorian social structures, power dynamics, and repressed psychological states through its exploration of innocence, corruption, and institutional control.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2] 
+- Clear dystopian environment of Bly House
+- Governess as protagonist in oppressive social system
+
+2. Revelation of the System: [2]
+- Gradual exposure of psychological manipulation
+- Implicit critique of Victorian child-rearing and social hierarchies
+
+3. Protagonist's Awakening: [2]
+- Governess progressively realizes something sinister is happening
+- Becomes aware of systemic psychological corruption
+
+4. Development of Resistance: [2]
+- Governess attempts to protect children from perceived supernatural threat
+- Develops strategy to confront and expose perceived evil
+
+5. Crisis and Struggle: [2]
+- Intense psychological confrontations with Miles and Flora
+- Escalating tension between governess and children
+
+6. Consequence of Resistance: [1]
+- Partial breakdown of social relationships
+- Potential psychological destruction of children
+
+7. Final Revelation: [1]
+- Ambiguous ending suggests systemic evil's resilience
+- Uncertainty about actual supernatural presence
+
+8. Closure: [1]
+- Somber, unresolved conclusion
+- Reflects complexity of power, control, and psychological manipulation",0
+Copy of Copy of 377_greater_than_rubies.txt,Genre Satire,0,1,58033,305777,0.0597712,0,0,73569,229,"Based on the analysis of the text using the Satire pattern, here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Satire
+StageTotal: 0/16
+Coverage: 0.00
+Score: 0
+Justification: The text does not exhibit the characteristics of a satirical narrative exposing an oppressive system. Instead, it is a contemporary romance novel focusing on the personal journey of Robin Bartlett and Tony Viscolli.
+
+The text lacks the key stages of a satire:
+1. No clear dystopian or oppressive system is presented
+2. No systematic critique of social, political, or institutional structures
+3. No protagonist's awakening to systemic injustice
+4. No development of resistance against a dominant order
+5. No crisis or struggle against an oppressive system
+6. No revelation of the system's inherent injustice
+
+The narrative is primarily a personal transformation story about overcoming individual trauma and finding love, not a satirical deconstruction of societal mechanisms.",0
+Copy of Copy of 407_the_restaurant_at_the_end.txt,Satire,3,1,53589,292469,0.0603696,0,0,73812,330,"Based on the text, here's the analysis for the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 12/16
+Coverage: 0.75
+Score: 3
+Justification: The text presents a satirical critique of bureaucratic, corporate, and societal systems through the Golgafrinchans, who represent inefficiency, pointless management, and shallow cultural practices.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: 2 (Clear dystopian world of Golgafrincham with bureaucratic characters)
+2. Revelation of the System: 2 (Exposed through committee meetings, marketing discussions, fiscal policies)
+3. Protagonist's Awakening: 2 (Ford and Arthur recognize the absurdity of the system)
+4. Development of Resistance: 1 (Ford attempts to challenge the system's logic)
+5. Crisis and Struggle: 2 (Conflict between rational protagonists and nonsensical societal structures)
+6. Consequence of Resistance: 1 (Limited impact of Ford's critiques)
+7. Final Revelation: 2 (Demonstrates the futility and self-destructive nature of bureaucratic society)
+8. Closure: 2 (Sardonic tone highlighting societal dysfunction)
+
+The text systematically deconstructs organizational inefficiency, management culture, and societal pretensions through comedic exaggeration.",0
+Copy of Copy of 418_breathless.txt,Satire Pattern,2,1,25274,130105,0.0281536,0,0,33032,432,"Let me analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire Pattern
+StageTotal: 11/16
+Coverage: 0.69
+Score: 2
+Justification: The text reveals a dystopian world of draki (shapeshifting dragon-like beings) living under an oppressive social system that controls their individual freedoms, particularly through strict rules about manifestation, mating, and personal choice.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2/2]
+- Introduces draki society with rigid social hierarchies
+- Protagonists (Jacinda, Az) are discontented with their restrictive environment
+
+2. Revelation of the System: [2/2]
+- Draki pride controls individual destinies
+- Reveals brutal mechanisms of control through arranged mating, suppression of individual talents
+
+3. Protagonist's Awakening: [2/2]
+- Jacinda realizes the pride's oppressive nature
+- Recognizes how her fire-breathing talent makes her a commodity
+
+4. Development of Resistance: [2/2]
+- Protagonists rebel by sneaking out, challenging pride rules
+- Actively resist predetermined life paths
+
+5. Crisis and Struggle: [2/2]
+- Confrontation with hunters
+- Extreme physical and psychological threat to draki existence
+
+6. Consequence of Resistance: [1/2]
+- Potential punishment implied
+- Jacinda risks being captured/killed
+
+7. Final Revelation: [0/2]
+- Limited exploration of systemic injustice
+- Incomplete revelation of broader oppressive mechanisms
+
+8. Closure: [0/2]
+- Open-ended narrative
+- No definitive statement about power structures
+
+The text powerfully critiques systemic oppression through a metaphorical lens of supernatural beings, exposing how social institutions can control individual potential and freedom.",0
+Copy of Copy of 452_the_perilous_life_of_jade.txt,Satire,3,1,25318,129412,0.0286096,0,0,33472,458,"Based on the text, here's an analysis of the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The novella provides a nuanced satirical critique of early 20th-century British colonial and social systems, particularly through the protagonist Jade Yeo's experiences as a Chinese woman navigating literary and social circles.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2/2]
+- Introduces Jade as a Chinese writer in London
+- Reveals oppressive social expectations around marriage, race, and women's roles
+
+2. Revelation of the System: [2/2]
+- Exposes colonial attitudes, racial prejudices, and restrictive social norms
+- Highlights literary establishment's exclusionary practices
+
+3. Protagonist's Awakening: [2/2]
+- Jade becomes aware of societal constraints
+- Challenges expectations through her writing and personal choices
+
+4. Development of Resistance: [1/2]
+- Writes provocative literary reviews
+- Pursues unconventional relationships
+- Partial score due to subtle rather than overt resistance
+
+5. Crisis and Struggle: [1/2]
+- Faces social judgment for pregnancy
+- Experiences isolation and limited options
+- Partial score as struggle is more psychological
+
+6. Consequence of Resistance: [1/2]
+- Temporary social ostracism
+- Pregnancy as potential ""punishment""
+- Partial score as consequences are relatively mild
+
+7. Final Revelation: [1/2]
+- Reveals systemic hypocrisy around marriage and relationships
+- Highlights limitations faced by women of color
+- Partial score as revelation is implied rather than explicit
+
+8. Closure: [0/2]
+- Lacks a clear somber tone about systemic oppression
+- Ends with personal resolution rather than systemic critique
+
+The analysis shows a sophisticated satirical approach that critiques social systems through personal narrative.",0
+Copy of Copy of 46_cannery_row.txt,Satire,2,1,50288,261112,0.0524936,0,0,64077,308,"I'll analyze the text using the Satire pattern as requested. Here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 10/16
+Coverage: 0.625
+Score: 2
+Justification: The text partially reveals a satirical critique of social systems and institutions, particularly through the characters of Mack and the boys, who represent an alternative to mainstream societal expectations of success and productivity.
+
+Stage Breakdown:
+1. Establishment of Setting: 2 (Strong portrayal of Cannery Row's social ecosystem)
+2. Revelation of System: 1 (Implied critique of capitalist and social norms)
+3. Protagonist's Awakening: 1 (Mack and the boys recognize societal constraints)
+4. Development of Resistance: 2 (Their lifestyle challenges conventional success metrics)
+5. Crisis and Struggle: 1 (Conflicts with social expectations)
+6. Consequence of Resistance: 1 (Social ostracism after the party)
+7. Final Revelation: 1 (Doc's philosophical reflection on societal values)
+8. Closure: 1 (Subtle commentary on alternative ways of living)
+
+The novel uses humor, irony, and character interactions to expose the hollowness of traditional social structures while celebrating human connection and spontaneity.",0
+Copy of Copy of 489_skin_deep.txt,Satire,2,1,52616,279313,0.058040800000000004,0,0,70786,353,"Based on the text, here's an analysis of the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 10/16
+Coverage: 0.625
+Score: 2
+Justification: While the story does not fully represent a traditional satirical narrative about an oppressive system, it does expose systemic failures in how society treats vulnerable individuals, particularly women who have experienced trauma and incarceration.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: 2 
+(Megan's background of abuse, incarceration, and systemic neglect is clearly established)
+
+2. Revelation of the System: 2
+(The story reveals systemic failures in juvenile detention, prison systems, and societal treatment of marginalized women)
+
+3. Protagonist's Awakening: 2
+(Megan gradually realizes the injustices she has experienced and works to rebuild her life)
+
+4. Development of Resistance: 1
+(Megan resists her past through education, recovery, and protecting her daughter)
+
+5. Crisis and Struggle: 2
+(Ongoing threats from Donny, systemic challenges in her life)
+
+6. Consequence of Resistance: 1
+(Megan faces continued persecution and threats)
+
+7. Final Revelation: 1
+(Partial revelation about systemic failures and personal resilience)
+
+8. Closure: 1
+(Somewhat hopeful ending that suggests personal triumph over systemic oppression)
+
+The narrative critiques institutional failures while focusing on individual resilience and healing.",0
+Copy of Copy of 495_hammers_on_bone.txt,Satire,3,1,17751,95618,0.0219232,0,0,25414,398,"I'll analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 13/16
+Coverage: 0.81
+Score: 3
+Justification: The text powerfully exposes systemic social corruption through a noir detective narrative, revealing how institutional and familial violence operate through infection, manipulation, and power dynamics.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: [2/2]
+- Introduces dystopian Croydon landscape
+- Presents protagonist John Persons and dysfunctional family system
+
+2. Revelation of the System: [2/2]
+- Exposes McKinsey's abusive family dynamics
+- Reveals broader societal infection/transformation metaphor
+
+3. Protagonist's Awakening: [2/2]
+- Persons gradually realizes deeper systemic issues
+- Recognizes broader supernatural/social corruption
+
+4. Development of Resistance: [2/2]
+- Persons investigates and confronts McKinsey
+- Collaborates with Sasha to understand larger context
+
+5. Crisis and Struggle: [2/2]
+- Violent confrontation with McKinsey
+- Physical and metaphysical battle representing systemic conflict
+
+6. Consequence of Resistance: [1/2]
+- Partial victory (McKinsey killed)
+- Broader system remains intact
+
+7. Final Revelation: [1/2]
+- Hints at larger supernatural/societal mechanisms
+- Suggests ongoing systemic challenges
+
+8. Closure: [1/2]
+- Ambiguous, slightly nihilistic ending
+- Implies continuous struggle against corruption
+
+The text uses supernatural horror as an allegory for social decay, making it a sophisticated satirical work.",0
+Copy of Copy of 51_the_picture_of_dorian_gray.txt,Satire,4,1,55410,291404,0.0595664,0,0,72758,340,"Based on the text, here's the analysis for the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Satire
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The novel presents a scathing critique of Victorian society's moral hypocrisy, social conventions, and superficial values through Dorian Gray's descent into corruption while maintaining a pristine public image.
+
+Stage Evaluations:
+1. Establishment of Setting and Characters: 2 (Clear introduction of Dorian, Lord Henry, and Basil in a decadent Victorian social context)
+2. Revelation of the System: 2 (Exposure of societal moral bankruptcy through Lord Henry's cynical philosophies)
+3. Protagonist's Awakening: 2 (Dorian's growing awareness of societal artificiality and his own potential for corruption)
+4. Development of Resistance: 2 (Dorian's rebellion against social norms through his hedonistic lifestyle)
+5. Crisis and Struggle: 2 (Dorian's internal conflict between public persona and private depravity)
+6. Consequence of Resistance: 2 (Dorian's ultimate destruction and moral downfall)
+7. Final Revelation: 2 (Stark exposure of societal hypocrisy and the destructive nature of superficial values)
+8. Closure: 2 (Somber conclusion highlighting the systemic corruption and moral decay)",0
+Copy of Copy of 560_how_to_marry_a_werewolf.txt,Genre Satire,3,1,47875,262351,0.052517600000000005,0,0,63977,334,"Based on the detailed text, here's the analysis for the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Satire
+StageTotal: 11/14
+Coverage: 0.79
+Score: 3
+Justification: The text strongly critiques social systems through the lens of supernatural creatures, exposing the hypocrisies of American social norms, marriage expectations, and treatment of women. The narrative deconstructs patriarchal control, familial oppression, and societal judgment through Faith's journey.
+
+Stage Breakdown:
+1. Establishment of Setting and Characters: 2 (Clear dystopian social environment of Boston/London)
+2. Revelation of the System: 2 (Exposed harsh marriage/social expectations for women)
+3. Protagonist's Awakening: 2 (Faith realizes societal constraints and seeks liberation)
+4. Development of Resistance: 2 (Faith actively challenges social norms through her choices)
+5. Crisis and Struggle: 2 (Confrontation with her mother, societal judgment)
+6. Consequence of Resistance: 1 (Partial consequences, mitigated by werewolf support)
+7. Final Revelation: 2 (Exposes systemic oppression of women)
+8. Closure: 2 (Somber reflection on power dynamics and individual resilience)
+
+The narrative systematically deconstructs social systems through supernatural metaphors, making it a sophisticated satirical work.",0
+Copy of Copy of 93_to_kill_a_mocking_bird.txt,Genre Satire,3,1,102179,538278,0.11569120000000001,0,0,142414,440,"Based on the text, here's an analysis of the novel using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Satire
+StageTotal: 10/16
+Coverage: 0.625 (62.5%)
+Score: 3
+Justification: The novel demonstrates a strong satirical critique of systemic racism and social injustice in the American South, particularly through the trial of Tom Robinson and the broader social dynamics of Maycomb County.
+
+Detailed Stage Evaluation:
+1. Establishment of Setting and Characters: Stage Score 2
+- Introduces Maycomb's deeply segregated and prejudiced society
+- Presents characters like Atticus, Scout, and Jem who are aware of systemic inequalities
+
+2. Revelation of the System: Stage Score 2
+- Tom Robinson's trial exposes the racist judicial system
+- Shows how white society systematically oppresses and dehumanizes Black people
+
+3. Protagonist's Awakening: Stage Score 2
+- Scout and Jem gradually understand the depth of racial injustice
+- They learn about systemic racism through their father's actions and the trial
+
+4. Development of Resistance: Stage Score 1
+- Atticus represents resistance by defending Tom Robinson
+- Limited active resistance due to the protagonists' young age
+
+5. Crisis and Struggle: Stage Score 1
+- Tom Robinson's trial and subsequent death represent the crisis
+- Jem and Scout struggle with understanding the injustice
+
+6. Consequence of Resistance: Stage Score 1
+- Tom Robinson is convicted and killed
+- Atticus faces social ostracism and threats
+
+7. Final Revelation: Stage Score 1
+- The novel reveals the pervasive, systemic nature of racism
+- Shows how deeply ingrained prejudice is in society
+
+8. Closure: Stage Score 0
+- The ending does not provide a clear resolution to systemic racism
+- Suggests ongoing struggle and complexity of social change",0
