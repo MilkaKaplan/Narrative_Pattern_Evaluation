@@ -1,0 +1,241 @@
+filename,primary_narrative_model,primary_score,models_evaluated,word_count,text_length,cost,cache_created,cache_read,input_tokens,output_tokens,raw_response,Genre Comedy
+Copy of Copy of 102_Miss_Lonelyhearts.txt,Mystery Pattern,2,1,23528,122541,0.0258304,0,0,30568,344,"I'll analyze Nathanael West's ""Miss Lonelyhearts"" using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 10/18
+Coverage: 0.56
+Score: 2
+Justification: While the text doesn't follow a traditional detective mystery, it metaphorically explores a mystery of human suffering and spiritual meaning.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: [2] Strong introduction of Miss Lonelyhearts and his newspaper advice column environment
+2. Presentation of Mystery: [2] The mysterious ""mystery"" is the profound human suffering revealed in letters
+3. Initial Investigation: [1] Miss Lonelyhearts begins investigating the letters' underlying pain
+4. Uncovering Secrets and Clues: [1] Gradual revelation of characters' complex psychological landscapes
+5. Confrontation of Suspects: [0] No traditional suspect confrontation
+6. Red Herrings and False Leads: [1] Shrike's cynical commentary serves as philosophical misdirection
+7. Realization or Insight: [2] Miss Lonelyhearts' spiritual awakening represents a key insight
+8. Final Confrontation: [1] Confrontation with Doyle represents a metaphorical resolution
+9. Resolution and Aftermath: [0] Tragic, inconclusive ending prevents traditional resolution
+
+The text subverts the mystery genre, using its structural elements to explore existential and spiritual questions rather than solve a literal crime.",0
+Copy of Copy of 135_the_maltese_falcon.txt,Mystery,3,1,68842,363438,0.0782848,0,0,96021,367,"Based on the text, here's the analysis for the Mystery genre pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 14/18
+Coverage: 0.78
+Score: 3
+Justification: The novel strongly follows the mystery pattern with a detective protagonist (Sam Spade) investigating multiple interconnected murders. The stages are comprehensively represented, including a complex investigation, confrontation of suspects, red herrings, multiple revelations, and a final resolution where the true perpetrator (Brigid O'Shaughnessy) is exposed.
+
+Detailed Stage Evaluation:
+1. Introduction of Characters and Setting: 2 (Strong introduction of Spade, his office, and key characters)
+2. Presentation of Mystery: 2 (Multiple murders of Archer and Thursby create complex mystery)
+3. Initial Investigation: 2 (Spade immediately begins gathering information)
+4. Uncovering Secrets and Clues: 2 (Continuous revelation of complex backstory)
+5. Confrontation of Suspects: 2 (Multiple confrontations with Gutman, Cairo, O'Shaughnessy)
+6. Red Herrings and False Leads: 2 (Multiple misdirections about the falcon and murders)
+7. Realization or Insight: 2 (Spade gradually uncovers the truth)
+8. Final Confrontation: 2 (Dramatic confrontation with O'Shaughnessy)
+9. Resolution and Aftermath: 2 (Complete resolution, O'Shaughnessy handed to police)",0
+Copy of Copy of 151_on_chesil_beach.txt,Mystery Pattern,2,1,36852,206321,0.0393512,0,0,47579,322,"I'll analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text contains elements of a mystery, but not in a traditional detective narrative. The ""mystery"" here is the psychological and emotional unraveling of Edward and Florence's relationship, with the central enigma being their sexual and emotional incompatibility.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Detailed introduction of Edward and Florence)
+2. Presentation of Mystery: 2 (The mysterious tension in their sexual relationship)
+3. Initial Investigation: 1 (Their tentative explorations of intimacy)
+4. Uncovering Secrets and Clues: 2 (Revealing their psychological barriers)
+5. Confrontation of Suspects: 1 (Their confrontation on the beach)
+6. Red Herrings and False Leads: 1 (Misunderstandings about expectations)
+7. Realization or Insight: 1 (Understanding their fundamental incompatibility)
+8. Final Confrontation: 2 (Heated argument on the beach)
+9. Resolution and Aftermath: 1 (Separation and lifelong consequences)
+
+The text is more a psychological exploration than a traditional mystery, but it follows a similar structural pattern of revealing hidden truths.",0
+Copy of Copy of 2_mice-and-men.txt,Mystery/Crime Narrative,2,1,30900,155934,0.0361944,0,0,43488,351,"Let me analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery/Crime Narrative
+StageTotal: 11/18
+Coverage: 0.61
+Score: 2
+Justification: The text follows most mystery pattern stages, though with a tragic, predetermined outcome. The investigation centers on Lennie's accidental killing of Curley's wife, with George ultimately solving the ""mystery"" by preventing a potentially violent lynching.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Strong, detailed ranch setting and character introductions)
+2. Presentation of Mystery: 2 (Murder of Curley's wife creates central mystery)
+3. Initial Investigation: 2 (Men searching for Lennie, discussing what happened)
+4. Uncovering Secrets and Clues: 1 (Partial revelations about Lennie's past)
+5. Confrontation of Suspects: 2 (Intense confrontation and pursuit of Lennie)
+6. Red Herrings and False Leads: 1 (Some misdirection about how Curley's wife died)
+7. Realization or Insight: 2 (George's understanding of Lennie's nature)
+8. Final Confrontation: 2 (George's mercy killing of Lennie)
+9. Resolution and Aftermath: 1 (Somewhat ambiguous emotional resolution)
+
+The narrative transcends traditional mystery structure by being more of a tragic character study, but still follows many investigative pattern elements.",0
+Copy of Copy of 302_the_great_gatsby.txt,Mystery Genre,2,1,49864,263842,0.053856,0,0,65605,343,"Let me analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Genre
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text contains most mystery stages, but with varying degrees of completeness. The investigation of Gatsby's background, uncovering secrets about his past, and the ultimate revelation of his true identity and circumstances follow mystery narrative structures.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Strong - Nick introduces himself and the key characters)
+2. Presentation of Mystery: 2 (Strong - Gatsby's background and true nature are mysterious)
+3. Initial Investigation: 1 (Partial - Nick gradually learns about Gatsby)
+4. Uncovering Secrets and Clues: 2 (Strong - Revelations about Gatsby's past)
+5. Confrontation of Suspects: 1 (Partial - Scenes with Tom and Gatsby)
+6. Red Herrings and False Leads: 1 (Partial - Rumors about Gatsby)
+7. Realization or Insight: 2 (Strong - Nick's understanding of Gatsby's dream)
+8. Final Confrontation: 1 (Partial - Confrontation in hotel room)
+9. Resolution and Aftermath: 1 (Partial - Gatsby's death and reflection)
+
+The text is more of a literary novel with mystery elements rather than a pure mystery, which explains the moderate score.",0
+Copy of Copy of 43_the_prime_of_miss_jean_brodie.txt,Mystery Pattern,2,1,40297,216690,0.043728,0,0,53005,331," === MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text exhibits several key mystery pattern stages, including the introduction of a detective-like protagonist (Sandy), a complex mystery surrounding Miss Brodie's potential betrayal, and a gradual uncovering of secrets. However, not all stages are fully developed, resulting in a moderate coverage and score.
+
+Detailed Stage Evaluation:
+1. Introduction of Characters and Setting: 2 (Strong introduction of Miss Brodie and her set)
+2. Presentation of Mystery: 2 (Miss Brodie's potential betrayal)
+3. Initial Investigation: 1 (Sandy's gradual probing)
+4. Uncovering Secrets and Clues: 2 (Revealing Miss Brodie's complex relationships)
+5. Confrontation of Suspects: 1 (Sandy questioning potential betrayers)
+6. Red Herrings and False Leads: 1 (Multiple potential betrayers suggested)
+7. Realization or Insight: 2 (Sandy's ultimate betrayal of Miss Brodie)
+8. Final Confrontation: 1 (Indirect confrontation through correspondence)
+9. Resolution and Aftermath: 1 (Partial resolution with Miss Brodie's retirement)
+
+The mystery is psychological and metaphorical, focusing on betrayal and loyalty rather than a traditional crime investigation.",0
+Copy of Copy of 54_doyle-hound-383.txt,Mystery Pattern,4,1,60645,313723,0.0623032,0,0,76324,311,"Based on the text, here's the Mystery Pattern analysis for ""The Hound of the Baskervilles"":
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 16/18
+Coverage: 0.89
+Score: 4
+
+Justification: The novel demonstrates a near-perfect execution of the Mystery Pattern, with strong representations across all nine stages:
+
+1. Introduction of Characters and Setting: Strong (Holmes, Watson, Sir Henry, Baskerville Hall)
+2. Presentation of Mystery: Strong (Sir Charles's mysterious death)
+3. Initial Investigation: Strong (Holmes and Watson's early inquiries)
+4. Uncovering Secrets and Clues: Strong (gradual revelation of Stapleton's background)
+5. Confrontation of Suspects: Strong (interactions with Barrymore, Stapleton, Laura Lyons)
+6. Red Herrings and False Leads: Strong (convict Selden, supernatural hound legend)
+7. Realization or Insight: Strong (Holmes's gradual unraveling of the plot)
+8. Final Confrontation: Strong (chase and defeat of Stapleton and the hound)
+9. Resolution and Aftermath: Strong (explanation of entire scheme, Stapleton's fate)
+
+The comprehensive narrative structure, methodical investigation, and ultimate resolution perfectly embody the Mystery genre pattern.",0
+Copy of Copy of 55_giovannis_room.txt,Mystery Genre,2,1,56006,288982,0.0583824,0,0,71348,326,"Let me analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Genre
+StageTotal: 12/18
+Coverage: 0.67
+Score: 2
+Justification: The text follows most mystery stages, but with a psychological and existential twist. The protagonist (David) investigates the complex circumstances surrounding Giovanni's murder, uncovering hidden emotional and social dynamics rather than a traditional crime investigation.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting: 2 (Strong introduction of David, Giovanni, and Paris setting)
+2. Presentation of Mystery: 2 (Guillaume's murder and Giovanni's potential involvement)
+3. Initial Investigation: 1 (David's psychological exploration of events)
+4. Uncovering Secrets and Clues: 2 (Detailed backstory revealing motivations)
+5. Confrontation of Suspects: 1 (Interactions with Jacques, Hella)
+6. Red Herrings and False Leads: 1 (Speculations about Giovanni's motives)
+7. Realization or Insight: 2 (David's understanding of Giovanni's circumstances)
+8. Final Confrontation: 1 (Metaphorical confrontation with self and memory)
+9. Resolution and Aftermath: 1 (Giovanni's execution, David's reflection)
+
+The text transforms the traditional mystery pattern into a profound psychological investigation of love, identity, and guilt.",0
+Copy of Copy of 67_the_catcher_in_the_rye.txt,Mystery Pattern,2,1,75465,375729,0.0782384,0,0,95708,418,"Let me analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery Pattern
+StageTotal: 12/18
+Coverage: 0.67
+Score: 2
+Justification: The novel follows a detective-like investigation, but the ""mystery"" is psychological rather than a traditional crime. Holden Caulfield investigates the phoniness of adult society and his own emotional landscape.
+
+Stage Breakdown:
+1. Introduction of Characters and Setting (2/2): 
+- Holden is introduced as the protagonist/investigator
+- Pencey Prep and New York City are established settings
+
+2. Presentation of Mystery (2/2):
+- The ""mystery"" is Holden's psychological state
+- His alienation and struggle with societal expectations
+
+3. Initial Investigation (2/2):
+- Holden begins exploring his feelings
+- Leaves school and wanders New York
+
+4. Uncovering Secrets and Clues (2/2):
+- Reveals family history
+- Explores past traumas like brother Allie's death
+
+5. Confrontation of Suspects (1/2):
+- Confronts various characters about societal phoniness
+- Interactions with Stradlater, Ackley, Sally Hayes
+
+6. Red Herrings and False Leads (1/2):
+- Multiple digressions and tangential stories
+- Encounters that don't resolve main psychological conflict
+
+7. Realization or Insight (1/2):
+- Partial insights about himself
+- Recognizes his own vulnerabilities
+
+8. Final Confrontation (1/2):
+- Confrontation with himself
+- Moment with Phoebe at the carousel
+
+9. Resolution and Aftermath (0/2):
+- Inconclusive ending
+- No clear resolution of Holden's psychological state",0
+Copy of Copy of 79_shopgirl.txt,Mystery,2,1,37348,205894,0.0403184,0,0,48658,348,"I'll analyze this text using the Mystery Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Mystery
+StageTotal: 9/18
+Coverage: 0.50
+Score: 2
+Justification: The text partially follows mystery pattern stages, with a focus on uncovering personal mysteries rather than a traditional crime investigation. The protagonist Mirabelle investigates her own emotional landscape, with Ray Porter and Jeremy serving as ""clues"" to understanding herself.
+
+Stage Evaluations:
+1. Introduction of Characters and Setting: 2 (Clear introduction of Mirabelle in her Neiman's environment)
+2. Presentation of Mystery: 1 (Mirabelle's emotional state and past are implied mysteries)
+3. Initial Investigation: 1 (Mirabelle's exploration of relationships)
+4. Uncovering Secrets and Clues: 2 (Revelations about her family, depression, relationships)
+5. Confrontation of Suspects: 1 (Interactions with Ray, Jeremy, Lisa)
+6. Red Herrings and False Leads: 1 (Misunderstandings in relationships)
+7. Realization or Insight: 2 (Mirabelle's self-discovery)
+8. Final Confrontation: 1 (Emotional resolution with Ray)
+9. Resolution and Aftermath: 2 (Mirabelle's move to San Francisco, new relationship)
+
+The text is more a psychological exploration than a traditional mystery, but it follows investigative narrative structures metaphorically.",0

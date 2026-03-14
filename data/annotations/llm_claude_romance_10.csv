@@ -1,0 +1,265 @@
+filename,primary_narrative_model,primary_score,models_evaluated,word_count,text_length,cost,cache_created,cache_read,input_tokens,output_tokens,raw_response,Genre Comedy
+Copy of Copy of 102_Miss_Lonelyhearts.txt,Romance/Heroic Quest,2,1,23528,122541,0.0258696,0,0,30612,345,"I'll analyze Nathanael West's ""Miss Lonelyhearts"" using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 10/20
+Coverage: 0.50
+Score: 2
+Justification: The protagonist undergoes a partial heroic journey with spiritual transformation, but lacks a complete archetypal progression.
+
+Stage Breakdown:
+1. Call to Adventure (1): Miss Lonelyhearts becomes an advice columnist, confronting human suffering
+2. Meeting with Mentor (1): Shrike serves as a cynical, anti-mentor who challenges his spiritual quest
+3. Departure (2): Leaves familiar journalistic world to seek meaning through suffering
+4. Trials and Challenges (2): Confronts deeply painful reader letters, struggles with existential questions
+5. Approach to Inmost Cave (2): Psychological journey into understanding human pain
+6. Ordeal (2): Intense spiritual crisis and attempted religious transformation
+7. Reward (1): Momentary sense of spiritual connection with God
+8. Return (1): Attempts to bring his ""revelation"" back to the world
+9. Resurrection (1): Final confrontation with Doyle, ending in violent death
+10. Return with Elixir (1): Ultimately fails to transform suffering through his spiritual quest
+
+The novel subverts the traditional heroic journey by presenting a tragic, ironic descent rather than a triumphant ascension, which explains the moderate score.",0
+Copy of Copy of 135_the_maltese_falcon.txt,Romance/Heroic Quest,2,1,68842,363438,0.078248,0,0,96065,349,"Based on the detailed analysis of the text using the Romance/Heroic Quest pattern, here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 12/20
+Coverage: 0.60 (12/20)
+Score: 2
+Justification: The novel follows a complex heroic quest pattern with Spade as the protagonist navigating a challenging journey involving multiple characters, moral challenges, and transformative experiences.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Spade takes the Wonderly case)
+2. Meeting with the Mentor: 1 (Minimal mentorship, mostly self-guided)
+3. Departure: 2 (Leaving familiar detective work into complex criminal world)
+4. Trials and Challenges: 2 (Multiple confrontations with Gutman, Cairo, Wilmer)
+5. Approach to Inmost Cave: 2 (Confronting the moral complexity of the falcon quest)
+6. Ordeal: 2 (Moral test of turning in Brigid)
+7. Reward: 1 (Partial resolution, monetary gain)
+8. Return: 2 (Returning to detective office, maintaining professional integrity)
+9. Resurrection: 1 (Moral rebirth through difficult choice)
+10. Return with Elixir: 1 (Transformed understanding of professional ethics)
+
+The score reflects a strong, complex implementation of the heroic quest pattern with significant moral and psychological transformation.",0
+Copy of Copy of 151_on_chesil_beach.txt,Romance/Heroic Quest,1,1,36852,206321,0.0394064,0,0,47623,327,"I'll analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 8/20
+Coverage: 0.40 (decimal)
+Score: 1
+Justification: The story partially maps to the heroic quest stages, with key elements like a call to adventure (meeting at CND meeting), trials (sexual and emotional challenges), and a transformative ordeal (wedding night), but lacks full mythic progression.
+
+Stage Evaluations:
+1. Call to Adventure: 2 (Clear meeting at CND gathering)
+2. Meeting with Mentor: 0 (No clear mentor figure)
+3. Departure: 1 (Leaving familiar worlds of singlehood)
+4. Trials and Challenges: 2 (Intense sexual and communication challenges)
+5. Approach to Inmost Cave: 2 (Wedding night as psychological confrontation)
+6. Ordeal: 2 (Traumatic sexual encounter)
+7. Reward: 0 (No clear reward achieved)
+8. Return: 1 (Attempted return, but failed)
+9. Resurrection: 0 (No spiritual rebirth)
+10. Return with Elixir: 0 (No transformative wisdom gained)
+
+The story is more a psychological deconstruction of romantic expectations than a traditional heroic quest, which explains the moderate coverage.",0
+Copy of Copy of 2_mice-and-men.txt,Romance/Heroic Quest,2,1,30900,155934,0.0361736,0,0,43532,337,"Let me analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 10/20
+Coverage: 0.50
+Score: 2
+Justification: The story follows a modified heroic journey with key stages present, though not all fully developed. George and Lennie's quest for their own land represents a transformative journey with challenges, mentorship, and ultimate tragedy.
+
+Stage Breakdown:
+1. Call to Adventure: [2] Clear desire to escape migrant labor and find their own land
+2. Meeting with Mentor: [2] George acts as Lennie's protector and guide
+3. Departure: [2] Leaving previous work, traveling to new ranch
+4. Trials and Challenges: [2] Navigating ranch dynamics, Curley's hostility
+5. Approach to Inmost Cave: [1] Confrontation with Curley's wife represents critical challenge
+6. Ordeal: [2] Lennie accidentally kills Curley's wife
+7. Reward: [0] No positive reward achieved
+8. Return: [1] Attempted return to original dream of land ownership
+9. Resurrection: [0] No true rebirth or transformation
+10. Return with Elixir: [0] Tragic ending prevents transformative return
+
+The story subverts traditional heroic quest by ending in tragedy, but maintains core structural elements of a journey of transformation and challenge.",0
+Copy of Copy of 302_the_great_gatsby.txt,Romance/Heroic Quest,2,1,49864,263842,0.0539032,0,0,65649,346,"Let me analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 12/20
+Coverage: 0.60
+Score: 2
+
+Stages Evaluation:
+1. Call to Adventure: 2 (Gatsby's dream of Daisy, leaving his poor background)
+2. Meeting Mentor: 1 (Dan Cody partially serves this role)
+3. Departure: 2 (Leaving his poor background, going to war, pursuing Daisy)
+4. Trials/Challenges: 2 (Social obstacles, building wealth, winning Daisy's love)
+5. Approach to Inmost Cave: 2 (Confrontation with Tom, revealing his love for Daisy)
+6. Ordeal: 2 (Metaphorical death when Daisy chooses Tom)
+7. Reward: 1 (Brief reunion with Daisy)
+8. Return: 1 (Returning to his dream, waiting outside Daisy's house)
+9. Resurrection: 0 (Gatsby is killed before true resurrection)
+10. Return with Elixir: 1 (Nick carries Gatsby's story/dream)
+
+Justification: Gatsby's journey follows a heroic quest pattern metaphorically, pursuing an idealized love and social transformation. While not a literal physical journey, his psychological and social quest represents a profound personal transformation, ultimately tragically unfulfilled.",0
+Copy of Copy of 43_the_prime_of_miss_jean_brodie.txt,Romance/Heroic Quest,2,1,40297,216690,0.043815200000000006,0,0,53049,344,"Let me analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 11/20
+Coverage: 0.55
+Score: 2
+Justification: The text follows several key stages of the heroic quest, particularly through Sandy's psychological and moral journey. Sandy experiences a call to adventure through Miss Brodie's influence, undergoes trials and challenges in navigating complex relationships, approaches a transformative moment through her interactions with Teddy Lloyd, and ultimately experiences a metaphorical resurrection by becoming a nun and betraying Miss Brodie.
+
+Stage Breakdown:
+1. Call to Adventure: 2 (Sandy's introduction to Miss Brodie's unique worldview)
+2. Meeting the Mentor: 2 (Miss Brodie as a complex, influential mentor)
+3. Departure: 1 (Psychological departure from conventional schooling)
+4. Trials and Challenges: 2 (Navigating Miss Brodie's manipulative plans)
+5. Approach to Inmost Cave: 1 (Sandy's psychological investigations)
+6. Ordeal: 2 (Confronting Miss Brodie's manipulations)
+7. Reward: 1 (Gaining psychological insight)
+8. Return: 1 (Becoming a nun)
+9. Resurrection: 2 (Betraying Miss Brodie)
+10. Return with Elixir: 1 (Psychological transformation)",0
+Copy of Copy of 54_doyle-hound-383.txt,Romance/Heroic Quest,3,1,60645,313723,0.0627344,0,0,76368,410,"I'll analyze this text using the Romance/Heroic Quest pattern you specified. I'll evaluate each stage's presence and strength.
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 14/20
+Coverage: 0.70 (14/20)
+Score: 3
+
+Justification:
+
+1. Call to Adventure (2/2): 
+- Holmes receives the case from Dr. Mortimer
+- Clear supernatural mystery surrounding the Baskerville curse
+
+2. Meeting with Mentor (2/2):
+- Holmes serves as mentor to Watson
+- Provides guidance, strategic insights throughout investigation
+
+3. Departure (2/2):
+- Watson travels to Dartmoor
+- Leaves familiar London environment for unknown, dangerous moor
+
+4. Trials/Challenges (2/2):
+- Multiple challenges: tracking Stapleton, understanding hound mystery
+- Confronting multiple potential suspects
+
+5. Approach to Inmost Cave (1/2):
+- Partial exploration of Grimpen Mire
+- Some psychological depth in confronting family legend
+
+6. Ordeal (2/2):
+- Confrontation with supernatural hound
+- Sir Henry nearly killed, representing metaphorical death/rebirth
+
+7. Reward (1/2):
+- Solving mystery partially satisfies
+- Incomplete sense of complete triumph
+
+8. Return (1/2):
+- Partial return to London
+- Some unresolved psychological elements
+
+9. Resurrection (1/2):
+- Partial psychological resurrection for characters
+- Not complete transformation
+
+10. Return with Elixir (0/2):
+- No clear transformative wisdom gained
+- Mostly procedural resolution
+
+The analysis shows a strong heroic quest structure with psychological and investigative elements, achieving a high coverage score.",0
+Copy of Copy of 55_giovannis_room.txt,Romance/Heroic Quest,2,1,56006,288982,0.058361600000000007,0,0,71392,312,"Let me analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 11/20
+Coverage: 0.55
+Score: 2
+Justification: The narrative follows a complex psychological quest with transformative elements, though not a traditional external adventure.
+
+Stage Evaluations:
+1. Call to Adventure: 2 (David's encounter with Giovanni represents a profound personal challenge)
+2. Meeting with Mentor: 1 (Jacques provides partial guidance/critique)
+3. Departure: 2 (Leaving his relationship with Giovanni, leaving Paris)
+4. Trials and Challenges: 2 (Psychological struggles with sexuality, identity, guilt)
+5. Approach to Inmost Cave: 2 (Confronting his true sexual identity and emotional limitations)
+6. Ordeal: 2 (Giovanni's execution, personal reckoning)
+7. Reward: 1 (Partial self-understanding, though incomplete)
+8. Return: 2 (Metaphorical return to self through confrontation)
+9. Resurrection: 1 (Glimpse of potential transformation)
+10. Elixir: 1 (Uncertain personal growth)
+
+The narrative represents a deeply internalized heroic journey focused on psychological and emotional transformation rather than physical adventure.",0
+Copy of Copy of 67_the_catcher_in_the_rye.txt,Romance/Heroic Quest,2,1,75465,375729,0.07821360000000001,0,0,95752,403,"Let's analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 10/20
+Coverage: 0.50 (50%)
+Score: 2
+Justification: Holden's journey follows several key heroic quest stages, though not completely linearly:
+
+1. Call to Adventure (2/2): Holden feels compelled to leave Pencey Prep, sensing he doesn't fit into the school's environment.
+
+2. Meeting with the Mentor (2/2): Mr. Antolini serves as a mentor, offering philosophical advice about finding one's path and understanding oneself.
+
+3. Departure (2/2): Holden leaves Pencey and travels to New York, crossing into an unfamiliar psychological landscape.
+
+4. Trials and Challenges (1/2): He encounters various challenges - interactions with Sally, Carl Luce, the prostitute - testing his understanding of the world.
+
+5. Approach to Inmost Cave (1/2): His conversations with Phoebe represent a psychological confrontation with his own identity and fears.
+
+6. Ordeal (1/2): Holden experiences emotional and psychological breakdown, particularly in scenes like passing out in the museum.
+
+7. Reward (1/2): His moment of happiness watching Phoebe on the carousel represents a spiritual renewal.
+
+8. Return (0/2): While he intends to return home, the psychological return is incomplete.
+
+9. Resurrection (0/2): No clear spiritual rebirth or transformation.
+
+10. Return with Elixir (0/2): No clear wisdom or transformative insight is brought back.
+
+The narrative is more an internal, psychological quest than a traditional external heroic journey.",0
+Copy of Copy of 79_shopgirl.txt,Romance/Heroic Quest,3,1,37348,205894,0.0403376,0,0,48702,344,"I'll analyze this text using the Romance/Heroic Quest pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Romance/Heroic Quest
+StageTotal: 14/20
+Coverage: 0.70 (14/20)
+Score: 3
+Justification: The text strongly follows most stages of the heroic journey, with Mirabelle's psychological and romantic transformation mapping closely to the classic quest narrative.
+
+Stage Evaluations:
+1. Call to Adventure: 2 (Moving to LA, seeking independence)
+2. Meeting the Mentor: 2 (Ray Porter as complex mentor/lover)
+3. Departure: 2 (Leaving Vermont, entering LA's unknown world)
+4. Trials/Challenges: 2 (Navigating relationships, depression, career uncertainty)
+5. Approach to Inmost Cave: 2 (Confronting emotional vulnerabilities)
+6. Ordeal: 2 (Painful breakup with Ray, depression)
+7. Reward: 2 (Finding genuine love with Jeremy)
+8. Return: 2 (Moving to San Francisco, reconnecting with self)
+9. Resurrection: 2 (Emotional rebirth, self-understanding)
+10. Elixir: 2 (Wisdom about love, self-worth, personal growth)
+
+The narrative tracks Mirabelle's transformative journey from a passive, uncertain young woman to a self-aware, emotionally mature individual, embodying the classic heroic quest structure.",0

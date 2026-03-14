@@ -1,0 +1,198 @@
+filename,primary_narrative_model,primary_score,models_evaluated,word_count,text_length,cost,cache_created,cache_read,input_tokens,output_tokens,raw_response,Genre Comedy
+Copy of Copy of 102_Miss_Lonelyhearts.txt,Genre Satire,4,1,23528,122541,0.0263136,0,0,30817,415,"I'll analyze Nathanael West's ""Miss Lonelyhearts"" using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - Introduces a dystopian urban landscape of suffering, with Miss Lonelyhearts working as an advice columnist surrounded by human misery and institutional cynicism
+Stage 2 (Revelation): [2] - Miss Lonelyhearts becomes acutely aware of the brutal social mechanisms of despair, exploitation, and spiritual emptiness through the desperate letters he receives
+Stage 3 (Awakening): [2] - Experiences a profound personal crisis, questioning the meaning of his work and seeking spiritual redemption amid overwhelming human suffering
+Stage 4 (Resistance): [2] - Attempts to resist the system's cynicism through various means: seeking religious meaning, trying to genuinely help people, rejecting Shrike's mockery
+Stage 5 (Crisis): [2] - Experiences intense psychological struggle, oscillating between compassion and despair, ultimately leading to a breakdown
+Stage 6 (Consequence): [2] - Suffers brutal consequences, culminating in his violent death at the hands of Peter Doyle
+Stage 7 (Final Revelation): [2] - Reveals the profound emptiness of modern urban life, the impossibility of genuine compassion, and the systemic nature of human suffering
+Stage 8 (Closure): [2] - Ends with a tragic, somber tone highlighting the futility of individual attempts to combat systemic despair
+
+StageTotal: 16/16
+Coverage: 1.0
+Score: 4
+Justification: The novel perfectly embodies the satirical pattern by exposing the spiritual bankruptcy of modern urban life, institutional cynicism, and the impossibility of genuine human connection.",0
+Copy of Copy of 135_the_maltese_falcon.txt,Genre Satire,4,1,68842,363438,0.078532,0,0,96270,379,"Based on the text of Dashiell Hammett's ""The Maltese Falcon"", here's the analysis for the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - Introduces a corrupt urban detective world where moral ambiguity and personal survival trump traditional ethics
+Stage 2 (Revelation): [2] - Characters progressively reveal the true nature of their motivations, exposing systemic moral bankruptcy
+Stage 3 (Awakening): [2] - Spade's gradual realization of the complete moral bankruptcy of those around him
+Stage 4 (Resistance): [2] - Spade's resistance is through strategic manipulation and refusing to be compromised by the criminal network
+Stage 5 (Crisis): [2] - The confrontation with Brigid O'Shaughnessy, where Spade must choose between personal feelings and professional integrity
+Stage 6 (Consequence): [2] - Brigid is turned over to the police, suffering the consequences of her actions
+Stage 7 (Final Revelation): [2] - The ultimate revelation of the falcon's worthlessness and the true nature of the characters' motivations
+Stage 8 (Closure): [2] - A somber reflection on the moral emptiness of the detective's world and the necessity of maintaining professional integrity
+
+StageTotal: 16/16
+Coverage: 1.0 (100%)
+Score: 4
+Justification: The novel provides a comprehensive deconstruction of moral systems through its exploration of personal and professional ethics in a corrupt urban environment, exposing the hollow nature of romantic ideals and criminal networks.",0
+Copy of Copy of 151_on_chesil_beach.txt,Genre Satire,4,1,36852,206321,0.0396984,0,0,47828,359,"Based on the text, here's the analysis for the Satire genre pattern:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - Detailed portrayal of 1960s English society, with rigid social norms, sexual repression, and class constraints
+Stage 2 (Revelation): [2] - Edward and Florence become aware of the oppressive social expectations around marriage, sexuality, and personal freedom
+Stage 3 (Awakening): [2] - Both characters realize the restrictive nature of their social conditioning, particularly around intimacy and personal expression
+Stage 4 (Resistance): [2] - Florence's proposal to allow Edward sexual freedom while maintaining their emotional connection is a direct challenge to societal marriage norms
+Stage 5 (Crisis): [2] - The disastrous wedding night and subsequent confrontation reveal the deep psychological damage of societal sexual repression
+Stage 6 (Consequence): [2] - Their marriage is destroyed by their inability to communicate and break free from societal expectations
+Stage 7 (Final Revelation): [2] - The narrative shows how rigid social norms can permanently damage human relationships and individual potential
+Stage 8 (Closure): [2] - The somber epilogue reflects on lost opportunities and the destructive power of social conventions
+
+StageTotal: 16/16
+Coverage: 1.0
+Score: 4
+Justification: The text provides a comprehensive critique of 1960s social constraints, particularly around sexuality, marriage, and personal freedom, exposing the psychological damage caused by repressive social norms.",0
+Copy of Copy of 2_mice-and-men.txt,Genre Satire,4,1,30900,155934,0.0363176,0,0,43737,332,"I'll analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - Establishes a harsh socio-economic environment of migrant workers, highlighting systemic inequality and powerlessness
+Stage 2 (Revelation): [2] - Characters become aware of the oppressive social system that marginalizes workers, minorities, and the mentally disabled
+Stage 3 (Awakening): [1] - Lennie and George partially recognize the system's injustice through their dream of independent land ownership
+Stage 4 (Resistance): [1] - Their dream of land ownership represents a subtle resistance against economic exploitation
+Stage 5 (Crisis): [2] - Tragic confrontation with the system's brutal mechanisms, culminating in Lennie's death
+Stage 6 (Consequence): [2] - Lennie's fatal destruction and George's subsequent emotional devastation
+Stage 7 (Final Revelation): [2] - Exposes the impossibility of escape from systemic oppression and social violence
+Stage 8 (Closure): [2] - Ends with a profoundly somber reflection on powerlessness and predetermined social fate
+
+StageTotal: 14/16
+Coverage: 0.875
+Score: 4
+Justification: The text powerfully reveals the oppressive social system through its exploration of marginalized characters, systemic violence, and the crushing of individual dreams.",0
+Copy of Copy of 302_the_great_gatsby.txt,Genre Satire,3,1,49864,263842,0.0545712,0,0,65854,472,"I'll analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - The novel establishes a detailed social landscape of 1920s Long Island, exposing the moral bankruptcy of the wealthy elite through characters like Tom and Daisy Buchanan.
+
+Stage 2 (Revelation): [2] - The narrative progressively reveals the systemic corruption, social hypocrisy, and moral emptiness of the upper-class society, particularly through the characters' interactions and behaviors.
+
+Stage 3 (Awakening): [2] - Nick Carraway undergoes a personal awakening, becoming increasingly disillusioned with the social world he initially admired, recognizing the profound moral failings of the characters around him.
+
+Stage 4 (Resistance): [1] - Nick's resistance is subtle, primarily through his narrative perspective and ultimate rejection of the social milieu, though he doesn't actively challenge the system.
+
+Stage 5 (Crisis): [2] - The climactic confrontation between Gatsby, Tom, and Daisy represents a critical moment exposing the fundamental moral bankruptcy of the social system.
+
+Stage 6 (Consequence): [2] - The tragic consequences unfold through Myrtle's death, Gatsby's murder, and the ultimate consequence of the characters' carelessness and moral emptiness.
+
+Stage 7 (Final Revelation): [2] - The novel's conclusion provides a profound revelation about the American Dream's corruption and the hollow nature of wealth and social status.
+
+Stage 8 (Closure): [2] - The somber, reflective ending emphasizes the systemic nature of social corruption and the impossibility of truly escaping the past.
+
+StageTotal: 13/16
+Coverage: 0.81
+Score: 3
+
+Justification: The novel provides a devastating critique of 1920s American society, exposing its moral bankruptcy, social hypocrisy, and the corrosive nature of wealth through a meticulously constructed narrative that systematically deconstructs the illusion of the American Dream.",0
+Copy of Copy of 43_the_prime_of_miss_jean_brodie.txt,Genre Satire,4,1,40297,216690,0.04408720000000001,0,0,53254,371,"I'll analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - Establishes a rigid, oppressive educational system at Marcia Blaine School for Girls, with strict rules and conformist expectations
+
+Stage 2 (Revelation): [2] - Miss Brodie reveals the school's systemic limitations and her resistance to its narrow educational approach
+
+Stage 3 (Awakening): [2] - The Brodie set becomes aware of the school's restrictive mechanisms and Miss Brodie's alternative educational philosophy
+
+Stage 4 (Resistance): [2] - Miss Brodie actively subverts the school's traditional methods through her unconventional teaching and cultivating her special group of students
+
+Stage 5 (Crisis): [2] - Increasing conflict between Miss Brodie and the school administration, culminating in attempts to remove her
+
+Stage 6 (Consequence): [2] - Miss Brodie is ultimately forced to retire, betrayed by one of her own students
+
+Stage 7 (Final Revelation): [2] - Exposes the systemic hypocrisy of the educational institution and its power structures
+
+Stage 8 (Closure): [2] - Ends with a somber reflection on power, control, and individual resistance
+
+StageTotal: 16/16
+Coverage: 1.0
+Score: 4
+
+Justification: The text perfectly embodies a satirical critique of institutional control through Miss Brodie's resistance against a rigid educational system, ultimately revealing the complex power dynamics and the potential for individual rebellion within oppressive structures.",0
+Copy of Copy of 54_doyle-hound-383.txt,Genre Satire,4,1,60645,313723,0.06266240000000001,0,0,76573,351,"I'll analyze this text using the Satire pattern for narratology.
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - Detailed establishment of oppressive social/moral environment through the Baskerville legend and the moor's grim atmosphere
+Stage 2 (Revelation): [2] - Clear exposure of Stapleton's manipulative system and societal power structures
+Stage 3 (Awakening): [2] - Characters (Watson, Holmes, Sir Henry) progressively realize the systemic corruption and hidden mechanisms of control
+Stage 4 (Resistance): [2] - Holmes and Watson actively work to dismantle Stapleton's elaborate scheme
+Stage 5 (Crisis): [2] - Intense confrontation with the hound, representing the violent manifestation of systemic oppression
+Stage 6 (Consequence): [2] - Stapleton's destruction and exposure, demonstrating the potential consequences of challenging corrupt systems
+Stage 7 (Final Revelation): [2] - Complete unmasking of Stapleton's true identity and motivations
+Stage 8 (Closure): [2] - Somber reflection on human nature, power dynamics, and the persistence of hidden malevolence
+
+StageTotal: 16/16
+Coverage: 1.0
+Score: 4
+
+Justification: The novel systematically deconstructs social hierarchies, hereditary power, and individual manipulation through a meticulously constructed narrative that exposes the dark underpinnings of seemingly respectable societal structures.",0
+Copy of Copy of 55_giovannis_room.txt,Genre Satire,4,1,56006,288982,0.0587536,0,0,71597,369,"I'll analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - The story establishes a dystopian social environment of mid-20th century Paris, exposing the oppressive moral and sexual systems that marginalize and destroy individuals like Giovanni
+Stage 2 (Revelation): [2] - The protagonist David gradually reveals the brutal mechanisms of social control around sexuality, gender expectations, and societal hypocrisy
+Stage 3 (Awakening): [2] - David experiences a personal awakening about the destructive nature of societal norms, particularly around masculinity and sexual identity
+Stage 4 (Resistance): [1] - David's resistance is partial and conflicted, manifesting more through internal struggle than direct opposition
+Stage 5 (Crisis): [2] - The crisis emerges through Giovanni's murder and execution, symbolizing the violent consequences of social oppression
+Stage 6 (Consequence): [2] - David experiences profound psychological consequences, including guilt, alienation, and emotional destruction
+Stage 7 (Final Revelation): [2] - The final revelation exposes the systemic brutality of social institutions in controlling and destroying marginalized individuals
+Stage 8 (Closure): [2] - The story concludes with a somber reflection on power, control, and human resistance
+
+StageTotal: 15/16
+Coverage: 0.9375
+Score: 4
+
+Justification: The novel provides a devastating critique of societal systems controlling sexuality, gender, and personal identity, revealing how these oppressive structures destroy individual lives through psychological and physical violence.",0
+Copy of Copy of 67_the_catcher_in_the_rye.txt,Genre Satire,4,1,75465,375729,0.0785976,0,0,95957,458,"I'll analyze this text using the Satire pattern:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - Holden introduces a dystopian world of teenage alienation at Pencey Prep, revealing a society of phoniness, superficiality, and institutional hypocrisy.
+
+Stage 2 (Revelation): [2] - Holden becomes acutely aware of the oppressive social systems around him, particularly the phoniness of schools, adults, and societal expectations.
+
+Stage 3 (Awakening): [2] - Holden undergoes a profound personal awakening, recognizing the systemic dishonesty and superficiality of his environment, rejecting conventional social norms.
+
+Stage 4 (Resistance): [2] - He actively resists the system through rejection of school, social conventions, and adult expectations, choosing isolation and non-conformity.
+
+Stage 5 (Crisis): [2] - Holden experiences extreme psychological struggle, facing mental breakdown, alienation, and existential crisis while confronting societal pressures.
+
+Stage 6 (Consequence): [2] - He suffers significant personal consequences: potential institutionalization, social isolation, and psychological trauma.
+
+Stage 7 (Final Revelation): [2] - The narrative reveals the deeply entrenched nature of societal phoniness and the near-impossibility of genuine human connection.
+
+Stage 8 (Closure): [2] - The story concludes with a somber reflection on human alienation, with Holden's final advice being ""Don't ever tell anybody anything.""
+
+StageTotal: 16/16
+Coverage: 1.0 (100%)
+Score: 4
+
+Justification: The text represents a comprehensive satirical deconstruction of mid-20th century American social institutions, exposing their inherent phoniness through Holden's deeply personal and psychological critique. The narrative systematically dismantles educational, social, and cultural systems, revealing their fundamental dishonesty and emotional bankruptcy.",0
+Copy of Copy of 79_shopgirl.txt,Genre Satire,3,1,37348,205894,0.0405576,0,0,48907,358,"I'll analyze this text using the Satire pattern for narratology:
+
+=== MODEL EVALUATIONS ===
+Model: Genre Satire
+Stage 1 (Setting): [2] - Detailed portrayal of Los Angeles consumer culture, Neiman's department store, and the superficial social dynamics of Beverly Hills
+Stage 2 (Revelation): [2] - Mirabelle gradually becomes aware of the hollow social systems around her, particularly dating, consumer culture, and emotional manipulation
+Stage 3 (Awakening): [2] - Mirabelle's personal growth through her experiences with Ray Porter and Jeremy, realizing the systemic emotional disconnection
+Stage 4 (Resistance): [1] - Subtle resistance through her art, moving to San Francisco, and gradually reclaiming her agency
+Stage 5 (Crisis): [2] - Emotional crisis with Ray Porter's detached treatment and her subsequent depression
+Stage 6 (Consequence): [2] - Personal transformation, learning to value herself, moving away from toxic relationships
+Stage 7 (Final Revelation): [2] - Understanding that ""pain changes our lives"" and recognizing the systemic emotional manipulation in relationships
+Stage 8 (Closure): [2] - Reflective ending showing Mirabelle's growth and ultimate empowerment
+
+StageTotal: 13/16
+Coverage: 0.81
+Score: 3
+
+Justification: The novel systematically deconstructs contemporary dating, consumer, and emotional systems through Mirabelle's journey, revealing the hollow mechanisms of social interactions while ultimately showing her personal resilience and growth.",0

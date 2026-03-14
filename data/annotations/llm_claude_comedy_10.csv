@@ -1,0 +1,199 @@
+filename,primary_narrative_model,primary_score,models_evaluated,word_count,text_length,cost,cache_created,cache_read,input_tokens,output_tokens,raw_response,Genre Comedy
+Copy of Copy of 102_Miss_Lonelyhearts.txt,Genre Comedy,2,1,23528,122541,0.0256584,0,0,30503,314,"I'll analyze the text using the Comedy Pattern narrative structure:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 2
+Justification: The novel exhibits most comedy stages, though with a dark, satirical twist. The set-up introduces Miss Lonelyhearts and his advice column environment. The catalyst is the accumulation of desperate letters. Rising action involves his psychological struggles and interactions with Shrike. The climax occurs through his various attempts to find meaning, including religious and interpersonal encounters. The falling action shows his deteriorating mental state, and the resolution is ultimately tragic with his violent death.
+
+Stage Breakdown:
+1. Set Up: 2 (Clear establishment of protagonist and social environment)
+2. Catalyst: 2 (Letters and existential crisis)
+3. Rising Action: 2 (Psychological exploration and social interactions)
+4. Climax: 2 (Intense personal and spiritual confrontations)
+5. Falling Action: 1 (Gradual psychological disintegration)
+6. Resolution: 1 (Tragic ending with protagonist's death)
+7. Denouement: 0 (Abrupt conclusion without traditional wrap-up)
+
+The novel subverts traditional comedy by maintaining a dark, existential tone throughout, which explains why not all stages are fully realized.",2
+Copy of Copy of 135_the_maltese_falcon.txt,Genre Comedy,3,1,68842,363438,0.0780088,0,0,95956,311,"I'll analyze the text using the Comedy genre pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 11/14
+Coverage: 0.79
+Score: 3
+Justification: The novel follows most comedy stages with strong narrative progression. The Set Up introduces Sam Spade and his detective agency, the Catalyst is the Wonderly case, Rising Action involves complex interactions and misunderstandings, the Climax occurs with the falcon's revelation as a fake, Falling Action shows characters resolving conflicts, and the Resolution demonstrates characters ending in a new equilibrium, with Spade turning in Brigid despite their relationship.
+
+Stage Breakdown:
+1. Set Up: 2 (Clear introduction of characters and detective agency environment)
+2. Catalyst: 2 (Miss Wonderly's case disrupts Spade's routine)
+3. Rising Action: 2 (Complex plotting, witty exchanges, investigations)
+4. Climax: 2 (Falcon revealed as fake, relationships dramatically shift)
+5. Falling Action: 2 (Characters deal with consequences of revelations)
+6. Resolution: 2 (New understanding, Spade turns in Brigid)
+7. Denouement: 1 (Brief glimpse of aftermath in office scene)
+
+The high coverage and strong stage development justify the Score of 3.",3
+Copy of Copy of 151_on_chesil_beach.txt,Genre Comedy,3,1,36852,206321,0.0391312,0,0,47514,280,"I'll analyze this text using the Comedy genre pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The text strongly demonstrates most comedy stages, including a clear social setup, unexpected catalyst (wedding night tensions), rising action through misunderstandings, a dramatic climax of sexual and emotional miscommunication, falling action of their beach argument, and a resolution through permanent separation.
+
+Stage Breakdown:
+1. Set Up (2/2): Detailed introduction of Edward and Florence's social/personal backgrounds
+2. Catalyst (2/2): Sexual encounter failure on wedding night
+3. Rising Action (2/2): Escalating tensions, miscommunications about intimacy
+4. Climax (2/2): Explosive beach argument revealing fundamental incompatibilities
+5. Falling Action (1/2): Separation and divorce proceedings
+6. Resolution (1/2): Partial resolution through life trajectories
+7. Denouement (0/2): Limited reflection on missed opportunities
+
+The text captures the comedy genre's structural essence through social expectations, misunderstandings, and ultimately transformative personal revelations, though with a more tragic undertone than traditional comedy.",3
+Copy of Copy of 2_mice-and-men.txt,Genre Comedy,2,1,30900,155934,0.0359344,0,0,43423,299,"=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 2
+Justification: While the text is a tragic novel and not a comedy, we can metaphorically analyze its structural progression. The story establishes characters and their social environment, experiences a catalyst (Lennie's actions), rises in tension, reaches a climactic moment with Curley's wife's death, falls into resolution with George's decision, and concludes with a devastating denouement.
+
+Stages Evaluation:
+1. Set Up: 2 (Clear introduction of George and Lennie's relationship and social context)
+2. Catalyst: 2 (Lennie's accidental killing of Curley's wife)
+3. Rising Action: 2 (Tension builds around Lennie's potential capture)
+4. Climax: 2 (Moment of Curley's wife's death)
+5. Falling Action: 1 (George's decision and preparation to handle the situation)
+6. Resolution: 1 (George's mercy killing of Lennie)
+7. Denouement: 0 (Abrupt ending without traditional wrap-up)
+
+The metaphorical application of comedy structure reveals the story's underlying narrative progression, despite its tragic nature.",2
+Copy of Copy of 302_the_great_gatsby.txt,Genre Comedy,3,1,49864,263842,0.053572,0,0,65540,285,"I'll analyze this text using the Comedy Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The novel follows most comedy stages with strong character development, social critique, and a complex exploration of misunderstandings and social expectations, particularly around wealth, love, and social mobility.
+
+Stage Breakdown:
+1. Set Up (2/2): Introduces Nick Carraway, social environment of Long Island, characters' backgrounds and social dynamics
+2. Catalyst (2/2): Gatsby's parties and his mysterious past disrupt social norms
+3. Rising Action (2/2): Characters explore relationships, misunderstandings, and social tensions
+4. Climax (1/2): Confrontation in Plaza Hotel reveals relationship complexities
+5. Falling Action (1/2): Aftermath of Myrtle's death and Gatsby's murder
+6. Resolution (1/2): Characters return to their original social positions
+7. Denouement (1/2): Nick's reflective conclusion about the characters and American dream
+
+The novel subverts traditional comedy by introducing tragic elements, making it a complex, satirical exploration of social dynamics in 1920s America.",3
+Copy of Copy of 43_the_prime_of_miss_jean_brodie.txt,Genre Comedy,3,1,40297,216690,0.043592,0,0,52940,310,"Let me analyze this text using the Comedy Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: The text follows most comedy stages, with a strong setup of Miss Brodie's unique teaching style, a catalyst in her unconventional relationships, rising action through her manipulation of students, a climax in her potential betrayal, falling action in her retirement, and resolution in the students' later reflections.
+
+Stage Breakdown:
+1. Set Up (2/2): Detailed introduction of Miss Brodie, her teaching style, and the Brodie set
+2. Catalyst (2/2): Miss Brodie's unusual relationships and educational philosophy disrupt school norms
+3. Rising Action (2/2): Increasing tensions around Miss Brodie's personal life and influence
+4. Climax (1/2): Partial revelation of her potential betrayal, somewhat muted
+5. Falling Action (2/2): Consequences of her actions play out through students' lives
+6. Resolution (1/2): Partial resolution with her retirement and students' later reflections
+7. Denouement (0/2): Minimal wrap-up of ultimate consequences
+
+The score of 3 reflects the strong coverage of comedy stages, with some nuanced interpretations of traditional comic structure.",3
+Copy of Copy of 54_doyle-hound-383.txt,Genre Comedy,3,1,60645,313723,0.062207200000000004,0,0,76259,300,"I'll analyze this text using the Comedy genre pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71 (10/14)
+Score: 3
+Justification: The text demonstrates strong narrative progression through comedy's structural stages, including a clear setup of characters and social environment, a catalyst disrupting routine, rising action with misunderstandings and plotting, a climactic revelation, falling action resolving conflicts, and a final resolution that provides deeper understanding.
+
+Stage Breakdown:
+1. Set Up (2/2): Introduces Sherlock Holmes, Watson, and the Baskerville mystery context
+2. Catalyst (2/2): Sir Henry's arrival and the mysterious warning letter
+3. Rising Action (2/2): Investigation, gathering clues, exploring relationships
+4. Climax (2/2): Revelation of Stapleton's true identity and murderous plot
+5. Falling Action (1/2): Pursuit and confrontation with Stapleton
+6. Resolution (1/2): Stapleton's death, Sir Henry's survival
+7. Denouement (0/2): Minimal reflection on broader implications
+
+The narrative follows comedy's structural pattern, though with a darker, detective fiction twist, which slightly reduces the denouement's traditional lightheartedness.",3
+Copy of Copy of 55_giovannis_room.txt,Genre Comedy,3,1,56006,288982,0.0581904,0,0,71283,291,"Let me analyze this text using the Comedy genre pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 3
+Justification: While the text follows a complex narrative arc, it captures key comedic stages: the social environment is established (David's life in Paris), a catalyst disrupts the routine (meeting Giovanni), rising action involves misunderstandings and emotional tensions, the climax reveals deep personal conflicts, falling action shows relationship disintegration, and resolution involves David's ultimate separation from both Giovanni and Hella.
+
+Stage Breakdown:
+1. Set Up: 2 (Clear establishment of social/personal context)
+2. Catalyst: 2 (Meeting Giovanni dramatically changes David's life)
+3. Rising Action: 2 (Complex emotional and sexual tensions)
+4. Climax: 2 (Confrontations with Giovanni and Hella)
+5. Falling Action: 1 (Gradual relationship breakdown)
+6. Resolution: 1 (David's departure and self-reflection)
+7. Denouement: 0 (Minimal wrap-up of future implications)
+
+The text is more tragic than traditional comedy, but maintains comedic structural elements of social disruption and personal transformation.",3
+Copy of Copy of 67_the_catcher_in_the_rye.txt,Genre Comedy,3,1,75465,375729,0.07774640000000001,0,0,95643,308,"Let me analyze this text using the Comedy genre pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 11/14
+Coverage: 0.79
+Score: 3
+Justification: The novel follows most comedy stages with strong character development, social disruption through Holden's perspective, rising tensions through his interactions, a climactic confrontation with societal expectations, and a resolution involving his sister Phoebe that provides emotional transformation and understanding.
+
+Stage Breakdown:
+1. Set Up (2/2): Holden introduces his school and social environment, establishing his alienation and perspective
+2. Catalyst (2/2): Getting expelled from Pencey Prep disrupts Holden's life trajectory
+3. Rising Action (2/2): Holden's wanderings through New York and interactions reveal increasing emotional complexity
+4. Climax (2/2): Confrontations with Sally Hayes and Mr. Antolini represent peak tension
+5. Falling Action (1/2): Holden's interactions with Phoebe start resolving emotional conflicts
+6. Resolution (1/2): Carousel scene suggests potential healing and emotional growth
+7. Denouement (1/2): Reflective ending hints at future possibilities
+
+The text demonstrates a strong comedic structure focused on social critique, personal transformation, and the protagonist's journey toward self-understanding.",3
+Copy of Copy of 79_shopgirl.txt,Genre Comedy,2,1,37348,205894,0.040070400000000006,0,0,48593,299,"I'll analyze this text using the Comedy genre pattern.
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Comedy
+StageTotal: 10/14
+Coverage: 0.71
+Score: 2
+Justification: The text follows most comedy stages, with strong Set Up (Mirabelle's character introduction), Catalyst (meeting Ray Porter), Rising Action (their complicated relationship), Climax (Ray's infidelity), Falling Action (Mirabelle's move to San Francisco), and Resolution (finding Jeremy). The Denouement is particularly strong, showing Mirabelle's growth and reconciliation with her past.
+
+Stage Breakdown:
+1. Set Up: 2 (Detailed introduction of Mirabelle's life and character)
+2. Catalyst: 2 (Ray Porter's unexpected glove gift and dinner invitation)
+3. Rising Action: 2 (Complex dating dynamics with Ray and Jeremy)
+4. Climax: 2 (Ray's confession of sleeping with another woman)
+5. Falling Action: 1 (Mirabelle's transition to San Francisco)
+6. Resolution: 2 (Finding Jeremy and personal growth)
+7. Denouement: 1 (Reflective conversation with Ray)
+
+The score of 2 reflects the substantial coverage of comedy structural elements.",2

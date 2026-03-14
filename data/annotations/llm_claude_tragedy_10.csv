@@ -1,0 +1,212 @@
+filename,primary_narrative_model,primary_score,models_evaluated,word_count,text_length,cost,cache_created,cache_read,input_tokens,output_tokens,raw_response,Genre Comedy,parse_error
+Copy of Copy of 102_Miss_Lonelyhearts.txt,Tragedy Pattern,4.0,1,23528,122541,0.025592,0,0,30460,306,"I'll analyze Nathanael West's ""Miss Lonelyhearts"" using the Tragedy Pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Tragedy Pattern
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The novel follows the tragic trajectory almost perfectly, with the protagonist experiencing a profound psychological and spiritual journey marked by increasing despair and ultimate destruction.
+
+Stage Breakdown:
+1. Normalcy (2/2): Miss Lonelyhearts begins as an advice columnist, living an ordinary urban life.
+2. Catalyst (2/2): The traumatic letters he receives disrupt his emotional equilibrium.
+3. Awakening (2/2): He begins questioning his purpose and seeking spiritual meaning.
+4. Confrontation (2/2): Internal conflicts emerge about suffering, faith, and human pain.
+5. Crisis (2/2): He experiences a pivotal religious/existential moment of potential transformation.
+6. Downfall (1/2): His attempts to help others and find meaning lead to increasing psychological fragmentation.
+7. Final Act (1/2): His tragic end comes through violent destruction, symbolizing the impossibility of redemption.
+
+The novel powerfully demonstrates the tragic pattern through Miss Lonelyhearts' desperate search for meaning, ultimately crushed by the overwhelming suffering he encounters.",0,
+Copy of Copy of 135_the_maltese_falcon.txt,Tragedy,4.0,1,68842,363438,0.0779384,0,0,95913,302,"Based on the analysis of Dashiell Hammett's ""The Maltese Falcon"" using the Tragedy pattern, here's the evaluation:
+
+=== MODEL EVALUATIONS ===
+
+Model: Tragedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The novel follows a tragic trajectory where Sam Spade, despite his professional ethics and personal feelings, must sacrifice his relationship with Brigid O'Shaughnessy to maintain his moral and professional integrity. Her downfall is precipitated by her own murderous actions, leading to her inevitable betrayal and arrest.
+
+Stage Breakdown:
+1. Normalcy: 2 (Spade's established detective practice)
+2. Catalyst: 2 (Miles Archer's murder)
+3. Awakening: 2 (Spade's investigation reveals deeper complexities)
+4. Confrontation: 2 (Moral conflict with Brigid)
+5. Crisis: 2 (Decision to turn Brigid in)
+6. Downfall: 2 (Brigid's arrest)
+7. Final Act: 2 (Spade's professional duty trumps personal feelings)
+
+The high score reflects the novel's comprehensive exploration of tragic elements, particularly the protagonist's internal struggle between personal desire and professional responsibility.",0,
+Copy of Copy of 151_on_chesil_beach.txt,Tragedy,4.0,1,36852,206321,0.0393928,0,0,47471,354,"Let's analyze this text using the Tragedy pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Tragedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The novel follows a tragic arc with clear progression through stages of normalcy, catalyst, awakening, confrontation, crisis, downfall, and final act, centered on the protagonists' failed marriage and inability to communicate.
+
+Stage Evaluations:
+1. Normalcy (2/2): Edward and Florence's pre-marriage life is meticulously detailed, showing their individual backgrounds and courtship.
+
+2. Catalyst (2/2): Their wedding night becomes the disruptive event that challenges their relationship, revealing deep incompatibilities.
+
+3. Awakening (2/2): Florence realizes her sexual anxieties and attempts to propose an unconventional solution, showing a profound shift in perspective.
+
+4. Confrontation (2/2): Their beach argument exposes fundamental differences in understanding love, intimacy, and marriage.
+
+5. Crisis (2/2): Florence's proposal and Edward's violent rejection represent a pivotal moment of decision.
+
+6. Downfall (1/2): Their marriage collapses immediately, with Florence leaving and Edward refusing reconciliation. The score is slightly reduced due to the abruptness.
+
+7. Final Act (1/2): The aftermath shows their lifelong separation and missed opportunities, though the resolution feels somewhat muted.
+
+The text powerfully demonstrates how miscommunication, sexual incompatibility, and societal constraints can tragically derail a potentially loving relationship.",0,
+Copy of Copy of 2_mice-and-men.txt,Tragedy,4.0,1,30900,155934,0.035912,0,0,43380,302,"Let me analyze this text using the Tragedy pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Tragedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text follows the tragic arc almost perfectly, showing Lennie's gradual descent from innocence to catastrophic destruction.
+
+Stage Breakdown:
+1. Normalcy (2): George and Lennie are ranch workers with a dream of owning land
+2. Catalyst (2): Lennie's uncontrolled strength and mental limitations create tension
+3. Awakening (2): Growing awareness of their precarious social position
+4. Confrontation (2): Conflicts with Curley and Curley's wife reveal Lennie's dangerous potential
+5. Crisis (2): Lennie accidentally kills Curley's wife, forcing a pivotal decision
+6. Downfall (1): George realizes their dream is impossible and must destroy Lennie
+7. Final Act (1): George mercifully kills Lennie, ending their shared dream
+
+The story embodies classic tragic elements: a fundamentally good protagonist (Lennie) whose inherent flaws lead to his destruction, and a companion (George) who must make an impossible moral choice. The narrative demonstrates how systemic social limitations and individual psychological constraints can create an inevitable tragic outcome.",0,
+Copy of Copy of 302_the_great_gatsby.txt,Genre Tragedy,4.0,1,49864,263842,0.0535776,0,0,65497,295,"Let me analyze this text using the Tragedy pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Tragedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The novel follows a near-complete tragic arc, with Gatsby representing a protagonist whose fatal flaw (idealization of Daisy and the past) leads to his ultimate destruction.
+
+Stage Breakdown:
+1. Normalcy (2/2): Nick's initial description of his life and introduction to Gatsby's world
+2. Catalyst (2/2): Gatsby's reunion with Daisy disrupts the existing social order
+3. Awakening (2/2): Gatsby's realization of his dream and confrontation with Tom
+4. Confrontation (2/2): Intense conflict between Gatsby, Tom, and Daisy in the Plaza Hotel
+5. Crisis (2/2): Myrtle's death and Wilson's subsequent actions
+6. Downfall (1/2): Gatsby's murder (partial score due to indirect causation)
+7. Final Act (1/2): Minimal resolution, with Nick's reflective epilogue
+
+The high score reflects the comprehensive tragic structure, where Gatsby's idealistic pursuit leads to his own destruction through systemic social forces and personal illusions.",0,
+Copy of Copy of 43_the_prime_of_miss_jean_brodie.txt,Tragedy,4.0,1,40297,216690,0.043665600000000006,0,0,52897,337,"Let me analyze this text using the Tragedy pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Tragedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text follows a near-complete tragic arc, with Miss Brodie experiencing a profound fall from grace through her own complex machinations and ultimate betrayal.
+
+Stage Breakdown:
+1. Normalcy (2/2): Miss Brodie begins as a confident, charismatic teacher with her ""set"" of chosen students.
+
+2. Catalyst (2/2): Her unconventional teaching methods and personal obsessions begin to disrupt the school's standard operations.
+
+3. Awakening (2/2): Miss Brodie becomes increasingly aware of her own ""prime"" and her desire to shape her students' destinies.
+
+4. Confrontation (2/2): She struggles against the school authorities and her own complex desires, particularly regarding Teddy Lloyd and her students.
+
+5. Crisis (2/2): She attempts to manipulate Rose and Sandy into specific life trajectories, revealing her deep personal conflicts.
+
+6. Downfall (1/2): Her political leanings and inappropriate relationships lead to her forced retirement.
+
+7. Final Act (1/2): She is ultimately betrayed by Sandy, dying without understanding why, symbolizing her tragic misunderstanding of loyalty and manipulation.
+
+The text powerfully demonstrates how Miss Brodie's own hubris and complex psychological motivations lead to her ultimate destruction.",0,
+Copy of Copy of 54_doyle-hound-383.txt,,,0,60645,313723,0.0621168,0,0,76216,286,"Based on the text, here's the analysis of the Tragedy pattern for ""The Hound of the Baskervilles"":
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Tragedy
+StageTotal: 12/14
+Coverage: 0.86 (very high)
+Score: 4 (matches Coverage threshold)
+
+Justification:
+1. Stage of Normalcy (2/2): Sir Henry arrives in England unaware of the family curse
+2. Catalyst (2/2): Learning about the Baskerville legend and mysterious warnings
+3. Awakening (2/2): Sir Henry's growing awareness of potential danger
+4. Confrontation (2/2): Conflicts with Stapleton and the supernatural threat
+5. Crisis (2/2): Decision to stay at Baskerville Hall despite warnings
+6. Downfall (1/2): Partial - Sir Henry is attacked but survives
+7. Final Act (1/2): Partial resolution with Stapleton's death, but significant psychological trauma remains
+
+The story follows a tragic trajectory with a protagonist facing a hereditary curse, experiencing mounting psychological tension, and ultimately suffering significant personal loss and trauma. While Sir Henry survives, the narrative contains strong tragic elements of fate, inherited doom, and psychological destruction.",0,Model or Score not found in response
+Copy of Copy of 55_giovannis_room.txt,Genre Tragedy,4.0,1,56006,288982,0.058108,0,0,71240,279,"Let me analyze this text using the Tragedy pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Genre Tragedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The novel follows a complete tragic arc with profound psychological transformation. The protagonist experiences a devastating fall from grace through his relationship with Giovanni, marked by self-denial, betrayal, and ultimate moral destruction.
+
+Stage Breakdown:
+1. Normalcy (2/2): David's initial life in Paris, unaware of impending emotional transformation
+2. Catalyst (2/2): Meeting Giovanni disrupts his understanding of sexuality and identity
+3. Awakening (2/2): David begins questioning his sexual identity and societal expectations
+4. Confrontation (2/2): Internal conflict between desire, societal norms, and self-perception
+5. Crisis (2/2): Decision to leave Giovanni and suppress his true self
+6. Downfall (1/2): Gradual emotional disintegration and loss of connection with Hella
+7. Final Act (1/2): Partial recognition of personal tragedy, but incomplete redemption
+
+The novel powerfully depicts a tragic journey of self-destruction through psychological repression and societal conformity.",0,
+Copy of Copy of 67_the_catcher_in_the_rye.txt,Tragedy,4.0,1,75465,375729,0.07762400000000001,0,0,95600,286,"Let me analyze this text using the Tragedy pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Tragedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The novel follows a tragic trajectory where Holden Caulfield experiences a profound psychological and emotional descent, characterized by disillusionment, alienation, and a struggle with societal expectations.
+
+Stage Breakdown:
+1. Normalcy (2/2): Holden's life at Pencey Prep, before his expulsion
+2. Catalyst (2/2): Being expelled from school, triggering his existential crisis
+3. Awakening (2/2): Recognizing the phoniness of adult world and institutions
+4. Confrontation (2/2): Internal conflicts about growing up, authenticity, and human connections
+5. Crisis (2/2): Decision to run away, confronting his own mental instability
+6. Downfall (1/2): Emotional breakdown, isolation, and potential mental health crisis
+7. Final Act (1/2): Ambiguous resolution, hints of potential recovery or continued struggle
+
+The novel powerfully embodies the tragic pattern, with Holden's journey representing a psychological tragedy of lost innocence and alienation.",0,
+Copy of Copy of 79_shopgirl.txt,Tragedy,4.0,1,37348,205894,0.039976,0,0,48550,284,"Let's analyze this text using the Tragedy pattern:
+
+=== MODEL EVALUATIONS ===
+
+Model: Tragedy
+StageTotal: 12/14
+Coverage: 0.86
+Score: 4
+Justification: The text follows a classic tragic arc with Mirabelle experiencing profound personal loss, psychological struggle, and eventual transformation through suffering.
+
+Stage Breakdown:
+1. Normalcy (2/2): Mirabelle's routine life at Neiman's, living alone in LA
+2. Catalyst (2/2): Meeting Ray Porter, beginning a complicated relationship
+3. Awakening (2/2): Recognizing her emotional vulnerability and depression
+4. Confrontation (2/2): Struggling with Ray's emotional unavailability 
+5. Crisis (2/2): Ray's infidelity and subsequent emotional devastation
+6. Downfall (1/2): Experiencing deep depression and sense of unworthiness
+7. Final Act (1/2): Gradual self-reconstruction in San Francisco, finding healing
+
+The narrative traces Mirabelle's psychological journey from isolation to self-discovery, marked by pain, betrayal, and ultimately, personal growth. Her transformation emerges through suffering, embodying the tragic pattern of loss leading to profound personal understanding.",0,
