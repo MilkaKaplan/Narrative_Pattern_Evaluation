@@ -62,8 +62,8 @@ narrative-pattern-evaluation/
     ├── table1_human_llm.xlsx
     ├── table2_human_patternteller_llm.xlsx
     ├── table3_inter_llm.xlsx
-    ├── table4_mtlasso_concepts.csv
-    └── table5_stability.csv
+    ├── table5_mtlasso_concepts.csv
+    └── table6_stability.csv
 ```
 
 ---
