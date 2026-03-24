@@ -35,14 +35,15 @@ narrative-pattern-evaluation/
 │   │   ├── 054_doyle-hound-383.txt
 │   │   └── ...
 │   ├── annotations/
-│   │   ├── human_general.csv        # Human scores (general genre knowledge)
-│   │   ├── human_patternteller.csv  # Human scores (PatternTeller framework)
-│   │   ├── llm_claude_comedy.csv           # Claude PatternTeller scores comedy
-│   │   ├── llm_claude_mystery.csv          # Claude PatternTeller scores mystery
+│   │   ├── human_general.csv               # Human scores (general genre knowledge)
+│   │   ├── human_patternteller.csv         # Human scores (PatternTeller framework)
+│   │   ├── llm_claude_comedy.csv                # Claude PatternTeller scores comedy
+│   │   ├── llm_claude_mystery.csv               # Claude PatternTeller scores mystery
 │   │   ├── ...
 
-│   │   ├── llm_gemini.csv           # Gemini PatternTeller scores
-│   │   └── llm_deepseek.csv         # DeepSeek PatternTeller scores
+│   │   ├── llm_gemini.csv                  # Gemini PatternTeller scores
+│   │   └── llm_deepseek.csv                # DeepSeek PatternTeller scores
+│   │   └── scores_all_Claude_PatternTeller # Claude PatternTeller scores (all stages)
 │   └── raw_llm_outputs/
 │       └── animal_farm_tragedy.txt  # Example raw LLM output
 ├── prompts/
