@@ -60,9 +60,6 @@ narrative-pattern-evaluation/
 │   ├── classification_metrics.xlsx  # Precision, Recall, F1 (Tables 1–3)
 │   └── multitask_lasso.py           # MultiTaskLasso + stability selection
 └── results/
-    ├── table1_human_llm.xlsx
-    ├── table2_human_patternteller_llm.xlsx
-    ├── table3_inter_llm.xlsx
     ├── table5_mtlasso_concepts.csv
     └── table6_stability.csv
 ```
