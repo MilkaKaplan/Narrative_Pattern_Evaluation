@@ -4,8 +4,8 @@ Evaluating Narrative Genre Patterns in Award-Winning Novellas using LLMs
 This repository contains the data, code, and results for the paper:
 
 > *"Evaluating Narrative Genre Patterns in Award-Winning Novellas"*  
-> [Milka Kaplan, Armin Shmilovici, Mark Last], Text2Story 2026 Workshop  
-> [Link to paper when available]
+> [Milka Kaplan, Armin Shmilovici, Mark Last], Proceedings of the Text2Story’26 Workshop, Delft (The Netherlands), 29-03-2026
+> [Kaplan, Milka, Armin Shmilovici, and Mark Last. "Structural Patterns in Award-Winning Novellas." (2026).]
 
 ---
 
